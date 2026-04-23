@@ -1,0 +1,52 @@
+{
+  "scenic_name": "中国科学技术馆",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "中国科学技术馆, 北京市, 中国",
+    "display_name": "中国科学技术馆, 湖景东路, 娘娘坟, 奥运村街道, 朝阳区, 北京市, 100120, 中国",
+    "osm_type": "way",
+    "osm_id": "161298694",
+    "lat": 40.00447,
+    "lng": 116.3925323
+  },
+  "candidates": [
+    {
+      "place_id": 203262499,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 161298694,
+      "lat": "40.0044700",
+      "lon": "116.3925323",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 0.395266902838586,
+      "addresstype": "tourism",
+      "name": "中国科学技术馆",
+      "display_name": "中国科学技术馆, 湖景东路, 娘娘坟, 奥运村街道, 朝阳区, 北京市, 100120, 中国",
+      "address": {
+        "tourism": "中国科学技术馆",
+        "road": "湖景东路",
+        "neighbourhood": "娘娘坟",
+        "suburb": "奥运村街道",
+        "city": "朝阳区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100120",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "中国科学技术馆",
+        "name:en": "China Science and Technology Museum",
+        "name:zh": "中国科学技术馆"
+      },
+      "boundingbox": [
+        "40.0037758",
+        "40.0053540",
+        "116.3908866",
+        "116.3935068"
+      ]
+    }
+  ]
+}

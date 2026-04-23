@@ -1,0 +1,80 @@
+{
+  "scenic_name": "慕田峪长城",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "慕田峪长城, 北京市, 中国",
+    "display_name": "慕田峪长城, 怀柔区, 北京市, 101405, 中国",
+    "osm_type": "way",
+    "osm_id": "85322148",
+    "lat": 40.4344246,
+    "lng": 116.563456
+  },
+  "candidates": [
+    {
+      "place_id": 203807228,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 85322148,
+      "lat": "40.4344246",
+      "lon": "116.5634560",
+      "category": "highway",
+      "type": "footway",
+      "place_rank": 27,
+      "importance": 0.42044889705287697,
+      "addresstype": "road",
+      "name": "慕田峪长城",
+      "display_name": "慕田峪长城, 怀柔区, 北京市, 101405, 中国",
+      "address": {
+        "road": "慕田峪长城",
+        "city": "怀柔区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "101405",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "慕田峪长城",
+        "name:ar": "سور الصين العظيم",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Mu Tian Yu Great Wall",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:it": "Grande muraglia cinese",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:mk": "Кинески ѕид",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sk": "Veľký čínsky múr",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:zh": "慕田峪长城",
+        "name:als": "Chinesische Mauer",
+        "name:azb": "چین دیواری",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:mzn": "چین گت دیوار",
+        "name:pnb": "چین دی کندھ",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:zh-Hans": "慕田峪长城",
+        "name:zh-Hant": "慕田峪長城",
+        "name:be-tarask": "Вялікая кітайская сьцяна"
+      },
+      "boundingbox": [
+        "40.4290451",
+        "40.4405384",
+        "116.5594443",
+        "116.5681775"
+      ]
+    }
+  ]
+}

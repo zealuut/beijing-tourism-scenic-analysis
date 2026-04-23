@@ -1,0 +1,87 @@
+{
+  "scenic_name": "北京天文馆",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "北京天文馆, 北京市, 中国",
+    "display_name": "北京天文馆, 西直门外南路, 展览路街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+    "osm_type": "way",
+    "osm_id": "78051172",
+    "lat": 39.9356769,
+    "lng": 116.3308878
+  },
+  "candidates": [
+    {
+      "place_id": 204046749,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 78051172,
+      "lat": "39.9356769",
+      "lon": "116.3308878",
+      "category": "amenity",
+      "type": "planetarium",
+      "place_rank": 30,
+      "importance": 0.4164918895942647,
+      "addresstype": "amenity",
+      "name": "北京天文馆",
+      "display_name": "北京天文馆, 西直门外南路, 展览路街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "address": {
+        "amenity": "北京天文馆",
+        "road": "西直门外南路",
+        "suburb": "展览路街道",
+        "city": "西城区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100032",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "北京天文馆"
+      },
+      "boundingbox": [
+        "39.9354146",
+        "39.9359392",
+        "116.3299694",
+        "116.3318062"
+      ]
+    },
+    {
+      "place_id": 204799657,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4743689135,
+      "lat": "39.9359608",
+      "lon": "116.3303526",
+      "category": "amenity",
+      "type": "planetarium",
+      "place_rank": 30,
+      "importance": 8.344167238875436e-05,
+      "addresstype": "amenity",
+      "name": "北京天文馆",
+      "display_name": "北京天文馆, 138, 西直门外大街, 展览路街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "address": {
+        "amenity": "北京天文馆",
+        "house_number": "138",
+        "road": "西直门外大街",
+        "suburb": "展览路街道",
+        "city": "西城区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100032",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "北京天文馆",
+        "name:en": "Beijing Planetarium",
+        "name:ru": "Планетарий",
+        "name:zh": "北京天文馆"
+      },
+      "boundingbox": [
+        "39.9359108",
+        "39.9360108",
+        "116.3303026",
+        "116.3304026"
+      ]
+    }
+  ]
+}

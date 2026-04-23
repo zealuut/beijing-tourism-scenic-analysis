@@ -1,0 +1,208 @@
+version: 3
+task_type: issue_tags_only
+label_order:
+  - staff_service
+  - service_process
+  - guide_explanation
+  - queue_wait
+  - reservation_entry
+  - ticket_price
+  - traffic_access
+  - facility_hygiene
+  - crowding
+  - commercialization
+  - platform_transaction
+labels:
+  staff_service:
+    name_cn: 现场人员服务态度
+    definition: 评论工作人员、客服、检票员等现场服务人员的态度、耐心、响应意愿和帮助程度。
+    include:
+      - 态度差
+      - 爱答不理
+      - 不耐烦
+      - 推诿
+      - 无人回应
+    exclude:
+      - 只是流程组织混乱时优先看 service_process
+      - 诱导消费、卖货、商拍优先看 commercialization
+    keyword_hints:
+      - 工作人员
+      - 客服
+      - 检票员
+      - 态度
+      - 耐心
+      - 回复
+  service_process:
+    name_cn: 服务流程与组织衔接
+    definition: 评论集合安排、组织衔接、安检检票流程、执行效率、动线安排是否顺畅。
+    include:
+      - 行程安排混乱
+      - 集合衔接差
+      - 检票安检流程差
+      - 执行效率低
+    exclude:
+      - 单纯排队很久优先看 queue_wait
+      - 单纯态度差优先看 staff_service
+    keyword_hints:
+      - 流程
+      - 安排
+      - 组织
+      - 集合
+      - 安检
+      - 检票
+  guide_explanation:
+    name_cn: 讲解与导览质量
+    definition: 评论导游、讲解员、语音导览的专业度、清晰度、信息量、节奏和表达效果。
+    include:
+      - 讲解不清楚
+      - 导游不专业
+      - 讲得太快或太乱
+      - 语音导览无效
+    exclude:
+      - 只是提到有导游或有讲解但无抱怨时不打
+    keyword_hints:
+      - 导游
+      - 讲解
+      - 解说
+      - 语音导览
+      - 老师
+  queue_wait:
+    name_cn: 排队等待
+    definition: 评论排队、等候、等待时间过长，以及排队造成的体验损失。
+    include:
+      - 排队很久
+      - 等候时间长
+      - 队伍很长
+    exclude:
+      - 景区内部只是人很多更偏 crowding
+    keyword_hints:
+      - 排队
+      - 等待
+      - 等了
+      - 队伍
+      - 很久
+  reservation_entry:
+    name_cn: 预约购票与入园核验
+    definition: 评论景区预约、购票、实名、二维码、入口、入场、检票、核验、入园规则本身的问题。
+    include:
+      - 预约困难
+      - 抢票失败
+      - 二维码入场异常
+      - 入园规则不清
+      - 检票核验有问题
+    exclude:
+      - 第三方平台订单退款核销问题优先看 platform_transaction
+    keyword_hints:
+      - 预约
+      - 购票
+      - 买票
+      - 抢票
+      - 二维码
+      - 入园
+      - 入场
+      - 检票
+      - 核验
+  ticket_price:
+    name_cn: 门票价格与性价比
+    definition: 评论门票、联票、附加收费、价格高低以及性价比是否合理。
+    include:
+      - 门票太贵
+      - 附加收费不合理
+      - 性价比低
+    exclude:
+      - 只是平台退款失败不算 ticket_price
+    keyword_hints:
+      - 门票
+      - 票价
+      - 联票
+      - 太贵
+      - 性价比
+      - 收费
+  traffic_access:
+    name_cn: 交通到达与停车换乘
+    definition: 评论到达景区的交通便利性，包括地铁、公交、打车、停车、换乘和找路。
+    include:
+      - 交通不便
+      - 停车困难
+      - 换乘麻烦
+      - 找路困难
+    keyword_hints:
+      - 交通
+      - 地铁
+      - 公交
+      - 打车
+      - 停车
+      - 换乘
+      - 找路
+  facility_hygiene:
+    name_cn: 配套设施与环境卫生
+    definition: 评论厕所、卫生间、休息区、座椅、垃圾、异味、基础设施和环境清洁等问题。
+    include:
+      - 厕所脏乱
+      - 卫生差
+      - 休息设施不足
+      - 垃圾异味
+    keyword_hints:
+      - 厕所
+      - 卫生间
+      - 垃圾
+      - 异味
+      - 脏
+      - 洗手间
+      - 休息区
+  crowding:
+    name_cn: 拥挤度与人流压力
+    definition: 评论景区内部人流过密、过于拥挤、空间拥堵、嘈杂或被挤压的体验。
+    include:
+      - 人太多
+      - 太挤
+      - 人山人海
+      - 空间拥堵
+    exclude:
+      - 排队时长很长优先看 queue_wait
+    keyword_hints:
+      - 人多
+      - 拥挤
+      - 太挤
+      - 人山人海
+      - 挤
+      - 嘈杂
+  commercialization:
+    name_cn: 商业化与消费干扰
+    definition: 评论景区卖货、商拍、旅拍、强推消费、纪念品、文创或餐饮对游览体验的干扰。
+    include:
+      - 推销
+      - 商拍旅拍
+      - 卖纪念品
+      - 商业化过重
+    exclude:
+      - 只是态度不好优先看 staff_service
+    keyword_hints:
+      - 商业化
+      - 商拍
+      - 旅拍
+      - 推销
+      - 纪念品
+      - 文创
+      - 小卖部
+  platform_transaction:
+    name_cn: 平台交易与履约
+    definition: 评论携程、Trip.com 或其他第三方平台的订单、退款、出票、核销、二维码失效和平台履约问题。
+    include:
+      - 退款失败
+      - 核销失败
+      - 平台出票异常
+      - 平台二维码失效
+      - 平台客服不处理
+    exclude:
+      - 景区现场预约入园规则问题优先看 reservation_entry
+    keyword_hints:
+      - 携程
+      - trip.com
+      - 平台
+      - 订单
+      - 退款
+      - 退票
+      - 出票
+      - 核销
+      - 二维码

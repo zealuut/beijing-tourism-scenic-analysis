@@ -1,0 +1,980 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:11:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 848013305,
+      "lat": 40.4338799,
+      "lon": 116.5586719,
+      "tags": {
+        "aerialway": "station",
+        "amenity": "toilets",
+        "fee": "no",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 939115004,
+      "lat": 40.4339019,
+      "lon": 116.563566,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456828795,
+      "lat": 40.4318638,
+      "lon": 116.5580435,
+      "tags": {
+        "information": "yes",
+        "name": "慕田峪长城",
+        "name:de": "Chinesische Mauer Mutianyu",
+        "name:en": "Mutianyu Great Wall",
+        "name:zh": "慕田峪长城",
+        "name:zh-Hans": "慕田峪长城",
+        "name:zh-Hant": "慕田峪長城",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "phone": "+86 10 6162 6873",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704492184,
+      "lat": 40.4234128,
+      "lon": 116.5489418,
+      "tags": {
+        "bus": "yes",
+        "name": "慕田峪办事处",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704492205,
+      "lat": 40.4283457,
+      "lon": 116.5561408,
+      "tags": {
+        "access": "no",
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704492301,
+      "lat": 40.4310651,
+      "lon": 116.5576402,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "check_date": "2025-07-10",
+        "drinking_water": "no",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "toilets:position": "seated;squat;urinal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704492474,
+      "lat": 40.4256787,
+      "lon": 116.5540468,
+      "tags": {
+        "amenity": "toilets",
+        "name": "慕田峪村净园卫生间",
+        "name:zh": "慕田峪村净园卫生间",
+        "name:zh-Hans": "慕田峪村净园卫生间",
+        "name:zh-Hant": "慕田峪村淨園衛生間"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1955863659,
+      "lat": 40.430172,
+      "lon": 116.5440657,
+      "tags": {
+        "bus": "yes",
+        "name": "北沟村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2978596315,
+      "lat": 40.4307384,
+      "lon": 116.5640918,
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3721939242,
+      "lat": 40.428739,
+      "lon": 116.5559012,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Mr. Yan",
+        "name:de": "Mr. Yan",
+        "name:en": "Mr. Yan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4116294061,
+      "lat": 40.4310972,
+      "lon": 116.556816,
+      "tags": {
+        "name": "过渡车站",
+        "name:en": "Visitor Shuttle Terminal",
+        "name:zh": "过渡车站",
+        "name:zh-Hans": "过渡车站",
+        "name:zh-Hant": "過渡車站",
+        "opening_hours": "07:20-19:00",
+        "public_transport": "platform",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4116294062,
+      "lat": 40.4323765,
+      "lon": 116.5586314,
+      "tags": {
+        "name:en": "Chinese Stone Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4116294063,
+      "lat": 40.4337999,
+      "lon": 116.5584213,
+      "tags": {
+        "amenity": "toilets",
+        "unisex": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4809683423,
+      "lat": 40.4397975,
+      "lon": 116.5590763,
+      "tags": {
+        "amenity": "toilets",
+        "opening_hours": "Mo-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5769604833,
+      "lat": 40.4311431,
+      "lon": 116.55776,
+      "tags": {
+        "name": "慕田峪长城",
+        "name:en": "Mutianyu Great Wall",
+        "name:zh": "慕田峪长城",
+        "name:zh-Hans": "慕田峪长城",
+        "name:zh-Hant": "慕田峪長城",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874401,
+      "lat": 40.4362542,
+      "lon": 116.5619705,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874403,
+      "lat": 40.4373576,
+      "lon": 116.5614569,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874405,
+      "lat": 40.4312067,
+      "lon": 116.5644005,
+      "tags": {
+        "amenity": "cafe",
+        "name": "咖啡",
+        "name:zh": "咖啡",
+        "name:zh-Hans": "咖啡",
+        "name:zh-Hant": "咖啡",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874407,
+      "lat": 40.4405467,
+      "lon": 116.5601379,
+      "tags": {
+        "board_type": "history",
+        "description": "The 14 watchtower",
+        "information": "board",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874408,
+      "lat": 40.4364698,
+      "lon": 116.5618849,
+      "tags": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874409,
+      "lat": 40.434292,
+      "lon": 116.5634268,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874410,
+      "lat": 40.4313289,
+      "lon": 116.5644229,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874412,
+      "lat": 40.4300424,
+      "lon": 116.5660127,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "check_date": "2025-07-10",
+        "check_date:wheelchair": "2025-07-10",
+        "fee": "no",
+        "opening_hours": "08:00-17:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874414,
+      "lat": 40.4362853,
+      "lon": 116.5619857,
+      "tags": {
+        "name": "Glass Ladder",
+        "name:en": "Glass Ladder",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874415,
+      "lat": 40.4335429,
+      "lon": 116.5586759,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874416,
+      "lat": 40.4279648,
+      "lon": 116.5555429,
+      "tags": {
+        "name": "Farmer House",
+        "name:en": "Farmer House",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874422,
+      "lat": 40.4344275,
+      "lon": 116.5607026,
+      "tags": {
+        "name": "Shopping area",
+        "organic": "no",
+        "shop": "convenience",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874427,
+      "lat": 40.4345542,
+      "lon": 116.5607413,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874428,
+      "lat": 40.4322916,
+      "lon": 116.5588295,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874429,
+      "lat": 40.429053,
+      "lon": 116.5680832,
+      "tags": {
+        "board_type": "history",
+        "check_date": "2025-07-10",
+        "description": "大教樓",
+        "information": "board",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874437,
+      "lat": 40.4342673,
+      "lon": 116.5634327,
+      "tags": {
+        "amenity": "cafe",
+        "smoking": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874438,
+      "lat": 40.4264291,
+      "lon": 116.5544532,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Let's Go Cafe and Homestay",
+        "name:en": "Let's Go Cafe and Homestay"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874439,
+      "lat": 40.4319603,
+      "lon": 116.5619307,
+      "tags": {
+        "note": "closed as of 2018",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893874441,
+      "lat": 40.4313663,
+      "lon": 116.5579699,
+      "tags": {
+        "check_date": "2025-07-10",
+        "information": "map",
+        "map_size": "site",
+        "map_type": "scheme",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6655041687,
+      "lat": 40.4246705,
+      "lon": 116.5526619,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7147080091,
+      "lat": 40.4306476,
+      "lon": 116.5640622,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7407702691,
+      "lat": 40.443508,
+      "lon": 116.556945,
+      "tags": {
+        "name": "Tower 17",
+        "name:en": "Tower 17",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10919375203,
+      "lat": 40.4388257,
+      "lon": 116.5782551,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "怀柔莲花池",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10919375204,
+      "lat": 40.4388169,
+      "lon": 116.578209,
+      "tags": {
+        "bus": "yes",
+        "name": "怀柔莲花池",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10919437405,
+      "lat": 40.4387905,
+      "lon": 116.5781515,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "怀柔莲花池",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10946143905,
+      "lat": 40.449273,
+      "lon": 116.5533457,
+      "tags": {
+        "name:ru": "Начало Нового участка",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491442,
+      "lat": 40.423207,
+      "lon": 116.5489055,
+      "tags": {
+        "bus": "yes",
+        "name": "慕田峪办事处",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491443,
+      "lat": 40.423179,
+      "lon": 116.5489588,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "慕田峪办事处",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491444,
+      "lat": 40.4262538,
+      "lon": 116.5546639,
+      "tags": {
+        "bus": "yes",
+        "name": "慕田峪村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491445,
+      "lat": 40.4261955,
+      "lon": 116.5547138,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "慕田峪村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491451,
+      "lat": 40.4296043,
+      "lon": 116.5558746,
+      "tags": {
+        "bus": "yes",
+        "name": "慕田峪长城",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491453,
+      "lat": 40.4295452,
+      "lon": 116.5558498,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "慕田峪长城",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135491456,
+      "lat": 40.4234186,
+      "lon": 116.5488818,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "慕田峪办事处",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11142874444,
+      "lat": 40.4301884,
+      "lon": 116.5440271,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "北沟村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301538169,
+      "lat": 40.4309411,
+      "lon": 116.5644116,
+      "tags": {
+        "name:en": "Great Wall",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908633301,
+      "lat": 40.4401569,
+      "lon": 116.5594113,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908846401,
+      "lat": 40.4480885,
+      "lon": 116.5538464,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908846402,
+      "lat": 40.4404703,
+      "lon": 116.5602487,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12921656801,
+      "lat": 40.4307653,
+      "lon": 116.5642741,
+      "tags": {
+        "name": "Muraille de Chine Mutianyau",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "way",
+      "id": 86113556,
+      "center": {
+        "lat": 40.4315105,
+        "lon": 116.5614756
+      },
+      "tags": {
+        "attraction": "summer_toboggan",
+        "name": "滑道",
+        "name:en": "Slideway",
+        "name:zh": "滑道",
+        "name:zh-Hans": "滑道",
+        "name:zh-Hant": "滑道",
+        "sport": "toboggan",
+        "tourism": "attraction",
+        "website": "http://www.mutianyugreatwall.com/en/home"
+      }
+    },
+    {
+      "type": "way",
+      "id": 92221308,
+      "center": {
+        "lat": 40.4304916,
+        "lon": 116.5569189
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "赛百味",
+        "brand:en": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:zh": "赛百味",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "赛百味",
+        "name:en": "Subway",
+        "name:zh": "赛百味",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217772,
+      "center": {
+        "lat": 40.4310216,
+        "lon": 116.5569853
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217773,
+      "center": {
+        "lat": 40.4314271,
+        "lon": 116.5567588
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217775,
+      "center": {
+        "lat": 40.4293837,
+        "lon": 116.5509478
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217776,
+      "center": {
+        "lat": 40.4315009,
+        "lon": 116.5576332
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217778,
+      "center": {
+        "lat": 40.4296918,
+        "lon": 116.5561911
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217780,
+      "center": {
+        "lat": 40.4288815,
+        "lon": 116.5503949
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158217782,
+      "center": {
+        "lat": 40.4291112,
+        "lon": 116.5560244
+      },
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216631807,
+      "center": {
+        "lat": 40.432614,
+        "lon": 116.5580152
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Yi Song Lou Restaurant",
+        "name:en": "Yi Song Lou Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044055,
+      "center": {
+        "lat": 40.4417378,
+        "lon": 116.5579932
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower 15",
+        "name:de": "Mutianyu - Great Wall - Tower #16",
+        "name:en": "Tower 16",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044057,
+      "center": {
+        "lat": 40.4440853,
+        "lon": 116.5566217
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower 16",
+        "name:de": "Turm 16",
+        "name:en": "Tower 16",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044058,
+      "center": {
+        "lat": 40.4448355,
+        "lon": 116.555375
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower 17",
+        "name:de": "Turm 17",
+        "name:en": "Tower 17",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044059,
+      "center": {
+        "lat": 40.4461302,
+        "lon": 116.5545876
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower 18",
+        "name:de": "Turm 18",
+        "name:en": "Tower 18",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044060,
+      "center": {
+        "lat": 40.4469733,
+        "lon": 116.5551874
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "2",
+        "man_made": "tower",
+        "name": "Tower 19",
+        "name:de": "Turm 19",
+        "name:en": "Tower 19",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044061,
+      "center": {
+        "lat": 40.448138,
+        "lon": 116.5538377
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower 20",
+        "name:de": "Turm 20",
+        "name:en": "Tower 20",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515044062,
+      "center": {
+        "lat": 40.4493277,
+        "lon": 116.5533243
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower 21",
+        "name:de": "Turm 21",
+        "name:en": "Tower 21",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 539306280,
+      "center": {
+        "lat": 40.4407995,
+        "lon": 116.5591414
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "tower",
+        "name": "Tower",
+        "name:en": "Tower 15",
+        "tourism": "attraction",
+        "tower:type": "defensive"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 318110,
+      "center": {
+        "lat": 34.5950076,
+        "lon": 108.9659793
+      },
+      "tags": {
+        "alt_name": "万里长城",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "material": "stone",
+        "military": "cordon",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fi": "Kiinan muuri",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:id": "Tembok Besar Tiongkok",
+        "name:it": "Grande Muraglia Cinese",
+        "name:ja": "万里の長城",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mi": "Maioro Nui Whakaharahara o Haina",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pl": "Wielki Mur Chiński",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:tr": "Çin Seddi",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:zh": "长城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "note": "Maybe a split of this relation into smaller 'per province' relations would be better",
+        "ref:whc": "438",
+        "tourism": "attraction",
+        "type": "collection",
+        "whc:inscription_date": "1987",
+        "wikidata": "Q12501",
+        "wikipedia": "zh:长城"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4363 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:11:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 270034420,
+      "lat": 40.3594095,
+      "lon": 115.9946948,
+      "tags": {
+        "name": "八达岭",
+        "name:cs": "Pa-ta-ling",
+        "name:en": "Badaling",
+        "name:zh": "八达岭",
+        "name:zh-Hans": "八达岭",
+        "name:zh-Hant": "八達嶺",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300533008,
+      "lat": 40.3437062,
+      "lon": 116.0102091,
+      "tags": {
+        "alt_name": "青龙桥西站;Qinglongqiao West;Qinglongqiao West Railway Station;Qinglongqiaoxi Railway Station",
+        "name": "青龙桥西",
+        "name:en": "Qinglongqiaoxi",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "70.749",
+        "railway:ref": "002811",
+        "train": "yes",
+        "wikidata": "Q7267852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300533009,
+      "lat": 40.3454084,
+      "lon": 116.0111345,
+      "tags": {
+        "railway": "switch",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300533014,
+      "lat": 40.3509339,
+      "lon": 116.0101001,
+      "tags": {
+        "description": "1#尖 京包上行终点 K71+561\n京包下行 K72+274",
+        "railway": "switch",
+        "railway:position:exact:京包:上": "71.561",
+        "railway:position:exact:京包:下": "72.274",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300533024,
+      "lat": 40.3586189,
+      "lon": 115.9963144,
+      "tags": {
+        "railway": "switch",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666789413,
+      "lat": 40.3608343,
+      "lon": 116.0158611,
+      "tags": {
+        "name": "北八楼观景点",
+        "name:en": "Great Wall",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 822488999,
+      "lat": 40.3498615,
+      "lon": 116.018972,
+      "tags": {
+        "railway": "switch",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 822489025,
+      "lat": 40.349833,
+      "lon": 116.018929,
+      "tags": {
+        "railway": "switch",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 822489029,
+      "lat": 40.3509931,
+      "lon": 116.0201377,
+      "tags": {
+        "alt_name": "青龙桥站;青龙桥火车站;Qinglongqiao Railway Station",
+        "name": "青龙桥",
+        "name:en": "Qinglongqiao",
+        "name:zh": "青龙桥",
+        "name:zh-Hans": "青龙桥",
+        "name:zh-Hant": "青龍橋",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "70.543",
+        "railway:ref": "12212",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5963337",
+        "wikipedia": "zh:青龙桥站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1036585959,
+      "lat": 40.3607715,
+      "lon": 116.01508,
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411807621,
+      "lat": 40.3583733,
+      "lon": 115.9971691,
+      "tags": {
+        "description": "3#尖 京包上行起点 K73+661",
+        "railway": "switch",
+        "railway:position:exact:京包:上": "73.661",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411807672,
+      "lat": 40.35917,
+      "lon": 115.994868,
+      "tags": {
+        "railway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412782924,
+      "lat": 40.3505089,
+      "lon": 116.0199007,
+      "tags": {
+        "railway": "crossing",
+        "railway:position:exact": "70.530",
+        "width": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412782930,
+      "lat": 40.3505446,
+      "lon": 116.0198452,
+      "tags": {
+        "railway": "crossing",
+        "railway:position:exact": "70.530",
+        "width": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412782948,
+      "lat": 40.3510081,
+      "lon": 116.0204288,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412782958,
+      "lat": 40.3514904,
+      "lon": 116.0104665,
+      "tags": {
+        "bus": "yes",
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hans": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412783020,
+      "lat": 40.3528595,
+      "lon": 116.0227475,
+      "tags": {
+        "railway": "switch",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412783041,
+      "lat": 40.3529469,
+      "lon": 116.0228836,
+      "tags": {
+        "railway": "switch",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412783045,
+      "lat": 40.3531349,
+      "lon": 116.0232588,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412783073,
+      "lat": 40.3563459,
+      "lon": 116.0007712,
+      "tags": {
+        "bus": "yes",
+        "name": "八达岭",
+        "name:zh": "八达岭",
+        "name:zh-Hans": "八达岭",
+        "name:zh-Hant": "八達嶺",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1415639086,
+      "lat": 40.3508865,
+      "lon": 116.0196494,
+      "tags": {
+        "cemetery": "grave",
+        "name": "詹天佑先生之墓",
+        "name:en": "Tomb of Zhan Tianyou",
+        "name:zh": "詹天佑先生之墓",
+        "name:zh-Hans": "詹天佑先生之墓",
+        "name:zh-Hant": "詹天佑先生之墓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2287251232,
+      "lat": 40.3462,
+      "lon": 116.0132324,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭森林公园",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2287251484,
+      "lat": 40.3461315,
+      "lon": 116.0132173,
+      "tags": {
+        "bus": "yes",
+        "name": "八达岭森林公园",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2619601519,
+      "lat": 40.3610653,
+      "lon": 115.9825508,
+      "tags": {
+        "bus": "yes",
+        "name": "八达岭",
+        "name:zh": "八达岭",
+        "name:zh-Hans": "八达岭",
+        "name:zh-Hant": "八达岭",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2619651521,
+      "lat": 40.360429,
+      "lon": 115.9929224,
+      "tags": {
+        "name": "延庆县岔道东口监护道口",
+        "name:zh": "延庆县岔道东口监护道口",
+        "name:zh-Hans": "延庆县岔道东口监护道口",
+        "name:zh-Hant": "延慶縣岔道東口監護道口",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2619651524,
+      "lat": 40.3605294,
+      "lon": 115.9929399,
+      "tags": {
+        "name": "延庆县岔道东口监护道口",
+        "name:zh": "延庆县岔道东口监护道口",
+        "name:zh-Hans": "延庆县岔道东口监护道口",
+        "name:zh-Hant": "延慶縣岔道東口監護道口",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3296374948,
+      "lat": 40.3615224,
+      "lon": 115.9830843,
+      "tags": {
+        "railway": "switch",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3296380562,
+      "lat": 40.3461195,
+      "lon": 116.0115419,
+      "tags": {
+        "railway": "switch",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3698696808,
+      "lat": 40.3536934,
+      "lon": 116.0069489,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3699965260,
+      "lat": 40.3560102,
+      "lon": 116.002008,
+      "tags": {
+        "amenity": "atm",
+        "brand": "中国银行",
+        "brand:en": "Bank of China",
+        "brand:wikidata": "Q790068",
+        "brand:zh": "中国银行",
+        "name": "中国银行",
+        "name:en": "Bank of China",
+        "name:zh": "中国银行",
+        "name:zh-Hans": "中国银行",
+        "name:zh-Hant": "中國銀行",
+        "operator": "中国银行",
+        "operator:wikidata": "Q790068"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3699965261,
+      "lat": 40.3564189,
+      "lon": 116.0014288,
+      "tags": {
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3699965312,
+      "lat": 40.359511,
+      "lon": 116.0067135,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4279915316,
+      "lat": 40.3601348,
+      "lon": 116.01424,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6448017141,
+      "lat": 40.3557013,
+      "lon": 115.9989748,
+      "tags": {
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车下站",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6472124842,
+      "lat": 40.3603284,
+      "lon": 116.0050515,
+      "tags": {
+        "alt_name": "八达岭长城站;八达岭长城火车站;BadalingChangcheng Railway Station",
+        "alt_name:en": "Badaling Chang Cheng",
+        "name": "八达岭长城",
+        "name:cs": "Pa-ta-ling-čchang-čcheng",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hans": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "name:zh-Latn-pinyin": "Badaling Changcheng",
+        "official_name:en": "Badaling Great Wall Railway Station",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "76.206",
+        "railway:ref": "12181",
+        "toilets:wheelchair": "no",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q33239460",
+        "wikipedia": "zh:八达岭长城站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7358723493,
+      "lat": 40.3626822,
+      "lon": 116.0011322,
+      "tags": {
+        "railway": "switch",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362465665,
+      "lat": 40.3622453,
+      "lon": 116.0018973,
+      "tags": {
+        "railway": "switch",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362465668,
+      "lat": 40.3578734,
+      "lon": 116.0089885,
+      "tags": {
+        "railway": "switch",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362465669,
+      "lat": 40.3623412,
+      "lon": 116.001973,
+      "tags": {
+        "railway": "switch",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362465672,
+      "lat": 40.3579581,
+      "lon": 116.0090983,
+      "tags": {
+        "railway": "switch",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362475197,
+      "lat": 40.357496,
+      "lon": 116.0096483,
+      "tags": {
+        "railway": "switch",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362475198,
+      "lat": 40.3565187,
+      "lon": 116.0115891,
+      "tags": {
+        "railway": "switch",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362475199,
+      "lat": 40.3640202,
+      "lon": 115.9989928,
+      "tags": {
+        "railway": "switch",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7805044408,
+      "lat": 40.3588174,
+      "lon": 115.9953024,
+      "tags": {
+        "alt_name": "八达岭站;八达岭火车站;Badaling Railway Station",
+        "name": "八达岭",
+        "name:cs": "Pa-ta-ling",
+        "name:en": "Badaling",
+        "name:zh": "八达岭",
+        "name:zh-Hans": "八达岭",
+        "name:zh-Hant": "八達嶺",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7805044409,
+      "lat": 40.3592782,
+      "lon": 115.9947007,
+      "tags": {
+        "name": "八达岭",
+        "name:cs": "Pa-ta-ling",
+        "name:en": "Badaling",
+        "name:zh": "八达岭",
+        "name:zh-Hans": "八达岭",
+        "name:zh-Hant": "八達嶺",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8437629368,
+      "lat": 40.3608439,
+      "lon": 115.9829869,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8674444995,
+      "lat": 40.3614467,
+      "lon": 115.983948,
+      "tags": {
+        "railway": "switch",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9120096066,
+      "lat": 40.3506981,
+      "lon": 116.0110151,
+      "tags": {
+        "bus": "yes",
+        "name": "八达岭长城（终点站）",
+        "name:en": "Badaling Great Wall(Terminus)",
+        "name:zh": "八达岭长城（终点站）",
+        "name:zh-Hans": "八达岭长城（终点站）",
+        "name:zh-Hant": "八達嶺長城（終點站）",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9860535844,
+      "lat": 40.3508956,
+      "lon": 116.0100362,
+      "tags": {
+        "name": "71km辅助所",
+        "railway": "junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9861316697,
+      "lat": 40.3498458,
+      "lon": 116.0189483,
+      "tags": {
+        "railway": "signal",
+        "railway:position:exact": "70.385",
+        "railway:signal:direction": "backward",
+        "ref": "SZ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9861325236,
+      "lat": 40.3503288,
+      "lon": 116.0195839,
+      "tags": {
+        "railway": "signal",
+        "railway:position:exact": "70.488",
+        "railway:signal:direction": "backward",
+        "ref": "S1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9861325237,
+      "lat": 40.3501872,
+      "lon": 116.01949,
+      "tags": {
+        "railway": "signal",
+        "railway:position:exact": "70.451",
+        "railway:signal:direction": "backward",
+        "ref": "SIII"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9899655947,
+      "lat": 40.3583664,
+      "lon": 115.9974313,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9951128976,
+      "lat": 40.3467357,
+      "lon": 116.0117995,
+      "tags": {
+        "railway": "signal",
+        "railway:position:exact": "70.213",
+        "railway:signal:direction": "forward",
+        "ref": "X"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10676189090,
+      "lat": 40.3513062,
+      "lon": 116.0102399,
+      "tags": {
+        "bus": "yes",
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11547168660,
+      "lat": 40.354085,
+      "lon": 116.0076748,
+      "tags": {
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "望京石",
+        "name:en": "Wangjing Shi(The Stone Of Watching Beijing)",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11547169143,
+      "lat": 40.3536433,
+      "lon": 116.0122095,
+      "tags": {
+        "historic": "memorial",
+        "inscription": "天險",
+        "memorial": "stone",
+        "name": "天险石",
+        "name:en": "Tianxian Rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11547169193,
+      "lat": 40.3456514,
+      "lon": 116.011881,
+      "tags": {
+        "name": "八达岭森林公园-青龙谷片区",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11586789870,
+      "lat": 40.3570801,
+      "lon": 115.9862282,
+      "tags": {
+        "information": "guidepost",
+        "name": "八达岭野生动物世界全景图",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11586789873,
+      "lat": 40.3565652,
+      "lon": 115.9873366,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "接待中心",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11590989045,
+      "lat": 40.3469519,
+      "lon": 116.0005737,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "草食动物区",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11590989046,
+      "lat": 40.3565437,
+      "lon": 115.9873603,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "接待中心",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156874,
+      "lat": 40.3543897,
+      "lon": 116.0045704,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "德克士",
+        "brand:en": "Dicos",
+        "brand:wikidata": "Q5273883",
+        "brand:zh": "德克士",
+        "cuisine": "burger;chicken",
+        "name": "德克士",
+        "name:en": "Dicos",
+        "name:zh": "德克士",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156876,
+      "lat": 40.3544337,
+      "lon": 116.0043806,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "真功夫",
+        "brand:en": "Kungfu",
+        "brand:wikidata": "Q15909765",
+        "brand:zh": "真功夫",
+        "cuisine": "chinese",
+        "name": "真功夫",
+        "name:en": "Kungfu",
+        "name:zh": "真功夫",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156877,
+      "lat": 40.3547039,
+      "lon": 116.0038108,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "元首咖啡"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156879,
+      "lat": 40.3552753,
+      "lon": 116.0038805,
+      "tags": {
+        "amenity": "atm",
+        "brand": "中国农业银行",
+        "brand:en": "Agricultural Bank of China",
+        "brand:wikidata": "Q26298",
+        "brand:zh": "中国农业银行",
+        "name": "中国农业银行",
+        "name:en": "Agricultural Bank of China",
+        "name:zh": "中国农业银行",
+        "operator": "中国农业银行",
+        "operator:wikidata": "Q26298"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156883,
+      "lat": 40.3552987,
+      "lon": 116.0027219,
+      "tags": {
+        "name": "八达岭长城便利店",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156884,
+      "lat": 40.3552727,
+      "lon": 116.002768,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "鱼你在一起"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156885,
+      "lat": 40.3551604,
+      "lon": 116.0029417,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "赛百味",
+        "brand:en": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:zh": "赛百味",
+        "cuisine": "sandwich",
+        "name": "赛百味",
+        "name:en": "Subway",
+        "name:zh": "赛百味",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156886,
+      "lat": 40.3551083,
+      "lon": 116.0030104,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "肯德基",
+        "brand:en": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:zh": "肯德基",
+        "cuisine": "chicken",
+        "name": "肯德基",
+        "name:en": "KFC",
+        "name:zh": "肯德基",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156918,
+      "lat": 40.3560447,
+      "lon": 116.0026959,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "老北京味道小吃"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156919,
+      "lat": 40.3561108,
+      "lon": 116.0026128,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "山西面馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156920,
+      "lat": 40.3561881,
+      "lon": 116.002471,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "香港软欧包水果茶香酥炸鸡"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11607156977,
+      "lat": 40.3589034,
+      "lon": 116.0047516,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城（直通车站）",
+        "name:en": "Badaling Great Wall(Nonstop Express Bus Station)",
+        "name:zh": "八达岭长城（直通车站）",
+        "name:zh-Hant": "八達嶺長城（直通車站）",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596525,
+      "lat": 40.3548244,
+      "lon": 116.0035252,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "李先生",
+        "brand:en": "Mr. Lee",
+        "brand:wikidata": "Q6928843",
+        "brand:zh": "李先生",
+        "cuisine": "chinese;noodles",
+        "name": "李先生",
+        "name:en": "Mr. Lee",
+        "name:zh": "李先生"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596531,
+      "lat": 40.3552192,
+      "lon": 116.0028436,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596532,
+      "lat": 40.3558219,
+      "lon": 116.002578,
+      "tags": {
+        "name": "山客便利店",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596533,
+      "lat": 40.3557463,
+      "lon": 116.002689,
+      "tags": {
+        "name": "长城·记忆",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596536,
+      "lat": 40.3568147,
+      "lon": 116.0023189,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596649,
+      "lat": 40.3557892,
+      "lon": 116.0026292,
+      "tags": {
+        "name": "老百姓手工文创",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596651,
+      "lat": 40.3558902,
+      "lon": 116.0022076,
+      "tags": {
+        "name": "长城国礼",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596653,
+      "lat": 40.3544546,
+      "lon": 116.0042955,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "一挑面中国兰州牛肉拉面"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596717,
+      "lat": 40.3508275,
+      "lon": 116.0043814,
+      "tags": {
+        "name": "好汉坡",
+        "name:en": "True Man Slope",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609596739,
+      "lat": 40.353722,
+      "lon": 116.0080478,
+      "tags": {
+        "name": "望京台",
+        "name:en": "The Platform Of Watching Beijing",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623812896,
+      "lat": 40.3524644,
+      "lon": 116.0114592,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "中国兰州拉面"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623812897,
+      "lat": 40.3528223,
+      "lon": 116.011605,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "风味小吃",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623812898,
+      "lat": 40.3526615,
+      "lon": 116.0115577,
+      "tags": {
+        "name": "真龙礼品行",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623812902,
+      "lat": 40.3527131,
+      "lon": 116.011586,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "老北京炸酱面快餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623812904,
+      "lat": 40.3526121,
+      "lon": 116.0115413,
+      "tags": {
+        "name": "好汉纪念册",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623813054,
+      "lat": 40.3506032,
+      "lon": 116.0020175,
+      "tags": {
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车上站",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623813113,
+      "lat": 40.3527154,
+      "lon": 116.0063907,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623813200,
+      "lat": 40.3544185,
+      "lon": 116.0044749,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "稻花香"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11633737985,
+      "lat": 40.3559013,
+      "lon": 116.0073021,
+      "tags": {
+        "name": "八达岭国际友谊林",
+        "name:en": "Badaling International Friendship Forest",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637207436,
+      "lat": 40.3507817,
+      "lon": 116.0110579,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hans": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637210521,
+      "lat": 40.3512574,
+      "lon": 116.0102419,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637210522,
+      "lat": 40.3515064,
+      "lon": 116.0104448,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hans": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637260760,
+      "lat": 40.3494744,
+      "lon": 116.0182891,
+      "tags": {
+        "railway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637260761,
+      "lat": 40.3494407,
+      "lon": 116.0183289,
+      "tags": {
+        "railway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11651968841,
+      "lat": 40.356921,
+      "lon": 116.0210827,
+      "tags": {
+        "name": "石头排队",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11651968842,
+      "lat": 40.3682977,
+      "lon": 116.0190853,
+      "tags": {
+        "name": "黄土梁断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748453,
+      "lat": 40.3475831,
+      "lon": 116.0200483,
+      "tags": {
+        "name": "腾龙台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748455,
+      "lat": 40.3476279,
+      "lon": 116.0207641,
+      "tags": {
+        "name": "祥云台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748554,
+      "lat": 40.3474205,
+      "lon": 116.0181973,
+      "tags": {
+        "name": "忆詹台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748709,
+      "lat": 40.3480816,
+      "lon": 116.0173058,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748721,
+      "lat": 40.3479575,
+      "lon": 116.0173826,
+      "tags": {
+        "information": "office",
+        "name": "游客服务中心",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748722,
+      "lat": 40.3477919,
+      "lon": 116.0172599,
+      "tags": {
+        "name": "购物中心",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748724,
+      "lat": 40.3467747,
+      "lon": 116.0167857,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748725,
+      "lat": 40.347023,
+      "lon": 116.0194659,
+      "tags": {
+        "name": "近枫台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748726,
+      "lat": 40.3466547,
+      "lon": 116.0196969,
+      "tags": {
+        "name": "菩提台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11837748731,
+      "lat": 40.3461727,
+      "lon": 116.0191138,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24852407,
+      "center": {
+        "lat": 40.3620565,
+        "lon": 115.9885786
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27376442,
+      "center": {
+        "lat": 40.3433162,
+        "lon": 116.0101031
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "III",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 68314088,
+      "center": {
+        "lat": 40.3506067,
+        "lon": 116.0106262
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 84345311,
+      "center": {
+        "lat": 40.3443075,
+        "lon": 116.0169863
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 84356600,
+      "center": {
+        "lat": 40.348855,
+        "lon": 116.0122568
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "40",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 84356603,
+      "center": {
+        "lat": 40.3473725,
+        "lon": 116.0125435
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "tunnel": "yes",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89369814,
+      "center": {
+        "lat": 40.3588914,
+        "lon": 115.9959319
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89369815,
+      "center": {
+        "lat": 40.3545499,
+        "lon": 116.0042818
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "-1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "1",
+        "railway": "rail",
+        "ref": "0028",
+        "tunnel": "yes",
+        "tunnel:name": "八达岭隧道",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89375360,
+      "center": {
+        "lat": 40.3465969,
+        "lon": 116.011762
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89375376,
+      "center": {
+        "lat": 40.3454219,
+        "lon": 116.0179251
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89375377,
+      "center": {
+        "lat": 40.3478962,
+        "lon": 116.0120803
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "40",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "tunnel": "yes",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590637,
+      "center": {
+        "lat": 40.3620855,
+        "lon": 115.9893457
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "50",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590717,
+      "center": {
+        "lat": 40.3492399,
+        "lon": 116.0152849
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590719,
+      "center": {
+        "lat": 40.3491505,
+        "lon": 116.0121932
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "40",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590720,
+      "center": {
+        "lat": 40.3501314,
+        "lon": 116.0113966
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590722,
+      "center": {
+        "lat": 40.3607918,
+        "lon": 115.9922792
+      },
+      "tags": {
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590723,
+      "center": {
+        "lat": 40.3608529,
+        "lon": 115.9923317
+      },
+      "tags": {
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590724,
+      "center": {
+        "lat": 40.3500694,
+        "lon": 116.0113416
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590725,
+      "center": {
+        "lat": 40.3505809,
+        "lon": 116.0105994
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590726,
+      "center": {
+        "lat": 40.3495861,
+        "lon": 116.0118696
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "40",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127590727,
+      "center": {
+        "lat": 40.3590356,
+        "lon": 115.9833268
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭长城黑龙潭停车场",
+        "name:en": "Heilongtan Parking Lot",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699343,
+      "center": {
+        "lat": 40.3465815,
+        "lon": 116.0162807
+      },
+      "tags": {
+        "highway": "unclassified",
+        "layer": "-1",
+        "name": "中华第一条铁路涵洞",
+        "tourism": "attraction",
+        "tunnel": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699396,
+      "center": {
+        "lat": 40.3476551,
+        "lon": 116.0144629
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699398,
+      "center": {
+        "lat": 40.3512289,
+        "lon": 116.0207716
+      },
+      "tags": {
+        "highway": "footway",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699400,
+      "center": {
+        "lat": 40.3519338,
+        "lon": 116.0215881
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "railway": "rail",
+        "railway:track_ref": "2",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699401,
+      "center": {
+        "lat": 40.3476912,
+        "lon": 116.0139432
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699404,
+      "center": {
+        "lat": 40.3513877,
+        "lon": 116.0207626
+      },
+      "tags": {
+        "highway": "footway",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699405,
+      "center": {
+        "lat": 40.3513605,
+        "lon": 116.0208597
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "III",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127699409,
+      "center": {
+        "lat": 40.3509538,
+        "lon": 116.0201175
+      },
+      "tags": {
+        "building": "train_station",
+        "name": "青龙桥车站",
+        "name:en": "Qinglongqiao Railway Station",
+        "name:zh": "青龙桥车站",
+        "name:zh-Hans": "青龙桥车站",
+        "name:zh-Hant": "青龍橋車站",
+        "tourism": "attraction",
+        "wikidata": "Q5963337",
+        "wikimedia_commons": "Category:Qinglongqiao Railway Station",
+        "wikipedia": "zh:青龙桥站"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146634069,
+      "center": {
+        "lat": 40.354042,
+        "lon": 116.0072224
+      },
+      "tags": {
+        "building": "yes",
+        "name": "长城礼物",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219579516,
+      "center": {
+        "lat": 40.3564879,
+        "lon": 116.0006078
+      },
+      "tags": {
+        "bench": "no",
+        "highway": "platform",
+        "name": "八达岭",
+        "name:zh": "八达岭",
+        "name:zh-Hans": "八达岭",
+        "name:zh-Hant": "八達嶺",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253872510,
+      "center": {
+        "lat": 40.3580368,
+        "lon": 116.0038334
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭长城滚天沟停车场",
+        "name:en": "Guntiangou Parking Lot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256289715,
+      "center": {
+        "lat": 40.3571615,
+        "lon": 116.0007179
+      },
+      "tags": {
+        "building": "yes",
+        "name": "詹天佑纪念馆",
+        "name:en": "Zhan Tianyou Memorial Hall",
+        "name:zh": "詹天佑纪念馆",
+        "name:zh-Hans": "詹天佑纪念馆",
+        "name:zh-Hant": "詹天佑紀念館",
+        "tourism": "museum",
+        "wikidata": "Q16928955",
+        "wikipedia": "zh:詹天佑纪念馆"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256295116,
+      "center": {
+        "lat": 40.3598369,
+        "lon": 115.9939076
+      },
+      "tags": {
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256295117,
+      "center": {
+        "lat": 40.3616163,
+        "lon": 115.9859759
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256295118,
+      "center": {
+        "lat": 40.359745,
+        "lon": 115.993895
+      },
+      "tags": {
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 257331024,
+      "center": {
+        "lat": 40.356606,
+        "lon": 116.0022556
+      },
+      "tags": {
+        "building": "yes",
+        "name": "金源隆大酒店",
+        "name:en": "Jin Yuanlong Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322842116,
+      "center": {
+        "lat": 40.3635992,
+        "lon": 115.967754
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "100",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322842447,
+      "center": {
+        "lat": 40.3448662,
+        "lon": 116.0109645
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "I",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322854686,
+      "center": {
+        "lat": 40.3433002,
+        "lon": 116.0100779
+      },
+      "tags": {
+        "area": "yes",
+        "name": "青龙桥西",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365613045,
+      "center": {
+        "lat": 40.3600969,
+        "lon": 116.0088525
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "八达岭客栈餐厅"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365613048,
+      "center": {
+        "lat": 40.3551473,
+        "lon": 116.003997
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "name": "八达岭景区游客服务中心",
+        "name:en": "Tourist Service Center",
+        "name:zh": "游客服务中心",
+        "name:zh-Hans": "游客服务中心",
+        "name:zh-Hant": "遊客服務中心",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365613051,
+      "center": {
+        "lat": 40.3601508,
+        "lon": 116.0090689
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365613061,
+      "center": {
+        "lat": 40.3599801,
+        "lon": 116.0090598
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365613065,
+      "center": {
+        "lat": 40.3549652,
+        "lon": 116.0043425
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "building:levels": "1",
+        "name:ru": "Туалет",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365613073,
+      "center": {
+        "lat": 40.3561883,
+        "lon": 116.0025746
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365727519,
+      "center": {
+        "lat": 40.3631889,
+        "lon": 115.982851
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "八达岭长城岔西停车场",
+        "name:en": "Chaxi Parking",
+        "name:zh": "八达岭长城岔西停车场",
+        "name:zh-Hans": "八达岭长城岔西停车场",
+        "name:zh-Hant": "八達嶺長城岔西停車場",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365727520,
+      "center": {
+        "lat": 40.3627192,
+        "lon": 115.9841727
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365997157,
+      "center": {
+        "lat": 40.3549901,
+        "lon": 116.0032175
+      },
+      "tags": {
+        "building": "yes",
+        "name": "长城好物文创商店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365997161,
+      "center": {
+        "lat": 40.3551922,
+        "lon": 116.0028623
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365997164,
+      "center": {
+        "lat": 40.3558474,
+        "lon": 116.0016491
+      },
+      "tags": {
+        "building": "yes",
+        "name": "博雅光惠纪念品商店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 365997167,
+      "center": {
+        "lat": 40.3560555,
+        "lon": 116.0011979
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "八达岭迎宾饭馆"
+      }
+    },
+    {
+      "type": "way",
+      "id": 468474562,
+      "center": {
+        "lat": 40.361101,
+        "lon": 115.9925736
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 468474563,
+      "center": {
+        "lat": 40.3615508,
+        "lon": 115.9924818
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 478905075,
+      "center": {
+        "lat": 40.3563949,
+        "lon": 115.9992388
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 478905078,
+      "center": {
+        "lat": 40.3556718,
+        "lon": 115.9989875
+      },
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车下站",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 488381186,
+      "center": {
+        "lat": 40.3478723,
+        "lon": 115.9918701
+      },
+      "tags": {
+        "name": "八达岭野生动物世界",
+        "name:en": "Beijing Badaling Wildlife Safari",
+        "name:zh": "八达岭野生动物世界",
+        "name:zh-Hans": "八达岭野生动物世界",
+        "name:zh-Hant": "八達嶺野生動物世界",
+        "tourism": "zoo",
+        "zoo": "safari_park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687800104,
+      "center": {
+        "lat": 40.3466136,
+        "lon": 116.0137534
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭林场场部停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687800105,
+      "center": {
+        "lat": 40.3454136,
+        "lon": 116.0156111
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687800106,
+      "center": {
+        "lat": 40.3447587,
+        "lon": 116.0157014
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687800108,
+      "center": {
+        "lat": 40.3520892,
+        "lon": 116.0107009
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭长城金牛沟停车场",
+        "name:en": "Timberland Parking Lot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687800109,
+      "center": {
+        "lat": 40.3548586,
+        "lon": 115.9994446
+      },
+      "tags": {
+        "name": "八达岭地面缆车",
+        "name:en": "Badaling Ground Cable Car",
+        "name:zh": "八达岭地面缆车",
+        "name:zh-Hans": "八达岭地面缆车",
+        "name:zh-Hant": "八達嶺地面纜車",
+        "operator": "北京八达岭畅安地面缆车运营有限公司",
+        "railway": "funicular"
+      }
+    },
+    {
+      "type": "way",
+      "id": 689880178,
+      "center": {
+        "lat": 40.3312707,
+        "lon": 116.0433637
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "maxspeed": "250",
+        "name": "京包客专线",
+        "name:zh": "京包客专线",
+        "name:zh-Hans": "京包客专线",
+        "name:zh-Hant": "京包客專線",
+        "railway": "rail",
+        "railway:traffic_mode": "passenger",
+        "ref": "3066",
+        "start_date": "2019-12-30",
+        "tunnel": "yes",
+        "tunnel:length": "12000",
+        "tunnel:name": "新八达岭隧道",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 750201850,
+      "center": {
+        "lat": 40.3580079,
+        "lon": 116.0048934
+      },
+      "tags": {
+        "building": "train_station",
+        "landuse": "railway",
+        "level": "0",
+        "name": "八达岭长城站",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787010430,
+      "center": {
+        "lat": 40.3313397,
+        "lon": 116.0434656
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "maxspeed": "250",
+        "name": "京包客专线",
+        "name:zh": "京包客专线",
+        "name:zh-Hans": "京包客专线",
+        "name:zh-Hant": "京包客專線",
+        "railway": "rail",
+        "railway:traffic_mode": "passenger",
+        "ref": "3066",
+        "start_date": "2019-12-30",
+        "tunnel": "yes",
+        "tunnel:length": "12000",
+        "tunnel:name": "新八达岭隧道",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787455275,
+      "center": {
+        "lat": 40.3600594,
+        "lon": 116.0054429
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "railway": "rail",
+        "railway:track_ref": "3",
+        "service": "siding",
+        "tunnel": "yes",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787455276,
+      "center": {
+        "lat": 40.3601496,
+        "lon": 116.0055357
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "railway": "rail",
+        "railway:track_ref": "4",
+        "service": "siding",
+        "tunnel": "yes",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787455282,
+      "center": {
+        "lat": 40.3599673,
+        "lon": 116.0049954
+      },
+      "tags": {
+        "indoor": "area",
+        "layer": "-2",
+        "level": "-3",
+        "name": "1站台",
+        "name:zh": "1站台",
+        "name:zh-Hans": "1站台",
+        "name:zh-Hant": "1站台",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787455283,
+      "center": {
+        "lat": 40.3604764,
+        "lon": 116.0055191
+      },
+      "tags": {
+        "indoor": "area",
+        "layer": "-2",
+        "level": "-3",
+        "name": "2站台",
+        "name:zh": "2站台",
+        "name:zh-Hans": "2站台",
+        "name:zh-Hant": "2站台",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787455284,
+      "center": {
+        "lat": 40.3570074,
+        "lon": 116.0106187
+      },
+      "tags": {
+        "highspeed": "yes",
+        "layer": "-2",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "service": "crossover",
+        "tunnel": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787455285,
+      "center": {
+        "lat": 40.3633512,
+        "lon": 116.0000625
+      },
+      "tags": {
+        "highspeed": "yes",
+        "layer": "-2",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "service": "crossover",
+        "tunnel": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836227894,
+      "center": {
+        "lat": 40.3514042,
+        "lon": 116.0209278
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "railway": "rail",
+        "railway:track_ref": "1",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836227896,
+      "center": {
+        "lat": 40.3511785,
+        "lon": 116.0097124
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836228058,
+      "center": {
+        "lat": 40.3457639,
+        "lon": 116.0113382
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "maxspeed": "30",
+        "railway": "rail",
+        "service": "crossover"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836228059,
+      "center": {
+        "lat": 40.3498472,
+        "lon": 116.0189505
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836228060,
+      "center": {
+        "lat": 40.3530409,
+        "lon": 116.0230712
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "maxspeed": "30",
+        "railway": "rail",
+        "railway:track_ref": "尽头线",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 836232369,
+      "center": {
+        "lat": 40.3462653,
+        "lon": 116.0115023
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "40",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840602900,
+      "center": {
+        "lat": 40.3615154,
+        "lon": 115.9841592
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840602908,
+      "center": {
+        "lat": 40.3615746,
+        "lon": 115.986001
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840602909,
+      "center": {
+        "lat": 40.3619054,
+        "lon": 115.9870384
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "60",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840602910,
+      "center": {
+        "lat": 40.3635204,
+        "lon": 115.9693666
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "60",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 936140726,
+      "center": {
+        "lat": 40.3476803,
+        "lon": 116.0132237
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 936140727,
+      "center": {
+        "lat": 40.3476935,
+        "lon": 116.0134614
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "30",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 942758525,
+      "center": {
+        "lat": 40.353535,
+        "lon": 116.0241602
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭陵园停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1019405701,
+      "center": {
+        "lat": 40.3594952,
+        "lon": 116.0046506
+      },
+      "tags": {
+        "amenity": "toilets",
+        "indoor": "room",
+        "level": "-1",
+        "name": "卫生间",
+        "room": "toilet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1075215300,
+      "center": {
+        "lat": 40.3529032,
+        "lon": 116.0228155
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "maxspeed": "30",
+        "railway": "rail",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1080018255,
+      "center": {
+        "lat": 40.3584927,
+        "lon": 115.9968729
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "railway:track_ref": "安全线",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1086031590,
+      "center": {
+        "lat": 40.3424185,
+        "lon": 116.0097295
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "30",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "1",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1156571863,
+      "center": {
+        "lat": 40.3606065,
+        "lon": 115.992834
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "II",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1156571864,
+      "center": {
+        "lat": 40.3600822,
+        "lon": 115.9939933
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "50",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "I",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1156571865,
+      "center": {
+        "lat": 40.3580251,
+        "lon": 115.998204
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "50",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "name:zh-Hans": "京包线",
+        "name:zh-Hant": "京包線",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1158754809,
+      "center": {
+        "lat": 40.3601496,
+        "lon": 116.0055357
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "maxspeed": "250",
+        "name": "京包客专线",
+        "name:zh": "京包客专线",
+        "name:zh-Hans": "京包客专线",
+        "name:zh-Hant": "京包客專線",
+        "railway": "rail",
+        "railway:track_ref": "II",
+        "railway:traffic_mode": "passenger",
+        "ref": "3066",
+        "start_date": "2019-12-30",
+        "tunnel": "yes",
+        "tunnel:name": "新八达岭隧道",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1158754810,
+      "center": {
+        "lat": 40.3600594,
+        "lon": 116.0054429
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "maxspeed": "250",
+        "name": "京包客专线",
+        "name:zh": "京包客专线",
+        "name:zh-Hans": "京包客专线",
+        "name:zh-Hant": "京包客專線",
+        "railway": "rail",
+        "railway:track_ref": "I",
+        "railway:traffic_mode": "passenger",
+        "ref": "3066",
+        "start_date": "2019-12-30",
+        "tunnel": "yes",
+        "tunnel:name": "新八达岭隧道",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1158754811,
+      "center": {
+        "lat": 40.3691419,
+        "lon": 115.9878988
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "maxspeed": "250",
+        "name": "京包客专线",
+        "name:zh": "京包客专线",
+        "name:zh-Hans": "京包客专线",
+        "name:zh-Hant": "京包客專線",
+        "railway": "rail",
+        "railway:traffic_mode": "passenger",
+        "ref": "3066",
+        "start_date": "2019-12-30",
+        "tunnel": "yes",
+        "tunnel:length": "6000",
+        "tunnel:name": "新八达岭隧道",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1158754812,
+      "center": {
+        "lat": 40.3690793,
+        "lon": 115.9878104
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "highspeed": "yes",
+        "layer": "-2",
+        "maxspeed": "250",
+        "name": "京包客专线",
+        "name:zh": "京包客专线",
+        "name:zh-Hans": "京包客专线",
+        "name:zh-Hant": "京包客專線",
+        "railway": "rail",
+        "railway:traffic_mode": "passenger",
+        "ref": "3066",
+        "start_date": "2019-12-30",
+        "tunnel": "yes",
+        "tunnel:length": "6000",
+        "tunnel:name": "新八达岭隧道",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246290630,
+      "center": {
+        "lat": 40.3528543,
+        "lon": 115.9927027
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "孔雀园",
+        "name:en": "Peacock",
+        "species:wikidata": "Q61865",
+        "species:wikipedia": "zh:蓝孔雀",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246290631,
+      "center": {
+        "lat": 40.3548803,
+        "lon": 115.9903882
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "黇鹿园",
+        "name:en": "Fallow Deer",
+        "species:wikidata": "Q159857",
+        "species:wikipedia": "zh:黇鹿",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246290632,
+      "center": {
+        "lat": 40.3578859,
+        "lon": 115.9859636
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭野生动物世界停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246290726,
+      "center": {
+        "lat": 40.3497304,
+        "lon": 115.9917167
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "野性天地",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775218,
+      "center": {
+        "lat": 40.3474949,
+        "lon": 116.0003247
+      },
+      "tags": {
+        "area": "yes",
+        "attraction": "animal",
+        "name": "白孔雀园",
+        "name:en": "White Peacock",
+        "species:wikidata": "Q83559763",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775219,
+      "center": {
+        "lat": 40.3481698,
+        "lon": 115.9995762
+      },
+      "tags": {
+        "area": "yes",
+        "attraction": "animal",
+        "name": "火鸡园",
+        "name:en": "Turkey",
+        "species:wikidata": "Q43794",
+        "species:wikipedia": "zh:火雞",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775235,
+      "center": {
+        "lat": 40.3489987,
+        "lon": 115.9978048
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775237,
+      "center": {
+        "lat": 40.3494191,
+        "lon": 115.9977555
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "白冠长尾雉",
+        "name:en": "Reeves's Pheasant",
+        "species:wikidata": "Q339483",
+        "species:wikipedia": "zh:白冠长尾雉",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775238,
+      "center": {
+        "lat": 40.3507925,
+        "lon": 115.99549
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "草食动物区",
+        "name:en": "Herbivore Area",
+        "species:wikidata": "Q59099",
+        "species:wikipedia": "zh:植食性动物",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775239,
+      "center": {
+        "lat": 40.3455592,
+        "lon": 115.9973556
+      },
+      "tags": {
+        "area": "yes",
+        "attraction": "animal",
+        "name": "珍珠鸡园",
+        "name:en": "Guinea Fowl",
+        "operator": "八达岭野生动物世界",
+        "species:wikidata": "Q171953",
+        "species:wikipedia": "zh:珠雞科",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775240,
+      "center": {
+        "lat": 40.3459644,
+        "lon": 116.0001906
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "银狐",
+        "name:en": "Silver Fox",
+        "species:wikidata": "Q2574250",
+        "species:wikipedia": "zh:銀狐",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775242,
+      "center": {
+        "lat": 40.3501727,
+        "lon": 115.9920437
+      },
+      "tags": {
+        "area": "yes",
+        "attraction": "animal",
+        "name": "黑豹",
+        "name:en": "Jaguar",
+        "species:wikidata": "Q35694",
+        "species:wikipedia": "zh:美洲豹",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775243,
+      "center": {
+        "lat": 40.3502579,
+        "lon": 115.9919429
+      },
+      "tags": {
+        "area": "yes",
+        "attraction": "animal",
+        "name": "狼",
+        "name:en": "Wolf",
+        "species:wikidata": "Q18498",
+        "species:wikipedia": "zh:狼",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775244,
+      "center": {
+        "lat": 40.3500544,
+        "lon": 115.9921791
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "马来熊",
+        "name:en": "Sun Bear",
+        "species:wikidata": "Q144923",
+        "species:wikipedia": "zh:马来熊",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775245,
+      "center": {
+        "lat": 40.3499421,
+        "lon": 115.9922244
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "白虎",
+        "name:en": "White Tiger",
+        "species:wikidata": "Q643213",
+        "species:wikipedia": "zh:孟加拉白虎",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775254,
+      "center": {
+        "lat": 40.3542999,
+        "lon": 115.9911965
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "长臂猿",
+        "name:en": "Gibbon",
+        "species:wikidata": "Q15879407",
+        "species:wikipedia": "zh:长臂猿 (消歧义)",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775256,
+      "center": {
+        "lat": 40.3492068,
+        "lon": 115.9916361
+      },
+      "tags": {
+        "area": "yes",
+        "attraction": "animal",
+        "name": "狼",
+        "name:en": "Wolf",
+        "species:wikidata": "Q18498",
+        "species:wikipedia": "zh:狼",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775259,
+      "center": {
+        "lat": 40.3558228,
+        "lon": 115.9836038
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "员工食堂",
+        "name:en": "Staff Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775272,
+      "center": {
+        "lat": 40.3545253,
+        "lon": 115.9908529
+      },
+      "tags": {
+        "attraction": "animal",
+        "building": "yes",
+        "name": "鸟苑",
+        "species:wikidata": "Q5113",
+        "species:wikipedia": "zh:鸟",
+        "tourism": "zoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246775299,
+      "center": {
+        "lat": 40.3576071,
+        "lon": 115.9960026
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733380,
+      "center": {
+        "lat": 40.3544746,
+        "lon": 116.003973
+      },
+      "tags": {
+        "building": "yes",
+        "name": "八达岭饭店",
+        "name:en": "Badaling Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733381,
+      "center": {
+        "lat": 40.3543595,
+        "lon": 116.0054656
+      },
+      "tags": {
+        "barrier": "wall",
+        "historic": "memorial",
+        "name": "八达岭长城荣誉墙",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733384,
+      "center": {
+        "lat": 40.3548962,
+        "lon": 116.0033692
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "庆丰包子铺八达岭长城店"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733392,
+      "center": {
+        "lat": 40.3559468,
+        "lon": 116.0014081
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733409,
+      "center": {
+        "lat": 40.3506065,
+        "lon": 116.0020264
+      },
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车上站",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733415,
+      "center": {
+        "lat": 40.356492,
+        "lon": 115.9996644
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733429,
+      "center": {
+        "lat": 40.3538981,
+        "lon": 116.0068929
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "name": "长城印象",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733430,
+      "center": {
+        "lat": 40.3545771,
+        "lon": 116.0062308
+      },
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "长城大咖"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733436,
+      "center": {
+        "lat": 40.3545374,
+        "lon": 116.007428
+      },
+      "tags": {
+        "building": "yes",
+        "name": "城边小店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733438,
+      "center": {
+        "lat": 40.3543698,
+        "lon": 116.0069866
+      },
+      "tags": {
+        "barrier": "wall",
+        "name": "文化墙",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733440,
+      "center": {
+        "lat": 40.3535581,
+        "lon": 116.007181
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248733441,
+      "center": {
+        "lat": 40.3537027,
+        "lon": 116.0062707
+      },
+      "tags": {
+        "building": "yes",
+        "name": "长城伴手礼",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982570,
+      "center": {
+        "lat": 40.354647,
+        "lon": 116.0078946
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982589,
+      "center": {
+        "lat": 40.3556602,
+        "lon": 116.0033273
+      },
+      "tags": {
+        "barrier": "wall",
+        "name": "不到长城非好汉石壁",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982598,
+      "center": {
+        "lat": 40.3585087,
+        "lon": 115.995809
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "八达岭车站快餐"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982602,
+      "center": {
+        "lat": 40.3595878,
+        "lon": 115.9930868
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982603,
+      "center": {
+        "lat": 40.3595038,
+        "lon": 115.9930453
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982604,
+      "center": {
+        "lat": 40.3594634,
+        "lon": 115.9929137
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982605,
+      "center": {
+        "lat": 40.3593985,
+        "lon": 115.9927865
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982606,
+      "center": {
+        "lat": 40.35936,
+        "lon": 115.9929382
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982607,
+      "center": {
+        "lat": 40.3592789,
+        "lon": 115.9928124
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982609,
+      "center": {
+        "lat": 40.3594136,
+        "lon": 115.9930523
+      },
+      "tags": {
+        "name": "八达岭逍懿轩客栈",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1248982633,
+      "center": {
+        "lat": 40.3504411,
+        "lon": 116.0032701
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479494,
+      "center": {
+        "lat": 40.3507726,
+        "lon": 116.0111163
+      },
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城（终点站）",
+        "name:en": "Badaling Great Wall(Terminus)",
+        "name:zh": "八达岭长城（终点站）",
+        "name:zh-Hans": "八达岭长城（终点站）",
+        "name:zh-Hant": "八達嶺長城（終點站）",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479495,
+      "center": {
+        "lat": 40.3515323,
+        "lon": 116.0104268
+      },
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城（877路发车站）",
+        "name:en": "Badaling Great Wall(Line 877 to Beijing)",
+        "name:zh": "八达岭长城（877路发车站）",
+        "name:zh-Hans": "八达岭长城（877路发车站）",
+        "name:zh-Hant": "八達嶺長城（877路發車站）",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479496,
+      "center": {
+        "lat": 40.3512416,
+        "lon": 116.0102317
+      },
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八达岭长城（879路发车站）",
+        "name:en": "Badaling Great Wall(Line 879 to Ming Tombs)",
+        "name:zh": "八达岭长城（879路发车站）",
+        "name:zh-Hant": "八達嶺長城（879路發車站）",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479506,
+      "center": {
+        "lat": 40.3516764,
+        "lon": 116.010668
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "name": "好汉证书签发中心",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479507,
+      "center": {
+        "lat": 40.3517423,
+        "lon": 116.0108158
+      },
+      "tags": {
+        "building": "yes",
+        "name": "车站商品亭",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479508,
+      "center": {
+        "lat": 40.3517955,
+        "lon": 116.0109391
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479509,
+      "center": {
+        "lat": 40.3518576,
+        "lon": 116.0111146
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479511,
+      "center": {
+        "lat": 40.3520861,
+        "lon": 116.0112599
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "全聚德",
+        "brand:en": "Quanjude",
+        "brand:wikidata": "Q3269017",
+        "brand:zh": "全聚德",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "全聚德",
+        "name:en": "Quanjude",
+        "name:zh": "全聚德"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479527,
+      "center": {
+        "lat": 40.3541596,
+        "lon": 116.0134654
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479545,
+      "center": {
+        "lat": 40.3556819,
+        "lon": 115.9990212
+      },
+      "tags": {
+        "highway": "platform",
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车下站",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479546,
+      "center": {
+        "lat": 40.3556605,
+        "lon": 115.9989547
+      },
+      "tags": {
+        "highway": "platform",
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车下站",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479551,
+      "center": {
+        "lat": 40.3506165,
+        "lon": 116.0020693
+      },
+      "tags": {
+        "highway": "platform",
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车上站",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479552,
+      "center": {
+        "lat": 40.3505758,
+        "lon": 116.0019746
+      },
+      "tags": {
+        "highway": "platform",
+        "light_rail": "yes",
+        "name": "八达岭南线地面缆车上站",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479553,
+      "center": {
+        "lat": 40.3515369,
+        "lon": 116.0012994
+      },
+      "tags": {
+        "name": "八达岭地面缆车",
+        "name:en": "Badaling Ground Cable Car",
+        "name:zh": "八达岭地面缆车",
+        "name:zh-Hans": "八达岭地面缆车",
+        "name:zh-Hant": "八達嶺地面纜車",
+        "operator": "北京八达岭畅安地面缆车运营有限公司",
+        "railway": "funicular"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479554,
+      "center": {
+        "lat": 40.3525177,
+        "lon": 116.0005241
+      },
+      "tags": {
+        "bridge": "yes",
+        "layer": "1",
+        "name": "八达岭地面缆车",
+        "name:en": "Badaling Ground Cable Car",
+        "name:zh": "八达岭地面缆车",
+        "name:zh-Hans": "八达岭地面缆车",
+        "name:zh-Hant": "八達嶺地面纜車",
+        "oneway": "yes",
+        "operator": "北京八达岭畅安地面缆车运营有限公司",
+        "railway": "funicular"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479568,
+      "center": {
+        "lat": 40.3598506,
+        "lon": 116.0147858
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479571,
+      "center": {
+        "lat": 40.3532903,
+        "lon": 116.0001907
+      },
+      "tags": {
+        "name": "八达岭地面缆车",
+        "name:en": "Badaling Ground Cable Car",
+        "name:zh": "八达岭地面缆车",
+        "name:zh-Hans": "八达岭地面缆车",
+        "name:zh-Hant": "八達嶺地面纜車",
+        "oneway": "yes",
+        "operator": "北京八达岭畅安地面缆车运营有限公司",
+        "railway": "funicular"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479572,
+      "center": {
+        "lat": 40.3532903,
+        "lon": 116.0001907
+      },
+      "tags": {
+        "name": "八达岭地面缆车",
+        "name:en": "Badaling Ground Cable Car",
+        "name:zh": "八达岭地面缆车",
+        "name:zh-Hans": "八达岭地面缆车",
+        "name:zh-Hant": "八達嶺地面纜車",
+        "oneway": "yes",
+        "operator": "北京八达岭畅安地面缆车运营有限公司",
+        "railway": "funicular"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479580,
+      "center": {
+        "lat": 40.359836,
+        "lon": 116.0064694
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479581,
+      "center": {
+        "lat": 40.360068,
+        "lon": 116.0069161
+      },
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "八达岭索道下站",
+        "name:en": "Badaling Cable Car Lower Station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479585,
+      "center": {
+        "lat": 40.3607671,
+        "lon": 116.0150369
+      },
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "八达岭索道上站",
+        "name:en": "Badaling Cable Car Higher Station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479586,
+      "center": {
+        "lat": 40.3589347,
+        "lon": 116.0048316
+      },
+      "tags": {
+        "highway": "platform",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1250479587,
+      "center": {
+        "lat": 40.3589118,
+        "lon": 116.004403
+      },
+      "tags": {
+        "highway": "platform",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251204823,
+      "center": {
+        "lat": 40.3562878,
+        "lon": 116.0123535
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251204834,
+      "center": {
+        "lat": 40.3600724,
+        "lon": 116.0089846
+      },
+      "tags": {
+        "name": "八达岭长城院落",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251204878,
+      "center": {
+        "lat": 40.3630034,
+        "lon": 115.9868065
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251204879,
+      "center": {
+        "lat": 40.3635509,
+        "lon": 115.9838481
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251204995,
+      "center": {
+        "lat": 40.3566277,
+        "lon": 116.003824
+      },
+      "tags": {
+        "area": "yes",
+        "building": "yes",
+        "museum": "history",
+        "name": "中国长城博物馆",
+        "name:en": "The Great Wall Museum of China",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251923158,
+      "center": {
+        "lat": 40.3468552,
+        "lon": 116.0142501
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251923166,
+      "center": {
+        "lat": 40.3460423,
+        "lon": 116.0141893
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八达岭森林公园大巴停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1251923167,
+      "center": {
+        "lat": 40.3462996,
+        "lon": 116.0128844
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1302287313,
+      "center": {
+        "lat": 40.3614846,
+        "lon": 115.9835161
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "service": "crossover"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1464136593,
+      "center": {
+        "lat": 40.3572008,
+        "lon": 116.009254
+      },
+      "tags": {
+        "area": "yes",
+        "historic": "castle_wall",
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 318110,
+      "center": {
+        "lat": 34.5950076,
+        "lon": 108.9659793
+      },
+      "tags": {
+        "alt_name": "万里长城",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "material": "stone",
+        "military": "cordon",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fi": "Kiinan muuri",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:id": "Tembok Besar Tiongkok",
+        "name:it": "Grande Muraglia Cinese",
+        "name:ja": "万里の長城",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mi": "Maioro Nui Whakaharahara o Haina",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pl": "Wielki Mur Chiński",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:tr": "Çin Seddi",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:zh": "长城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "note": "Maybe a split of this relation into smaller 'per province' relations would be better",
+        "ref:whc": "438",
+        "tourism": "attraction",
+        "type": "collection",
+        "whc:inscription_date": "1987",
+        "wikidata": "Q12501",
+        "wikipedia": "zh:长城"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2904605,
+      "center": {
+        "lat": 40.3461658,
+        "lon": 116.0132249
+      },
+      "tags": {
+        "name": "八达岭森林公园",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11494296,
+      "center": {
+        "lat": 40.3596231,
+        "lon": 115.9941459
+      },
+      "tags": {
+        "name": "八达岭",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17152453,
+      "center": {
+        "lat": 40.3532313,
+        "lon": 115.9886665
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "白虎园",
+        "name:en": "White Tiger",
+        "species:wikidata": "Q643213",
+        "species:wikipedia": "zh:孟加拉白虎",
+        "tourism": "zoo",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17161662,
+      "center": {
+        "lat": 40.3500127,
+        "lon": 115.9915042
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "金毛扭角羚",
+        "name:en": "Budorcas taxicolor",
+        "species:wikidata": "Q44840067",
+        "tourism": "zoo",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17161663,
+      "center": {
+        "lat": 40.3495755,
+        "lon": 115.9920303
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "棕熊",
+        "name:en": "Brown Bear",
+        "species:wikidata": "Q36341",
+        "species:wikipedia": "zh:棕熊",
+        "tourism": "zoo",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17161664,
+      "center": {
+        "lat": 40.3554405,
+        "lon": 115.9895474
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "盘羊园",
+        "name:en": "Argali",
+        "species:wikidata": "Q186267",
+        "species:wikipedia": "zh:盘羊",
+        "tourism": "zoo",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17161665,
+      "center": {
+        "lat": 40.3556184,
+        "lon": 115.989107
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "羱羊园",
+        "name:en": "Ibex",
+        "species:wikidata": "Q168327",
+        "species:wikipedia": "zh:羱羊",
+        "tourism": "zoo",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17223235,
+      "center": {
+        "lat": 40.3545586,
+        "lon": 116.0138162
+      },
+      "tags": {
+        "attraction": "animal",
+        "name": "八达岭熊乐园",
+        "name:en": "Badaling Bear Garden",
+        "name:zh": "八达岭熊乐园",
+        "name:zh-Hans": "八达岭熊乐园",
+        "name:zh-Hant": "八達嶺熊樂園",
+        "tourism": "zoo",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

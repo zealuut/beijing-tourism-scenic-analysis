@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_07,八达岭长城,长城关隘类,1000,transport,21,40.43
+BJ20_07,八达岭长城,长城关隘类,1000,parking,2,274.92
+BJ20_07,八达岭长城,长城关隘类,1000,food_retail,23,323.08
+BJ20_07,八达岭长城,长城关隘类,1000,lodging,5,334.46
+BJ20_07,八达岭长城,长城关隘类,1000,commercial,9,544.87
+BJ20_07,八达岭长城,长城关隘类,1000,public_service,16,98.68
+BJ20_07,八达岭长城,长城关隘类,1000,nearby_attractions,13,424.44
+BJ20_07,八达岭长城,长城关隘类,2000,transport,42,40.43
+BJ20_07,八达岭长城,长城关隘类,2000,parking,17,274.92
+BJ20_07,八达岭长城,长城关隘类,2000,food_retail,29,323.08
+BJ20_07,八达岭长城,长城关隘类,2000,lodging,12,334.46
+BJ20_07,八达岭长城,长城关隘类,2000,commercial,13,544.87
+BJ20_07,八达岭长城,长城关隘类,2000,public_service,28,98.68
+BJ20_07,八达岭长城,长城关隘类,2000,nearby_attractions,47,424.44

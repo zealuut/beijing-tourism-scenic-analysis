@@ -1,0 +1,56 @@
+{
+  "scenic_name": "首都博物馆",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "首都博物馆, 北京市, 中国",
+    "display_name": "首都博物馆, 16, 复兴门外大街, 月坛街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+    "osm_type": "way",
+    "osm_id": "136998797",
+    "lat": 39.9050194,
+    "lng": 116.3358736
+  },
+  "candidates": [
+    {
+      "place_id": 218906935,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 136998797,
+      "lat": "39.9050194",
+      "lon": "116.3358736",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 0.4104423115181327,
+      "addresstype": "tourism",
+      "name": "首都博物馆",
+      "display_name": "首都博物馆, 16, 复兴门外大街, 月坛街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "address": {
+        "tourism": "首都博物馆",
+        "house_number": "16",
+        "road": "复兴门外大街",
+        "residential": "月坛街道",
+        "suburb": "月坛街道",
+        "city": "西城区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100032",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "首都博物馆",
+        "name:en": "Capital Museum",
+        "name:es": "Museo de la Capital",
+        "name:zh": "首都博物馆",
+        "name:zh-Hans": "首都博物馆",
+        "name:zh-Hant": "首都博物館"
+      },
+      "boundingbox": [
+        "39.9046117",
+        "39.9054270",
+        "116.3348822",
+        "116.3368649"
+      ]
+    }
+  ]
+}

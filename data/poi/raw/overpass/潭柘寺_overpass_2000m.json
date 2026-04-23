@@ -1,0 +1,636 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:13:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3394036298,
+      "lat": 39.893478,
+      "lon": 116.0084068,
+      "tags": {
+        "bus": "yes",
+        "name": "贾沟",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3394053748,
+      "lat": 39.899327,
+      "lon": 116.024239,
+      "tags": {
+        "bus": "yes",
+        "name": "潭柘寺",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4157284026,
+      "lat": 39.8995195,
+      "lon": 116.0221174,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5202392570,
+      "lat": 39.8961515,
+      "lon": 116.0206534,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "平原村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5202392571,
+      "lat": 39.8963567,
+      "lon": 116.0205778,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "平原村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9194888150,
+      "lat": 39.8922613,
+      "lon": 116.0210779,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "门头沟大量客栈"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9195287744,
+      "lat": 39.9022274,
+      "lon": 116.0078825,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "悬崖餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9195846129,
+      "lat": 39.9035335,
+      "lon": 116.0081883,
+      "tags": {
+        "name": "花堆",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9195846130,
+      "lat": 39.9038899,
+      "lon": 116.0093641,
+      "tags": {
+        "name": "竹雅山舍",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9195846131,
+      "lat": 39.9024656,
+      "lon": 116.0086987,
+      "tags": {
+        "name": "一瓢客栈",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9195846132,
+      "lat": 39.9022544,
+      "lon": 116.0106493,
+      "tags": {
+        "name": "顽石山居",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9196594003,
+      "lat": 39.8913241,
+      "lon": 116.0200635,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八奇洞",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9196594004,
+      "lat": 39.8913764,
+      "lon": 116.0201849,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "八奇洞",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9818967142,
+      "lat": 39.919046,
+      "lon": 116.0330937,
+      "tags": {
+        "name": "断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9840219836,
+      "lat": 39.9080654,
+      "lon": 116.0253062,
+      "tags": {
+        "name": "海蟾石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9843698264,
+      "lat": 39.9161462,
+      "lon": 116.0375678,
+      "tags": {
+        "name": "断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9843698273,
+      "lat": 39.9164233,
+      "lon": 116.0388225,
+      "tags": {
+        "name": "裂缝断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9843698762,
+      "lat": 39.9194177,
+      "lon": 116.0303461,
+      "tags": {
+        "name": "横岭南沟大断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9850630501,
+      "lat": 39.8965437,
+      "lon": 116.0340939,
+      "tags": {
+        "bus": "yes",
+        "name": "潭柘寺镇桑峪村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566908592,
+      "lat": 39.9184021,
+      "lon": 116.0360488,
+      "tags": {
+        "name": "小断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931210,
+      "lat": 39.9173692,
+      "lon": 116.0334581,
+      "tags": {
+        "name": "神秘谷断崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10719248813,
+      "lat": 39.8993026,
+      "lon": 116.0240883,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "潭柘寺",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10719248814,
+      "lat": 39.8993583,
+      "lon": 116.0243312,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "潭柘寺",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11071567625,
+      "lat": 39.8993589,
+      "lon": 116.0217766,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "潭柘寺",
+        "name:zh": "潭柘寺",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11071567626,
+      "lat": 39.8993528,
+      "lon": 116.0217498,
+      "tags": {
+        "bus": "yes",
+        "name": "潭柘寺",
+        "name:zh": "潭柘寺",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11076788636,
+      "lat": 39.8913269,
+      "lon": 116.0201197,
+      "tags": {
+        "bus": "yes",
+        "name": "八奇洞",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11076788637,
+      "lat": 39.8913885,
+      "lon": 116.0201298,
+      "tags": {
+        "bus": "yes",
+        "name": "八奇洞",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11076788638,
+      "lat": 39.8963551,
+      "lon": 116.0206483,
+      "tags": {
+        "bus": "yes",
+        "name": "平原村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11076788639,
+      "lat": 39.8961656,
+      "lon": 116.0206007,
+      "tags": {
+        "bus": "yes",
+        "name": "平原村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11270906010,
+      "lat": 39.8965525,
+      "lon": 116.0340462,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "潭柘寺镇桑峪村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11270906011,
+      "lat": 39.896529,
+      "lon": 116.0341583,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "潭柘寺镇桑峪村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296514638,
+      "lat": 39.8866147,
+      "lon": 116.0166557,
+      "tags": {
+        "bus": "yes",
+        "name": "西港沟",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296514639,
+      "lat": 39.8866403,
+      "lon": 116.0167055,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西港沟",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296514640,
+      "lat": 39.8865674,
+      "lon": 116.0166027,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西港沟",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296514645,
+      "lat": 39.8935095,
+      "lon": 116.0083045,
+      "tags": {
+        "bus": "yes",
+        "name": "贾沟",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296514646,
+      "lat": 39.8935517,
+      "lon": 116.0083159,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "贾沟",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296514647,
+      "lat": 39.8934062,
+      "lon": 116.0083998,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "贾沟",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645944,
+      "lat": 39.9007168,
+      "lon": 116.0125486,
+      "tags": {
+        "bus": "yes",
+        "name": "王坡村路口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645945,
+      "lat": 39.9006997,
+      "lon": 116.0124772,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "王坡村路口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645946,
+      "lat": 39.9007717,
+      "lon": 116.0126617,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "王坡村路口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645948,
+      "lat": 39.9008228,
+      "lon": 116.0125738,
+      "tags": {
+        "bus": "yes",
+        "name": "王坡村路口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645958,
+      "lat": 39.9065109,
+      "lon": 116.0193729,
+      "tags": {
+        "bus": "yes",
+        "name": "王坡村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645964,
+      "lat": 39.9065429,
+      "lon": 116.0193563,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "王坡村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11515645965,
+      "lat": 39.9064577,
+      "lon": 116.0193901,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "王坡村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13415145517,
+      "lat": 39.8922893,
+      "lon": 116.0240539,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13439097121,
+      "lat": 39.8905903,
+      "lon": 116.0218008,
+      "tags": {
+        "name": "八佛广场",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551363906,
+      "center": {
+        "lat": 39.9066666,
+        "lon": 116.0486591
+      },
+      "tags": {
+        "area": "yes",
+        "name": "定都阁",
+        "name:en": "Dingdu Pavilion",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679183736,
+      "center": {
+        "lat": 39.900542,
+        "lon": 116.0254796
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679185395,
+      "center": {
+        "lat": 39.9039891,
+        "lon": 116.0238261
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "name": "厕所"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679186681,
+      "center": {
+        "lat": 39.9001338,
+        "lon": 116.0250492
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679625562,
+      "center": {
+        "lat": 39.9043085,
+        "lon": 116.0254626
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "name": "厕所"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1013707362,
+      "center": {
+        "lat": 39.8994604,
+        "lon": 116.0221229
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1462506265,
+      "center": {
+        "lat": 39.8919213,
+        "lon": 116.0206608
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "八奇洞停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465243336,
+      "center": {
+        "lat": 39.8919682,
+        "lon": 116.0249071
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1465243394,
+      "center": {
+        "lat": 39.8977859,
+        "lon": 116.0466124
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "定都阁南门停车场"
+      }
+    }
+  ]
+}

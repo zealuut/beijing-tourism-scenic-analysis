@@ -1,0 +1,154 @@
+{
+  "scenic_name": "红螺寺",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "红螺寺, 北京市, 中国",
+    "display_name": "红螺寺, 红螺路, 东宫上, 怀柔区, 北京市, 101422, 中国",
+    "osm_type": "way",
+    "osm_id": "491869586",
+    "lat": 40.375601,
+    "lng": 116.6203296
+  },
+  "candidates": [
+    {
+      "place_id": 203914056,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 491869586,
+      "lat": "40.3756010",
+      "lon": "116.6203296",
+      "category": "amenity",
+      "type": "place_of_worship",
+      "place_rank": 30,
+      "importance": 5.425726710913279e-05,
+      "addresstype": "amenity",
+      "name": "红螺寺",
+      "display_name": "红螺寺, 红螺路, 东宫上, 怀柔区, 北京市, 101422, 中国",
+      "address": {
+        "amenity": "红螺寺",
+        "road": "红螺路",
+        "hamlet": "东宫上",
+        "city": "怀柔区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "101422",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "红螺寺"
+      },
+      "boundingbox": [
+        "40.3751921",
+        "40.3760099",
+        "116.6198833",
+        "116.6207759"
+      ]
+    },
+    {
+      "place_id": 203461344,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1977207185,
+      "lat": "40.3750599",
+      "lon": "116.6203442",
+      "category": "amenity",
+      "type": "place_of_worship",
+      "place_rank": 30,
+      "importance": 5.425726710913279e-05,
+      "addresstype": "amenity",
+      "name": "红螺寺",
+      "display_name": "红螺寺, 红螺路, 东宫上, 怀柔区, 北京市, 101422, 中国",
+      "address": {
+        "amenity": "红螺寺",
+        "road": "红螺路",
+        "hamlet": "东宫上",
+        "city": "怀柔区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "101422",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "红螺寺",
+        "name:en": "Hongluo Temple",
+        "name:zh": "红螺寺",
+        "name:zh-Latn-pinyin": "Hóngluó Sì"
+      },
+      "boundingbox": [
+        "40.3750099",
+        "40.3751099",
+        "116.6202942",
+        "116.6203942"
+      ]
+    },
+    {
+      "place_id": 204263909,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9638789775,
+      "lat": "40.3573926",
+      "lon": "116.6232626",
+      "category": "railway",
+      "type": "halt",
+      "place_rank": 30,
+      "importance": 5.425726710913279e-05,
+      "addresstype": "railway",
+      "name": "红螺寺",
+      "display_name": "红螺寺, 红螺寺路, 风云庄, 怀柔区, 北京市, 101422, 中国",
+      "address": {
+        "railway": "红螺寺",
+        "road": "红螺寺路",
+        "hamlet": "风云庄",
+        "city": "怀柔区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "101422",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "红螺寺"
+      },
+      "boundingbox": [
+        "40.3573426",
+        "40.3574426",
+        "116.6232126",
+        "116.6233126"
+      ]
+    },
+    {
+      "place_id": 203212251,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7321255198,
+      "lat": "40.3738618",
+      "lon": "116.6163213",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 5.425726710913279e-05,
+      "addresstype": "highway",
+      "name": "红螺寺",
+      "display_name": "红螺寺, 红螺寺路, 东宫上, 怀柔区, 北京市, 101422, 中国",
+      "address": {
+        "highway": "红螺寺",
+        "road": "红螺寺路",
+        "hamlet": "东宫上",
+        "city": "怀柔区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "101422",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "红螺寺"
+      },
+      "boundingbox": [
+        "40.3738118",
+        "40.3739118",
+        "116.6162713",
+        "116.6163713"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:27:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 26514871,
+      "bounds": {
+        "minlat": 39.9342686,
+        "minlon": 116.3784474,
+        "maxlat": 39.937428,
+        "maxlon": 116.3811538
+      },
+      "nodes": [
+        290599458,
+        290599498,
+        383987745,
+        383987754,
+        290599621,
+        290599682,
+        13525709630,
+        1742845316,
+        1742845322,
+        290599735,
+        290599781,
+        290599458
+      ],
+      "geometry": [
+        {
+          "lat": 39.9372193,
+          "lon": 116.3784474
+        },
+        {
+          "lat": 39.937428,
+          "lon": 116.3806452
+        },
+        {
+          "lat": 39.9366845,
+          "lon": 116.3808797
+        },
+        {
+          "lat": 39.9362582,
+          "lon": 116.3809215
+        },
+        {
+          "lat": 39.9361016,
+          "lon": 116.3808525
+        },
+        {
+          "lat": 39.9343239,
+          "lon": 116.3811538
+        },
+        {
+          "lat": 39.9343194,
+          "lon": 116.3810988
+        },
+        {
+          "lat": 39.9343108,
+          "lon": 116.380613
+        },
+        {
+          "lat": 39.9342686,
+          "lon": 116.379892
+        },
+        {
+          "lat": 39.9345014,
+          "lon": 116.3796303
+        },
+        {
+          "lat": 39.9360004,
+          "lon": 116.3788728
+        },
+        {
+          "lat": 39.9372193,
+          "lon": 116.3784474
+        }
+      ],
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:street": "前海西街",
+        "alt_name": "恭亲王府",
+        "alt_name:zh": "恭王府",
+        "barrier": "wall",
+        "museum": "history",
+        "name": "恭王府",
+        "name:en": "Prince Kung's Mansion",
+        "name:ru": "Гунванфу",
+        "official_name": "恭王府博物馆",
+        "tourism": "museum",
+        "wikidata": "Q2666344",
+        "wikipedia": "zh:恭王府"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "scenic_name": "北京动物园",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "北京动物园, 北京市, 中国",
+    "display_name": "北京动物园, 五塔寺路, 北下关街道, 海淀区, 北京市, 100835, 中国",
+    "osm_type": "way",
+    "osm_id": "29222967",
+    "lat": 39.9410411,
+    "lng": 116.3295423
+  },
+  "candidates": [
+    {
+      "place_id": 204396972,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29222967,
+      "lat": "39.9410411",
+      "lon": "116.3295423",
+      "category": "tourism",
+      "type": "zoo",
+      "place_rank": 30,
+      "importance": 0.45706795194016775,
+      "addresstype": "tourism",
+      "name": "北京动物园",
+      "display_name": "北京动物园, 五塔寺路, 北下关街道, 海淀区, 北京市, 100835, 中国",
+      "address": {
+        "tourism": "北京动物园",
+        "road": "五塔寺路",
+        "suburb": "北下关街道",
+        "city": "海淀区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100835",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "北京动物园",
+        "name:en": "Beijing Zoo",
+        "name:he": "גן החיות של בייג'ינג",
+        "name:ru": "Пекинский зоопарк",
+        "name:zh": "北京动物园"
+      },
+      "boundingbox": [
+        "39.9371822",
+        "39.9449264",
+        "116.3221801",
+        "116.3369000"
+      ]
+    }
+  ]
+}

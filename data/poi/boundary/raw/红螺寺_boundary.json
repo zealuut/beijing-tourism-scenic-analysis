@@ -1,0 +1,55 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:27:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 491869586,
+      "bounds": {
+        "minlat": 40.3751921,
+        "minlon": 116.6198833,
+        "maxlat": 40.3760099,
+        "maxlon": 116.6207759
+      },
+      "nodes": [
+        4839585726,
+        4839585727,
+        4839585728,
+        4839585729,
+        4839585726
+      ],
+      "geometry": [
+        {
+          "lat": 40.3760062,
+          "lon": 116.6198833
+        },
+        {
+          "lat": 40.3760099,
+          "lon": 116.6207701
+        },
+        {
+          "lat": 40.3751958,
+          "lon": 116.6207759
+        },
+        {
+          "lat": 40.3751921,
+          "lon": 116.619889
+        },
+        {
+          "lat": 40.3760062,
+          "lon": 116.6198833
+        }
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "红螺寺",
+        "religion": "buddhist"
+      }
+    }
+  ]
+}

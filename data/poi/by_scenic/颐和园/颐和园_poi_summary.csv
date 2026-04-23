@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_02,颐和园,皇家文化类,1000,transport,15,852.37
+BJ20_02,颐和园,皇家文化类,1000,parking,4,770.69
+BJ20_02,颐和园,皇家文化类,1000,food_retail,8,706.09
+BJ20_02,颐和园,皇家文化类,1000,lodging,0,
+BJ20_02,颐和园,皇家文化类,1000,commercial,1,456.74
+BJ20_02,颐和园,皇家文化类,1000,public_service,10,410.21
+BJ20_02,颐和园,皇家文化类,1000,nearby_attractions,9,595.1
+BJ20_02,颐和园,皇家文化类,2000,transport,123,852.37
+BJ20_02,颐和园,皇家文化类,2000,parking,20,770.69
+BJ20_02,颐和园,皇家文化类,2000,food_retail,33,706.09
+BJ20_02,颐和园,皇家文化类,2000,lodging,1,1303.05
+BJ20_02,颐和园,皇家文化类,2000,commercial,6,456.74
+BJ20_02,颐和园,皇家文化类,2000,public_service,30,410.21
+BJ20_02,颐和园,皇家文化类,2000,nearby_attractions,32,595.1

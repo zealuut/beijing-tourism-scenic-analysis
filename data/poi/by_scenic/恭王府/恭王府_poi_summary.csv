@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_05,恭王府,皇家文化类,1000,transport,63,370.91
+BJ20_05,恭王府,皇家文化类,1000,parking,14,132.36
+BJ20_05,恭王府,皇家文化类,1000,food_retail,114,100.1
+BJ20_05,恭王府,皇家文化类,1000,lodging,5,516.02
+BJ20_05,恭王府,皇家文化类,1000,commercial,5,561.17
+BJ20_05,恭王府,皇家文化类,1000,public_service,34,402.24
+BJ20_05,恭王府,皇家文化类,1000,nearby_attractions,17,178.8
+BJ20_05,恭王府,皇家文化类,2000,transport,446,370.91
+BJ20_05,恭王府,皇家文化类,2000,parking,47,132.36
+BJ20_05,恭王府,皇家文化类,2000,food_retail,338,100.1
+BJ20_05,恭王府,皇家文化类,2000,lodging,59,516.02
+BJ20_05,恭王府,皇家文化类,2000,commercial,17,561.17
+BJ20_05,恭王府,皇家文化类,2000,public_service,138,402.24
+BJ20_05,恭王府,皇家文化类,2000,nearby_attractions,47,178.8

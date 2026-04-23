@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+
+*.zip
+
+outputs/*副本*
+outputs/*.zip
+
+docs.zip
+
+data/issue_labels/_tmp*
+
+.DS_Store
+Thumbs.db

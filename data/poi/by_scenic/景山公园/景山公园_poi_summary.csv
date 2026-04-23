@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_04,景山公园,皇家文化类,1000,transport,80,245.49
+BJ20_04,景山公园,皇家文化类,1000,parking,8,250.41
+BJ20_04,景山公园,皇家文化类,1000,food_retail,63,196.29
+BJ20_04,景山公园,皇家文化类,1000,lodging,7,406.57
+BJ20_04,景山公园,皇家文化类,1000,commercial,9,509.9
+BJ20_04,景山公园,皇家文化类,1000,public_service,36,147.77
+BJ20_04,景山公园,皇家文化类,1000,nearby_attractions,26,117.49
+BJ20_04,景山公园,皇家文化类,2000,transport,346,245.49
+BJ20_04,景山公园,皇家文化类,2000,parking,33,250.41
+BJ20_04,景山公园,皇家文化类,2000,food_retail,354,196.29
+BJ20_04,景山公园,皇家文化类,2000,lodging,77,406.57
+BJ20_04,景山公园,皇家文化类,2000,commercial,27,509.9
+BJ20_04,景山公园,皇家文化类,2000,public_service,180,147.77
+BJ20_04,景山公园,皇家文化类,2000,nearby_attractions,65,117.49

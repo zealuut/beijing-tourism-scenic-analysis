@@ -1,0 +1,61 @@
+{
+  "scenic_name": "景山公园",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "景山公园, 北京市, 中国",
+    "display_name": "景山公园, 什刹海街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+    "osm_type": "way",
+    "osm_id": "29201967",
+    "lat": 39.9244589,
+    "lng": 116.3903973
+  },
+  "candidates": [
+    {
+      "place_id": 205545460,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29201967,
+      "lat": "39.9244589",
+      "lon": "116.3903973",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.44053675713706325,
+      "addresstype": "park",
+      "name": "景山公园",
+      "display_name": "景山公园, 什刹海街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "address": {
+        "park": "景山公园",
+        "suburb": "什刹海街道",
+        "city": "西城区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100032",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "景山公园",
+        "name:de": "Jingshan Park",
+        "name:en": "Jingshan Park",
+        "name:eo": "Ĝingŝan-parko",
+        "name:fr": "Jingshan Park",
+        "name:ja": "景山公園",
+        "name:ko": "경산 공원",
+        "name:ml": "ജിങ്ഷാൻ പാർക്ക്",
+        "name:ru": "парк Цзиншань",
+        "name:vi": "Công viên Cảnh Sơn",
+        "name:zh": "景山公园",
+        "alt_name:de": "Kohlehügel-Park",
+        "name:zh-Hans": "景山公园",
+        "name:zh-Hant": "景山公園"
+      },
+      "boundingbox": [
+        "39.9219905",
+        "39.9268364",
+        "116.3877719",
+        "116.3929945"
+      ]
+    }
+  ]
+}

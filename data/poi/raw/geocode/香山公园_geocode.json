@@ -1,0 +1,49 @@
+{
+  "scenic_name": "香山公园",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "香山公园, 北京市, 中国",
+    "display_name": "香山公园, 香山街道, 海淀区, 北京市, 中国",
+    "osm_type": "relation",
+    "osm_id": "8758884",
+    "lat": 39.9894,
+    "lng": 116.1813774
+  },
+  "candidates": [
+    {
+      "place_id": 409346097,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 8758884,
+      "lat": "39.9894000",
+      "lon": "116.1813774",
+      "category": "leisure",
+      "type": "nature_reserve",
+      "place_rank": 24,
+      "importance": 0.4229600238656843,
+      "addresstype": "nature_reserve",
+      "name": "香山公园",
+      "display_name": "香山公园, 香山街道, 海淀区, 北京市, 中国",
+      "address": {
+        "nature_reserve": "香山公园",
+        "suburb": "香山街道",
+        "city": "海淀区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "香山公园",
+        "name:zh": "香山公园",
+        "alt_name:eo": "Xiangshan-Parko"
+      },
+      "boundingbox": [
+        "39.9829002",
+        "39.9959106",
+        "116.1708500",
+        "116.1923453"
+      ]
+    }
+  ]
+}

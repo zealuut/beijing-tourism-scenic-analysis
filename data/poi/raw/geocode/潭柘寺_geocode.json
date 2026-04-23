@@ -1,0 +1,82 @@
+{
+  "scenic_name": "潭柘寺",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "潭柘寺, 北京市, 中国",
+    "display_name": "潭柘寺, 潭柘寺镇, 门头沟区, 北京市, 中国",
+    "osm_type": "way",
+    "osm_id": "537178957",
+    "lat": 39.9028434,
+    "lng": 116.0244727
+  },
+  "candidates": [
+    {
+      "place_id": 205751640,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 537178957,
+      "lat": "39.9028434",
+      "lon": "116.0244727",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08005516823071639,
+      "addresstype": "park",
+      "name": "潭柘寺",
+      "display_name": "潭柘寺, 潭柘寺镇, 门头沟区, 北京市, 中国",
+      "address": {
+        "park": "潭柘寺",
+        "suburb": "潭柘寺镇",
+        "city": "门头沟区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "潭柘寺",
+        "name:en": "Tanzhe Temple",
+        "name:zh": "潭柘寺"
+      },
+      "boundingbox": [
+        "39.8991749",
+        "39.9050593",
+        "116.0223940",
+        "116.0265088"
+      ]
+    },
+    {
+      "place_id": 205728225,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10719248814,
+      "lat": "39.8993583",
+      "lon": "116.0243312",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 5.5168230716365566e-05,
+      "addresstype": "highway",
+      "name": "潭柘寺",
+      "display_name": "潭柘寺, 潭王路旧线, 潭柘寺镇, 门头沟区, 北京市, 中国",
+      "address": {
+        "highway": "潭柘寺",
+        "road": "潭王路旧线",
+        "suburb": "潭柘寺镇",
+        "city": "门头沟区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "潭柘寺"
+      },
+      "boundingbox": [
+        "39.8993083",
+        "39.8994083",
+        "116.0242812",
+        "116.0243812"
+      ]
+    }
+  ]
+}

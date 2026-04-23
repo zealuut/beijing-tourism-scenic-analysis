@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_10,司马台长城,长城关隘类,1000,transport,0,
+BJ20_10,司马台长城,长城关隘类,1000,parking,0,
+BJ20_10,司马台长城,长城关隘类,1000,food_retail,0,
+BJ20_10,司马台长城,长城关隘类,1000,lodging,2,636.36
+BJ20_10,司马台长城,长城关隘类,1000,commercial,0,
+BJ20_10,司马台长城,长城关隘类,1000,public_service,1,318.86
+BJ20_10,司马台长城,长城关隘类,1000,nearby_attractions,1,997.0
+BJ20_10,司马台长城,长城关隘类,2000,transport,1,1105.83
+BJ20_10,司马台长城,长城关隘类,2000,parking,0,
+BJ20_10,司马台长城,长城关隘类,2000,food_retail,4,1597.8
+BJ20_10,司马台长城,长城关隘类,2000,lodging,6,636.36
+BJ20_10,司马台长城,长城关隘类,2000,commercial,1,1157.62
+BJ20_10,司马台长城,长城关隘类,2000,public_service,5,318.86
+BJ20_10,司马台长城,长城关隘类,2000,nearby_attractions,6,997.0

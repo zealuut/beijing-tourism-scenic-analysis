@@ -1,0 +1,851 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:13:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1000765944,
+      "lat": 40.3613216,
+      "lon": 116.6112611,
+      "tags": {
+        "bus": "yes",
+        "name": "靶场路东口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1649956544,
+      "lat": 40.3704572,
+      "lon": 116.6293467,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1649956547,
+      "lat": 40.3613019,
+      "lon": 116.6345418,
+      "tags": {
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3521197796,
+      "lat": 40.3604119,
+      "lon": 116.6204735,
+      "tags": {
+        "name": "红螺湖鸟岛",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4805398897,
+      "lat": 40.3737296,
+      "lon": 116.61643,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "红螺寺",
+        "name:en": "Hongluo temple",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953617813,
+      "lat": 40.3822672,
+      "lon": 116.6394638,
+      "tags": {
+        "name": "丹枫凝露",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7294652645,
+      "lat": 40.3671751,
+      "lon": 116.630388,
+      "tags": {
+        "access": "private",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7294652736,
+      "lat": 40.3671752,
+      "lon": 116.6303503,
+      "tags": {
+        "access": "private",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255197,
+      "lat": 40.3710967,
+      "lon": 116.6195158,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "芦庄村东",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255198,
+      "lat": 40.3738618,
+      "lon": 116.6163213,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "红螺寺",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255199,
+      "lat": 40.3692755,
+      "lon": 116.6133671,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "芦庄村口",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255200,
+      "lat": 40.3690512,
+      "lon": 116.6136136,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "芦庄村口",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255201,
+      "lat": 40.3616885,
+      "lon": 116.6118261,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "红螺镇村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255202,
+      "lat": 40.3617615,
+      "lon": 116.6120932,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "红螺镇村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255213,
+      "lat": 40.3640569,
+      "lon": 116.6306542,
+      "tags": {
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "东四村",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255214,
+      "lat": 40.3679182,
+      "lon": 116.6277568,
+      "tags": {
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "东宫村南",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255258,
+      "lat": 40.3739185,
+      "lon": 116.6186123,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321255263,
+      "lat": 40.3711994,
+      "lon": 116.6191256,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "红螺鱼磬园酒家"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7530797637,
+      "lat": 40.3816209,
+      "lon": 116.6408004,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508481066,
+      "lat": 40.3667517,
+      "lon": 116.6305103,
+      "tags": {
+        "railway": "switch",
+        "ref": "油1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508481074,
+      "lat": 40.3700989,
+      "lon": 116.629471,
+      "tags": {
+        "railway": "switch",
+        "ref": "油2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529397,
+      "lat": 40.3738269,
+      "lon": 116.6163509,
+      "tags": {
+        "bus": "yes",
+        "name": "红螺寺",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529398,
+      "lat": 40.3737694,
+      "lon": 116.6163942,
+      "tags": {
+        "bus": "yes",
+        "name": "红螺寺",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529399,
+      "lat": 40.3710369,
+      "lon": 116.6199069,
+      "tags": {
+        "bus": "yes",
+        "name": "芦庄村东",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529400,
+      "lat": 40.3709767,
+      "lon": 116.6199087,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "芦庄村东",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529401,
+      "lat": 40.3693949,
+      "lon": 116.6239545,
+      "tags": {
+        "bus": "yes",
+        "name": "东宫村北",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529402,
+      "lat": 40.3693614,
+      "lon": 116.6238804,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "东宫村北",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529403,
+      "lat": 40.3676312,
+      "lon": 116.6277399,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "东宫村南",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529404,
+      "lat": 40.367652,
+      "lon": 116.6278112,
+      "tags": {
+        "bus": "yes",
+        "name": "东宫村南",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529405,
+      "lat": 40.3679111,
+      "lon": 116.6276919,
+      "tags": {
+        "bus": "yes",
+        "name": "东宫村南",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529406,
+      "lat": 40.3636361,
+      "lon": 116.630742,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "东四村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529407,
+      "lat": 40.3636671,
+      "lon": 116.6307869,
+      "tags": {
+        "bus": "yes",
+        "name": "东四村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565529408,
+      "lat": 40.3640585,
+      "lon": 116.6305982,
+      "tags": {
+        "bus": "yes",
+        "name": "东四村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565562267,
+      "lat": 40.3617469,
+      "lon": 116.6120174,
+      "tags": {
+        "bus": "yes",
+        "name": "红螺镇村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565562268,
+      "lat": 40.3617161,
+      "lon": 116.6119013,
+      "tags": {
+        "bus": "yes",
+        "name": "红螺镇村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565562269,
+      "lat": 40.3690757,
+      "lon": 116.6135374,
+      "tags": {
+        "bus": "yes",
+        "name": "芦庄村口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565562270,
+      "lat": 40.3692725,
+      "lon": 116.6134524,
+      "tags": {
+        "bus": "yes",
+        "name": "芦庄村口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019564625,
+      "lat": 40.3693802,
+      "lon": 116.614431,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "opening_hours": "24/7",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019564626,
+      "lat": 40.3701247,
+      "lon": 116.6166568,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "opening_hours": "24/7",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019564627,
+      "lat": 40.3642146,
+      "lon": 116.6306704,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "opening_hours": "24/7",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11106973706,
+      "lat": 40.3696884,
+      "lon": 116.6237622,
+      "tags": {
+        "bus": "yes",
+        "name": "东宫村北",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11106973707,
+      "lat": 40.3697095,
+      "lon": 116.6238381,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "东宫村北",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11106973708,
+      "lat": 40.3710469,
+      "lon": 116.6194902,
+      "tags": {
+        "bus": "yes",
+        "name": "芦庄村东",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11113171424,
+      "lat": 40.3613855,
+      "lon": 116.6112305,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "靶场路东口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11113171486,
+      "lat": 40.3612463,
+      "lon": 116.6111694,
+      "tags": {
+        "bus": "yes",
+        "name": "靶场路东口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11113171487,
+      "lat": 40.3611926,
+      "lon": 116.6111853,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "靶场路东口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 86207712,
+      "center": {
+        "lat": 40.3580157,
+        "lon": 116.6258035
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "105",
+        "name": "京通线",
+        "name:en": "Jingtong Line",
+        "railway": "rail",
+        "ref": "0021",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 152169101,
+      "center": {
+        "lat": 40.3610664,
+        "lon": 116.634155
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "service": "spur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392383743,
+      "center": {
+        "lat": 40.3611143,
+        "lon": 116.6324646
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "105",
+        "name": "京通线",
+        "name:en": "Jingtong Line",
+        "railway": "rail",
+        "ref": "0021",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392383744,
+      "center": {
+        "lat": 40.3642321,
+        "lon": 116.6420231
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "50",
+        "gauge": "1435",
+        "maxspeed": "105",
+        "name": "京通线",
+        "name:en": "Jingtong Line",
+        "railway": "rail",
+        "ref": "0021",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 493841199,
+      "center": {
+        "lat": 40.3722132,
+        "lon": 116.6195404
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "红螺寺3号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 493841200,
+      "center": {
+        "lat": 40.3727603,
+        "lon": 116.6187546
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "name": "红螺寺1号停车场",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 493841202,
+      "center": {
+        "lat": 40.3731466,
+        "lon": 116.617392
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "红螺寺2号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547612575,
+      "center": {
+        "lat": 40.3643159,
+        "lon": 116.6372524
+      },
+      "tags": {
+        "name": "生存岛实践基地",
+        "note": "停业中",
+        "phone": "+86 10 6068 1155",
+        "phone_1": "+86 010-60681166",
+        "tourism": "theme_park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547812486,
+      "center": {
+        "lat": 40.3815733,
+        "lon": 116.6416387
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "雁栖湖P5停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821887,
+      "center": {
+        "lat": 40.3696247,
+        "lon": 116.6230773
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "红螺寺5号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821888,
+      "center": {
+        "lat": 40.370274,
+        "lon": 116.6234286
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "红螺寺4号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821889,
+      "center": {
+        "lat": 40.3698112,
+        "lon": 116.6251391
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "红螺寺6号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821890,
+      "center": {
+        "lat": 40.3727749,
+        "lon": 116.619694
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "松林餐厅"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821891,
+      "center": {
+        "lat": 40.3735811,
+        "lon": 116.6185379
+      },
+      "tags": {
+        "amenity": "marketplace",
+        "name": "土特产市场",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821893,
+      "center": {
+        "lat": 40.3717639,
+        "lon": 116.6188907
+      },
+      "tags": {
+        "building": "yes",
+        "name": "丽泽乡村酒店",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821897,
+      "center": {
+        "lat": 40.3749368,
+        "lon": 116.6184808
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821898,
+      "center": {
+        "lat": 40.3745428,
+        "lon": 116.6178801
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 805206861,
+      "center": {
+        "lat": 40.38153,
+        "lon": 116.6406651
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1031730901,
+      "center": {
+        "lat": 40.3684253,
+        "lon": 116.6299906
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "service": "spur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1031730904,
+      "center": {
+        "lat": 40.3683603,
+        "lon": 116.6300009
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "service": "spur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1031730905,
+      "center": {
+        "lat": 40.3661696,
+        "lon": 116.6306864
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "railway": "rail",
+        "service": "spur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1230728477,
+      "center": {
+        "lat": 40.3656841,
+        "lon": 116.6232261
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19007856,
+      "center": {
+        "lat": 40.3612891,
+        "lon": 116.6112152
+      },
+      "tags": {
+        "name": "靶场路东口",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    }
+  ]
+}

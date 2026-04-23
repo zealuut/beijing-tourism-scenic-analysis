@@ -1,0 +1,4 @@
+﻿official_scenic_id,scenic_name,theme_name_cn,is_satisfaction_topic,theme_review_n,theme_issue_n,theme_negative_n,sample_n,importance,issue_rate,negative_rate,dissatisfaction_index,performance,priority_index,importance_cut,performance_cut,quadrant,scenic_priority_rank
+BJ20_09,居庸关长城,票务预约与入园体验,0,60,6,15,276,0.21739130434782608,0.1,0.25,0.175,0.825,0.03804347826086956,0.107487922705314,0.9297619047619047,高重要性低表现 = 优先改进,1
+BJ20_09,居庸关长城,现场服务与导览体验,0,14,0,1,276,0.050724637681159424,0.0,0.07142857142857142,0.03571428571428571,0.9642857142857143,0.0018115942028985507,0.107487922705314,0.9297619047619047,低重要性高表现 = 低优先级观察,2
+BJ20_09,居庸关长城,交通与开放空间体验,0,15,0,0,276,0.05434782608695652,0.0,0.0,0.0,1.0,0.0,0.107487922705314,0.9297619047619047,低重要性高表现 = 低优先级观察,3

@@ -1,0 +1,1745 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:12:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 269430212,
+      "lat": 40.3005729,
+      "lon": 116.0558377,
+      "tags": {
+        "bus": "yes",
+        "name": "三桥子路口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300532514,
+      "lat": 40.2982803,
+      "lon": 116.0626326,
+      "tags": {
+        "railway": "switch",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300532525,
+      "lat": 40.3028107,
+      "lon": 116.0575342,
+      "tags": {
+        "railway": "switch",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 980738924,
+      "lat": 40.2835166,
+      "lon": 116.0718726,
+      "tags": {
+        "bus": "yes",
+        "name": "居庸关村",
+        "name:zh": "居庸关村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 980739362,
+      "lat": 40.2833468,
+      "lon": 116.0723078,
+      "tags": {
+        "bus": "yes",
+        "name": "居庸关村",
+        "name:zh": "居庸关村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1367523951,
+      "lat": 40.2983243,
+      "lon": 116.0626492,
+      "tags": {
+        "railway": "switch",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1367523976,
+      "lat": 40.3024613,
+      "lon": 116.0577143,
+      "tags": {
+        "railway": "switch",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1367523977,
+      "lat": 40.3022186,
+      "lon": 116.0578997,
+      "tags": {
+        "railway": "switch",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1367524130,
+      "lat": 40.2994363,
+      "lon": 116.0603697,
+      "tags": {
+        "name": "居庸关",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1367524131,
+      "lat": 40.2994626,
+      "lon": 116.0604084,
+      "tags": {
+        "name": "居庸关",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1965702925,
+      "lat": 40.3007277,
+      "lon": 116.0557509,
+      "tags": {
+        "bus": "yes",
+        "name": "三桥子路口",
+        "name:zh": "三桥子路口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1965703043,
+      "lat": 40.3046422,
+      "lon": 116.0513912,
+      "tags": {
+        "bus": "yes",
+        "name": "三桥子",
+        "name:zh": "三桥子",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1965703044,
+      "lat": 40.3048938,
+      "lon": 116.0513749,
+      "tags": {
+        "bus": "yes",
+        "name": "三桥子",
+        "name:zh": "三桥子",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629212260,
+      "lat": 40.283384,
+      "lon": 116.0723453,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "居庸关村",
+        "name:zh": "居庸关村",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629212262,
+      "lat": 40.2834708,
+      "lon": 116.0718543,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "居庸关村",
+        "name:zh": "居庸关村",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629212313,
+      "lat": 40.3005885,
+      "lon": 116.0558955,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "三桥子路口",
+        "name:zh": "三桥子路口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629236383,
+      "lat": 40.2801138,
+      "lon": 116.0760825,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "南站村",
+        "name:zh": "南站村",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629236387,
+      "lat": 40.2801403,
+      "lon": 116.0761265,
+      "tags": {
+        "bus": "yes",
+        "name": "南站村",
+        "name:zh": "南站村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629236390,
+      "lat": 40.2803989,
+      "lon": 116.0758404,
+      "tags": {
+        "bus": "yes",
+        "name": "南站村",
+        "name:zh": "南站村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7843554046,
+      "lat": 40.2993821,
+      "lon": 116.0603657,
+      "tags": {
+        "alt_name": "居庸关站;居庸关火车站;Juyongguan Railway Station",
+        "name": "居庸关",
+        "name:en": "Juyongguan",
+        "railway": "station",
+        "railway:position:exact": "62.769",
+        "railway:ref": "12206",
+        "train": "yes",
+        "wikidata": "Q5960980"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9698244069,
+      "lat": 40.2787777,
+      "lon": 116.0420254,
+      "tags": {
+        "bus": "yes",
+        "name": "山羊洼",
+        "name:zh": "山羊洼",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9897334483,
+      "lat": 40.2983565,
+      "lon": 116.0624748,
+      "tags": {
+        "railway": "switch",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9897334493,
+      "lat": 40.2987309,
+      "lon": 116.0617807,
+      "tags": {
+        "railway": "switch",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9897352126,
+      "lat": 40.2968495,
+      "lon": 116.0641137,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9897352137,
+      "lat": 40.2968689,
+      "lon": 116.0652571,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9897352149,
+      "lat": 40.3017915,
+      "lon": 116.0579711,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10761299105,
+      "lat": 40.2898983,
+      "lon": 116.0755848,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10761299110,
+      "lat": 40.2909059,
+      "lon": 116.0756912,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11090762076,
+      "lat": 40.2788033,
+      "lon": 116.0420072,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "山羊洼",
+        "name:zh": "山羊洼",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11090762077,
+      "lat": 40.2787808,
+      "lon": 116.0421252,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "山羊洼",
+        "name:zh": "山羊洼",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11090762078,
+      "lat": 40.2788163,
+      "lon": 116.0421091,
+      "tags": {
+        "bus": "yes",
+        "name": "山羊洼",
+        "name:zh": "山羊洼",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11096256387,
+      "lat": 40.280418,
+      "lon": 116.0758905,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "南站村",
+        "name:zh": "南站村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11096256388,
+      "lat": 40.3006987,
+      "lon": 116.0556847,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "三桥子路口",
+        "name:zh": "三桥子路口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11098739158,
+      "lat": 40.286746,
+      "lon": 116.070342,
+      "tags": {
+        "bus": "yes",
+        "name": "居庸关长城",
+        "name:zh": "居庸关长城",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11098739159,
+      "lat": 40.2866989,
+      "lon": 116.0703587,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "居庸关长城",
+        "name:zh": "居庸关长城",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524132460,
+      "lat": 40.2882823,
+      "lon": 116.0707499,
+      "tags": {
+        "name": "六郎拴马桩",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524137123,
+      "lat": 40.2876922,
+      "lon": 116.0689128,
+      "tags": {
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "man_made": "cannon",
+        "name": "古炮",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524137124,
+      "lat": 40.2876662,
+      "lon": 116.0688626,
+      "tags": {
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "man_made": "cannon",
+        "name": "古炮",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524137125,
+      "lat": 40.2876364,
+      "lon": 116.0687823,
+      "tags": {
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "man_made": "cannon",
+        "name": "古炮",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524137126,
+      "lat": 40.2876205,
+      "lon": 116.0686913,
+      "tags": {
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "man_made": "cannon",
+        "name": "古炮",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524137127,
+      "lat": 40.2876143,
+      "lon": 116.0686171,
+      "tags": {
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "man_made": "cannon",
+        "name": "古炮",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11527282770,
+      "lat": 40.2830488,
+      "lon": 116.0789436,
+      "tags": {
+        "name": "创业楼",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11547168650,
+      "lat": 40.3025126,
+      "lon": 116.056081,
+      "tags": {
+        "name": "树枕石",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639966835,
+      "lat": 40.2895812,
+      "lon": 116.0683183,
+      "tags": {
+        "bus": "yes",
+        "name": "居庸关",
+        "name:zh": "居庸关",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639966836,
+      "lat": 40.2895997,
+      "lon": 116.0684176,
+      "tags": {
+        "bus": "yes",
+        "name": "居庸关",
+        "name:zh": "居庸关",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639966837,
+      "lat": 40.2895782,
+      "lon": 116.0684162,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "居庸关",
+        "name:zh": "居庸关",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639966838,
+      "lat": 40.289615,
+      "lon": 116.0683143,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "居庸关",
+        "name:zh": "居庸关",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11645392983,
+      "lat": 40.3049231,
+      "lon": 116.051293,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "三桥子",
+        "name:zh": "三桥子",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11645392984,
+      "lat": 40.304649,
+      "lon": 116.0514808,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "三桥子",
+        "name:zh": "三桥子",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48043750,
+      "center": {
+        "lat": 40.293314,
+        "lon": 116.0731111
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89375365,
+      "center": {
+        "lat": 40.2939505,
+        "lon": 116.0699836
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "tunnel": "yes",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89375368,
+      "center": {
+        "lat": 40.2936927,
+        "lon": 116.0699643
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "tunnel": "yes",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122353661,
+      "center": {
+        "lat": 40.299302,
+        "lon": 116.0605864
+      },
+      "tags": {
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127702021,
+      "center": {
+        "lat": 40.2879617,
+        "lon": 116.073706
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127702027,
+      "center": {
+        "lat": 40.287315,
+        "lon": 116.0700599
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "居庸关1号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185883983,
+      "center": {
+        "lat": 40.2924052,
+        "lon": 116.073896
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185883985,
+      "center": {
+        "lat": 40.2880497,
+        "lon": 116.0737847
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185883990,
+      "center": {
+        "lat": 40.292582,
+        "lon": 116.0742502
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "layer": "1",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185883992,
+      "center": {
+        "lat": 40.3002407,
+        "lon": 116.0596383
+      },
+      "tags": {
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185883994,
+      "center": {
+        "lat": 40.2930696,
+        "lon": 116.0729688
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840602912,
+      "center": {
+        "lat": 40.281317,
+        "lon": 116.077682
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "50",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840602913,
+      "center": {
+        "lat": 40.2813599,
+        "lon": 116.0777419
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "50",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 991688620,
+      "center": {
+        "lat": 40.289848,
+        "lon": 116.067424
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "居庸关3号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 991688622,
+      "center": {
+        "lat": 40.2854067,
+        "lon": 116.0702377
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "居庸关2号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749505,
+      "center": {
+        "lat": 40.2985437,
+        "lon": 116.0621278
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "service": "crossover"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749506,
+      "center": {
+        "lat": 40.2975649,
+        "lon": 116.0633731
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "railway:track_ref": "下行辅助线",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749507,
+      "center": {
+        "lat": 40.2975966,
+        "lon": 116.0639532
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "railway:track_ref": "上行避难线",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749508,
+      "center": {
+        "lat": 40.2963955,
+        "lon": 116.0648309
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749509,
+      "center": {
+        "lat": 40.2960899,
+        "lon": 116.0651267
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749510,
+      "center": {
+        "lat": 40.3021264,
+        "lon": 116.0578427
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "railway:track_ref": "下行安全线",
+        "service": "siding"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749511,
+      "center": {
+        "lat": 40.3004089,
+        "lon": 116.0600946
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "I",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749512,
+      "center": {
+        "lat": 40.3025147,
+        "lon": 116.0577169
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "railway": "rail",
+        "service": "crossover"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079749513,
+      "center": {
+        "lat": 40.3004748,
+        "lon": 116.0598402
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "railway:track_ref": "II",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242532,
+      "center": {
+        "lat": 40.2896434,
+        "lon": 116.0685109
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "居庸关公交场站",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242537,
+      "center": {
+        "lat": 40.2900286,
+        "lon": 116.0683476
+      },
+      "tags": {
+        "building": "yes",
+        "name": "叠翠宫",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242546,
+      "center": {
+        "lat": 40.2908427,
+        "lon": 116.0676231
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "古客栈餐厅"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242556,
+      "center": {
+        "lat": 40.2910611,
+        "lon": 116.0673514
+      },
+      "tags": {
+        "building": "yes",
+        "name": "聚翠园",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242560,
+      "center": {
+        "lat": 40.2906382,
+        "lon": 116.067368
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242561,
+      "center": {
+        "lat": 40.2905082,
+        "lon": 116.0674926
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242562,
+      "center": {
+        "lat": 40.290391,
+        "lon": 116.0676146
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "name": "游客中心",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242563,
+      "center": {
+        "lat": 40.2902812,
+        "lon": 116.0677091
+      },
+      "tags": {
+        "building": "yes",
+        "information": "office",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242568,
+      "center": {
+        "lat": 40.2911766,
+        "lon": 116.0668539
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "麦当劳",
+        "brand:en": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:zh": "麦当劳",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "麦当劳",
+        "name:en": "McDonald's",
+        "name:zh": "麦当劳",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242576,
+      "center": {
+        "lat": 40.2916224,
+        "lon": 116.0663779
+      },
+      "tags": {
+        "building": "yes",
+        "name": "长城食品商店",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242588,
+      "center": {
+        "lat": 40.2920132,
+        "lon": 116.0665136
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242616,
+      "center": {
+        "lat": 40.2884184,
+        "lon": 116.0685114
+      },
+      "tags": {
+        "ceremonial_gate": "paifang",
+        "man_made": "ceremonial_gate",
+        "name": "国计坊",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242629,
+      "center": {
+        "lat": 40.2872277,
+        "lon": 116.0689623
+      },
+      "tags": {
+        "ceremonial_gate": "paifang",
+        "man_made": "ceremonial_gate",
+        "name": "迎恩坊",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242631,
+      "center": {
+        "lat": 40.2862176,
+        "lon": 116.0699212
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242632,
+      "center": {
+        "lat": 40.2866066,
+        "lon": 116.0696088
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242633,
+      "center": {
+        "lat": 40.2864283,
+        "lon": 116.0697512
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242646,
+      "center": {
+        "lat": 40.2880179,
+        "lon": 116.069677
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240242654,
+      "center": {
+        "lat": 40.2889857,
+        "lon": 116.0672267
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "居庸关4号停车场"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363243,
+      "center": {
+        "lat": 40.291929,
+        "lon": 116.0703789
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363250,
+      "center": {
+        "lat": 40.2866896,
+        "lon": 116.069015
+      },
+      "tags": {
+        "ceremonial_gate": "paifang",
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "inscription": "泮宫",
+        "man_made": "ceremonial_gate",
+        "name": "泮宫石坊",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363258,
+      "center": {
+        "lat": 40.2882557,
+        "lon": 116.0677091
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363259,
+      "center": {
+        "lat": 40.2885323,
+        "lon": 116.0675106
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363262,
+      "center": {
+        "lat": 40.2895745,
+        "lon": 116.0667145
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363309,
+      "center": {
+        "lat": 40.2881546,
+        "lon": 116.0663122
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363310,
+      "center": {
+        "lat": 40.2884306,
+        "lon": 116.0664027
+      },
+      "tags": {
+        "historic": "school",
+        "museum": "history",
+        "name": "叠翠书院",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363311,
+      "center": {
+        "lat": 40.2885446,
+        "lon": 116.0663648
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363312,
+      "center": {
+        "lat": 40.2884617,
+        "lon": 116.066566
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363313,
+      "center": {
+        "lat": 40.2883095,
+        "lon": 116.0664342
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363315,
+      "center": {
+        "lat": 40.2883922,
+        "lon": 116.0662336
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363321,
+      "center": {
+        "lat": 40.2881373,
+        "lon": 116.0665653
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363322,
+      "center": {
+        "lat": 40.2880728,
+        "lon": 116.0669743
+      },
+      "tags": {
+        "historic": "government",
+        "museum": "history",
+        "name": "户曹行署",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363323,
+      "center": {
+        "lat": 40.2880612,
+        "lon": 116.0668893
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "government",
+        "historic:civilization": "imperial_chinese",
+        "museum": "history",
+        "name": "中厅",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363326,
+      "center": {
+        "lat": 40.288251,
+        "lon": 116.0669629
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "name": "吏胥厅",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363327,
+      "center": {
+        "lat": 40.2882257,
+        "lon": 116.0668268
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "name": "庖厩厅",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363329,
+      "center": {
+        "lat": 40.2880332,
+        "lon": 116.0667356
+      },
+      "tags": {
+        "building": "yes",
+        "historic": "dormitory",
+        "historic:civilization": "imperial_chinese",
+        "museum": "history",
+        "name": "寝室",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363331,
+      "center": {
+        "lat": 40.2878901,
+        "lon": 116.0669384
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363332,
+      "center": {
+        "lat": 40.2879182,
+        "lon": 116.0670741
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363339,
+      "center": {
+        "lat": 40.286991,
+        "lon": 116.0638744
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363340,
+      "center": {
+        "lat": 40.2869027,
+        "lon": 116.0642129
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363349,
+      "center": {
+        "lat": 40.2875082,
+        "lon": 116.0607471
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240363354,
+      "center": {
+        "lat": 40.289345,
+        "lon": 116.0601267
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1241562667,
+      "center": {
+        "lat": 40.3055801,
+        "lon": 116.0551308
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1241562669,
+      "center": {
+        "lat": 40.3054755,
+        "lon": 116.0552938
+      },
+      "tags": {
+        "electrified": "no",
+        "gauge": "1435",
+        "highspeed": "no",
+        "maxspeed": "45",
+        "name": "京包线",
+        "name:en": "Beijing–Baotou Railway",
+        "name:zh": "京包线",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "0028",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 318110,
+      "center": {
+        "lat": 34.5950076,
+        "lon": 108.9659793
+      },
+      "tags": {
+        "alt_name": "万里长城",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "material": "stone",
+        "military": "cordon",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fi": "Kiinan muuri",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:id": "Tembok Besar Tiongkok",
+        "name:it": "Grande Muraglia Cinese",
+        "name:ja": "万里の長城",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mi": "Maioro Nui Whakaharahara o Haina",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pl": "Wielki Mur Chiński",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:tr": "Çin Seddi",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:zh": "长城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "note": "Maybe a split of this relation into smaller 'per province' relations would be better",
+        "ref:whc": "438",
+        "tourism": "attraction",
+        "type": "collection",
+        "whc:inscription_date": "1987",
+        "wikidata": "Q12501",
+        "wikipedia": "zh:长城"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3449932,
+      "center": {
+        "lat": 40.3006503,
+        "lon": 116.0557901
+      },
+      "tags": {
+        "name": "三桥子路口",
+        "name:zh": "三桥子路口",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3449933,
+      "center": {
+        "lat": 40.2834317,
+        "lon": 116.0720998
+      },
+      "tags": {
+        "name": "居庸关村",
+        "name:zh": "居庸关村",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3450091,
+      "center": {
+        "lat": 40.2802659,
+        "lon": 116.0759834
+      },
+      "tags": {
+        "name": "南站村",
+        "name:zh": "南站村",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 16161331,
+      "center": {
+        "lat": 40.278797,
+        "lon": 116.0420662
+      },
+      "tags": {
+        "name": "山羊洼",
+        "name:zh": "山羊洼",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17235979,
+      "center": {
+        "lat": 40.2895966,
+        "lon": 116.068366
+      },
+      "tags": {
+        "name": "居庸关",
+        "name:zh": "居庸关",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    }
+  ]
+}

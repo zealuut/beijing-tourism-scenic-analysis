@@ -1,0 +1,1920 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:14:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 283336457,
+      "lat": 39.9781206,
+      "lon": 116.1813623,
+      "tags": {
+        "name": "鬼笑石",
+        "name:en": "Ghost Laughing Stone",
+        "name:zh": "鬼笑石",
+        "name:zh-Latn-pinyin": "guixiao shi",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295350688,
+      "lat": 39.9930347,
+      "lon": 116.1987627,
+      "tags": {
+        "name": "超市发超市",
+        "name:en": "Chaoshifa Supermarket",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295350783,
+      "lat": 39.9912599,
+      "lon": 116.1953783,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295351140,
+      "lat": 39.9913364,
+      "lon": 116.1965487,
+      "tags": {
+        "name": "群英朝市",
+        "name:en": "Qunying Convenient Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 607326497,
+      "lat": 39.9808158,
+      "lon": 116.2010055,
+      "tags": {
+        "bus": "yes",
+        "name": "红旗村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1963781480,
+      "lat": 39.9930306,
+      "lon": 116.1981527,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "麦当劳",
+        "brand:en": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "zh:麦当劳",
+        "brand:zh": "麦当劳",
+        "brand:zh-Hans": "麦当劳",
+        "cuisine": "burger",
+        "name": "麦当劳",
+        "name:en": "McDonald's",
+        "name:zh": "麦当劳",
+        "name:zh-Hans": "麦当劳",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1963880532,
+      "lat": 39.9954486,
+      "lon": 116.1954087,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2123313410,
+      "lat": 39.9970569,
+      "lon": 116.2022826,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264711480,
+      "lat": 39.9901742,
+      "lon": 116.2043284,
+      "tags": {
+        "bus": "yes",
+        "name": "国家植物园西南门",
+        "name:zh": "国家植物园西南门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264739795,
+      "lat": 39.9808155,
+      "lon": 116.2011625,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "红旗村",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264739796,
+      "lat": 39.9807077,
+      "lon": 116.2008663,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "红旗村",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264739799,
+      "lat": 39.9901583,
+      "lon": 116.2042693,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "国家植物园西南门",
+        "name:zh": "国家植物园西南门",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264739800,
+      "lat": 39.9896044,
+      "lon": 116.2047092,
+      "tags": {
+        "bus": "yes",
+        "name": "国家植物园西南门",
+        "name:zh": "国家植物园西南门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264739810,
+      "lat": 39.9807261,
+      "lon": 116.2010119,
+      "tags": {
+        "bus": "yes",
+        "name": "红旗村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3803776467,
+      "lat": 39.9905193,
+      "lon": 116.1926379,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2026-03-06",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "雕刻时光咖啡馆",
+        "name:en": "Sculpting in Time Cafe",
+        "name:zh": "雕刻时光咖啡馆",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5037948061,
+      "lat": 39.9927344,
+      "lon": 116.1977602,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164348621,
+      "lat": 39.994739,
+      "lon": 116.1891368,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2026-03-06",
+        "name": "兰溪小馆",
+        "name:zh": "兰溪小馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315233368,
+      "lat": 39.992778,
+      "lon": 116.1977587,
+      "tags": {
+        "railway": "buffer_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315233371,
+      "lat": 39.9927687,
+      "lon": 116.1983874,
+      "tags": {
+        "light_rail": "yes",
+        "name": "香山",
+        "name:en": "Fragrant Hills",
+        "name:zh": "香山",
+        "name:zh-Hans": "香山",
+        "name:zh-Hant": "香山",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5403015584,
+      "lat": 39.9928167,
+      "lon": 116.1983825,
+      "tags": {
+        "light_rail": "yes",
+        "name": "香山",
+        "name:en": "Fragrant Hills",
+        "name:zh": "香山",
+        "name:zh-Hans": "香山",
+        "name:zh-Hant": "香山",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5621379390,
+      "lat": 39.9927971,
+      "lon": 116.1984344,
+      "tags": {
+        "light_rail": "yes",
+        "name": "香山",
+        "name:en": "Fragrant Hills",
+        "name:zh": "香山",
+        "name:zh-Hans": "香山",
+        "name:zh-Hant": "香山",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q46173973",
+        "wikipedia": "en:Fragrant Hills station (Beijing Subway)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636423118,
+      "lat": 39.9899912,
+      "lon": 116.190172,
+      "tags": {
+        "addr:street": "买卖街",
+        "building": "yes",
+        "building:use": "service",
+        "information": "office",
+        "name": "游客服务中心",
+        "name:en": "Tourist Information Center",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5645109037,
+      "lat": 39.990213,
+      "lon": 116.1909,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5652854480,
+      "lat": 39.9938494,
+      "lon": 116.1877216,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657665793,
+      "lat": 39.9902678,
+      "lon": 116.1864507,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657665796,
+      "lat": 39.990526,
+      "lon": 116.187227,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659797273,
+      "lat": 39.9922819,
+      "lon": 116.1850635,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659813987,
+      "lat": 39.9940409,
+      "lon": 116.1871553,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659828999,
+      "lat": 39.9943415,
+      "lon": 116.1893979,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659854468,
+      "lat": 39.9942456,
+      "lon": 116.1913364,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659854471,
+      "lat": 39.9933011,
+      "lon": 116.1915908,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5662514318,
+      "lat": 39.9900976,
+      "lon": 116.1897445,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5665129248,
+      "lat": 39.9946339,
+      "lon": 116.1989379,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5665452433,
+      "lat": 39.9949811,
+      "lon": 116.2027151,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5665452434,
+      "lat": 39.9923592,
+      "lon": 116.2040421,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5668251936,
+      "lat": 39.9892472,
+      "lon": 116.1901071,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5671081849,
+      "lat": 39.9905643,
+      "lon": 116.1948091,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5671101489,
+      "lat": 39.9917446,
+      "lon": 116.1920919,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5677236751,
+      "lat": 39.9945438,
+      "lon": 116.1871316,
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5677236752,
+      "lat": 39.9929694,
+      "lon": 116.1806726,
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5677236753,
+      "lat": 39.9911673,
+      "lon": 116.1731056,
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5681563705,
+      "lat": 39.9937703,
+      "lon": 116.1982828,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5686568074,
+      "lat": 39.9935719,
+      "lon": 116.1983559,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5687239478,
+      "lat": 39.9968194,
+      "lon": 116.1978872,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5697852616,
+      "lat": 39.9939991,
+      "lon": 116.1962492,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5698244328,
+      "lat": 39.994898,
+      "lon": 116.1977736,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5719116000,
+      "lat": 39.9897989,
+      "lon": 116.1832672,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5729337760,
+      "lat": 39.9933343,
+      "lon": 116.1894765,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5738067750,
+      "lat": 39.9854625,
+      "lon": 116.1890717,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5742651261,
+      "lat": 39.9897685,
+      "lon": 116.1837486,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5746214538,
+      "lat": 39.986286,
+      "lon": 116.186291,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5761083975,
+      "lat": 39.9889519,
+      "lon": 116.1829065,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5915226327,
+      "lat": 39.9911763,
+      "lon": 116.1942462,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "庆丰包子铺",
+        "brand:en": "Qingfeng Steamed Dumpling Shop",
+        "brand:wikidata": "Q24841010",
+        "brand:zh": "庆丰包子铺",
+        "cuisine": "chinese",
+        "name": "庆丰包子铺",
+        "name:en": "Qingfeng Steamed Dumpling Shop",
+        "name:zh": "庆丰包子铺",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5915226339,
+      "lat": 39.9943875,
+      "lon": 116.2019449,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940073064,
+      "lat": 39.98316,
+      "lon": 116.1863504,
+      "tags": {
+        "direction": "NE",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5965522407,
+      "lat": 39.9833823,
+      "lon": 116.181794,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6011895539,
+      "lat": 39.9971478,
+      "lon": 116.1904749,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6018983143,
+      "lat": 39.9936987,
+      "lon": 116.1919872,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056512809,
+      "lat": 39.9956005,
+      "lon": 116.1872252,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056512818,
+      "lat": 39.994725,
+      "lon": 116.187909,
+      "tags": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6276117868,
+      "lat": 39.9926096,
+      "lon": 116.2035077,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6276117869,
+      "lat": 39.9926521,
+      "lon": 116.2035021,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6483332886,
+      "lat": 39.9885714,
+      "lon": 116.1722224,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6483353565,
+      "lat": 39.9888275,
+      "lon": 116.1779566,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6534643433,
+      "lat": 39.9881634,
+      "lon": 116.1748437,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6565490086,
+      "lat": 39.9892377,
+      "lon": 116.1779353,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6565490122,
+      "lat": 39.9894476,
+      "lon": 116.1778811,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6648987385,
+      "lat": 39.9911688,
+      "lon": 116.1846953,
+      "tags": {
+        "name": "隔云钟",
+        "name:en": "Ge Yun Bell Pavilion",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6648990287,
+      "lat": 39.9907983,
+      "lon": 116.1814675,
+      "tags": {
+        "name:en": "Chongcui Yan",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6649125985,
+      "lat": 39.9898429,
+      "lon": 116.1712949,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6649226485,
+      "lat": 39.9886967,
+      "lon": 116.1733732,
+      "tags": {
+        "name": "大梅字石刻",
+        "name:en": "Plum Stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9403975394,
+      "lat": 39.9821172,
+      "lon": 116.1803854,
+      "tags": {
+        "amenity": "toilets",
+        "unisex": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9403975395,
+      "lat": 39.9822028,
+      "lon": 116.1803811,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9792745456,
+      "lat": 39.9809045,
+      "lon": 116.1847519,
+      "tags": {
+        "name": "老二胡崖",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9891431810,
+      "lat": 40.0025743,
+      "lon": 116.1762719,
+      "tags": {
+        "name": "云豹岩",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966127433,
+      "lat": 39.9877437,
+      "lon": 116.1675055,
+      "tags": {
+        "name": "比熊岩",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077717615,
+      "lat": 39.98961,
+      "lon": 116.2047435,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "国家植物园西南门",
+        "name:zh": "国家植物园西南门",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077717616,
+      "lat": 39.9922171,
+      "lon": 116.1987786,
+      "tags": {
+        "bus": "yes",
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077775317,
+      "lat": 39.9921648,
+      "lon": 116.19878,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077775318,
+      "lat": 39.9922167,
+      "lon": 116.1981782,
+      "tags": {
+        "bus": "yes",
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077775319,
+      "lat": 39.9921618,
+      "lon": 116.1981802,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077775320,
+      "lat": 39.9929335,
+      "lon": 116.198671,
+      "tags": {
+        "bus": "yes",
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077775321,
+      "lat": 39.9930202,
+      "lon": 116.1986656,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10077775322,
+      "lat": 39.9918006,
+      "lon": 116.2017602,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "name": "香山一颗松",
+        "name:zh": "香山一颗松",
+        "name:zh-Hans": "香山一颗松",
+        "name:zh-Hant": "香山一顆松",
+        "opening_hours": "24/7",
+        "operator": "北京海淀生态环保有限公司",
+        "phone": "+86 10 6871 6285",
+        "ref": "108102042t137",
+        "toilets:disposal": "flush",
+        "toilets:position": "squat",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931377,
+      "lat": 39.9984743,
+      "lon": 116.1706531,
+      "tags": {
+        "name": "龟石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931399,
+      "lat": 39.9993594,
+      "lon": 116.1694734,
+      "tags": {
+        "name": "望京崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931406,
+      "lat": 39.999094,
+      "lon": 116.1701217,
+      "tags": {
+        "name": "将军守关",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931451,
+      "lat": 39.9968038,
+      "lon": 116.1693241,
+      "tags": {
+        "alt_name_1": "蛤蟆石",
+        "name": "猴三磊",
+        "name:en": "Housanlei",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931555,
+      "lat": 39.9976109,
+      "lon": 116.1700637,
+      "tags": {
+        "name": "大圣岩",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931589,
+      "lat": 39.9970676,
+      "lon": 116.1697089,
+      "tags": {
+        "name": "四层像石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931744,
+      "lat": 39.9932646,
+      "lon": 116.1773698,
+      "tags": {
+        "fixme": "有天枢、天璇、天玑、天权、玉衡、开阳、摇光共七条上崖路线，其具体位置未知",
+        "name": "北斗崖",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10566931745,
+      "lat": 39.9931039,
+      "lon": 116.1772737,
+      "tags": {
+        "name": "小崖壁",
+        "natural": "cliff",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10653553105,
+      "lat": 39.9926466,
+      "lon": 116.2036328,
+      "tags": {
+        "railway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10653553106,
+      "lat": 39.9926063,
+      "lon": 116.2036337,
+      "tags": {
+        "railway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10744500316,
+      "lat": 39.990406,
+      "lon": 116.1944213,
+      "tags": {
+        "bus": "yes",
+        "name": "香山公园东门",
+        "name:zh": "香山公园东门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10744500317,
+      "lat": 39.9904011,
+      "lon": 116.1943647,
+      "tags": {
+        "bus": "yes",
+        "name": "香山公园东门",
+        "name:zh": "香山公园东门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10744500318,
+      "lat": 39.9904793,
+      "lon": 116.1943573,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "香山公园东门",
+        "name:zh": "香山公园东门",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10744500321,
+      "lat": 39.990319,
+      "lon": 116.1944506,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "香山公园东门",
+        "name:zh": "香山公园东门",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10957722230,
+      "lat": 39.9791241,
+      "lon": 116.1939497,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10957722231,
+      "lat": 39.979102,
+      "lon": 116.1938585,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11691296818,
+      "lat": 39.9983822,
+      "lon": 116.1707163,
+      "tags": {
+        "name": "三片石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11691296853,
+      "lat": 39.9991336,
+      "lon": 116.1744589,
+      "tags": {
+        "name": "盘龙石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11691297220,
+      "lat": 40.0041559,
+      "lon": 116.1873478,
+      "tags": {
+        "name": "牵你大斜坡",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12428795004,
+      "lat": 39.9822338,
+      "lon": 116.1946246,
+      "tags": {
+        "name": "晏公祠",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13167695616,
+      "lat": 39.9859357,
+      "lon": 116.2022393,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 76841865,
+      "center": {
+        "lat": 39.9899849,
+        "lon": 116.1925773
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 76842700,
+      "center": {
+        "lat": 39.9881428,
+        "lon": 116.1885266
+      },
+      "tags": {
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "香山饭店",
+        "name:en": "Fragrant Hill Hotel",
+        "name:fr": "Hôtel des Collines parfumées",
+        "name:zh": "香山饭店",
+        "name:zh-Latn-pinyin": "xiāngshān fàndiàn",
+        "tourism": "hotel",
+        "wikidata": "Q16075106",
+        "wikimedia_commons": "Category:Fragrant Hill Hotel",
+        "wikipedia": "zh:香山饭店"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185453500,
+      "center": {
+        "lat": 39.9977287,
+        "lon": 116.1879728
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "玉皇顶停车场",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225648347,
+      "center": {
+        "lat": 39.9913818,
+        "lon": 116.1935436
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "#8 停车场",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225648353,
+      "center": {
+        "lat": 39.9911873,
+        "lon": 116.1924615
+      },
+      "tags": {
+        "amenity": "parking",
+        "name": "#9 停车场",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225735388,
+      "center": {
+        "lat": 39.9912184,
+        "lon": 116.1729331
+      },
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "香山索道上站",
+        "name:en": "Cable Car Terminal",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225761254,
+      "center": {
+        "lat": 39.9939938,
+        "lon": 116.1957812
+      },
+      "tags": {
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "香山社区卫生服务站",
+        "name:en": "Xiang Shan Community Health Service Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504547042,
+      "center": {
+        "lat": 39.9924274,
+        "lon": 116.2056893
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "name:zh": "西郊线",
+        "name:zh-Hans": "西郊线",
+        "name:zh-Hant": "西郊線",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533115666,
+      "center": {
+        "lat": 39.985287,
+        "lon": 116.18697
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550303978,
+      "center": {
+        "lat": 39.9928218,
+        "lon": 116.1990793
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "railway": "light_rail",
+        "service": "crossover",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550303979,
+      "center": {
+        "lat": 39.9928249,
+        "lon": 116.1990786
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "railway": "light_rail",
+        "service": "crossover",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550303983,
+      "center": {
+        "lat": 39.9924636,
+        "lon": 116.2056978
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "name:zh": "西郊线",
+        "name:zh-Hans": "西郊线",
+        "name:zh-Hant": "西郊線",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593217201,
+      "center": {
+        "lat": 39.9943894,
+        "lon": 116.1890234
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 594804409,
+      "center": {
+        "lat": 39.9902381,
+        "lon": 116.1888656
+      },
+      "tags": {
+        "area": "yes",
+        "barrier": "fence",
+        "name": "致远斋",
+        "name:en": "Zhi Yuan Zhai",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 602802468,
+      "center": {
+        "lat": 39.9928525,
+        "lon": 116.185502
+      },
+      "tags": {
+        "area": "yes",
+        "barrier": "wall",
+        "name": "见心斋",
+        "name:en": "Tranquil Heart Studio",
+        "opening_hours": "Mo-Su 08:30-16:30",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 605472716,
+      "center": {
+        "lat": 39.9852448,
+        "lon": 116.1880286
+      },
+      "tags": {
+        "barrier": "wall",
+        "historic": "building",
+        "name": "双清别墅",
+        "name:en": "Twin Springs Villa",
+        "name:zh": "双清别墅",
+        "ruins": "no",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 605472718,
+      "center": {
+        "lat": 39.9852415,
+        "lon": 116.1870357
+      },
+      "tags": {
+        "barrier": "wall",
+        "historic": "building",
+        "name": "欢喜园",
+        "name:en": "Emporer's Happiness Garden",
+        "name:zh": "欢喜园",
+        "ruins": "no",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 609095019,
+      "center": {
+        "lat": 39.9919342,
+        "lon": 116.1925825
+      },
+      "tags": {
+        "amenity": "parking",
+        "landuse": "retail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627939790,
+      "center": {
+        "lat": 39.9903728,
+        "lon": 116.1940467
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "香山公园东门",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629246692,
+      "center": {
+        "lat": 39.9956203,
+        "lon": 116.1846986
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629286590,
+      "center": {
+        "lat": 39.999471,
+        "lon": 116.2007347
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636737969,
+      "center": {
+        "lat": 39.9895086,
+        "lon": 116.19023
+      },
+      "tags": {
+        "building": "yes",
+        "name": "香山皇家礼物旗舰店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 641838190,
+      "center": {
+        "lat": 39.9908852,
+        "lon": 116.1718535
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 642067802,
+      "center": {
+        "lat": 39.9945434,
+        "lon": 116.1871632
+      },
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "香山索道下站",
+        "name:en": "Cable Car Terminal",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 724834333,
+      "center": {
+        "lat": 39.991517,
+        "lon": 116.1985031
+      },
+      "tags": {
+        "building": "yes",
+        "museum": "history",
+        "name": "香山革命纪念馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 729417106,
+      "center": {
+        "lat": 39.9867541,
+        "lon": 116.1873178
+      },
+      "tags": {
+        "area": "yes",
+        "barrier": "fence",
+        "name": "来青轩",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 863627571,
+      "center": {
+        "lat": 39.9839402,
+        "lon": 116.2038954
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 874627988,
+      "center": {
+        "lat": 39.9904842,
+        "lon": 116.1997702
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 874627989,
+      "center": {
+        "lat": 39.9926234,
+        "lon": 116.1982632
+      },
+      "tags": {
+        "area": "yes",
+        "light_rail": "yes",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 874627990,
+      "center": {
+        "lat": 39.9920573,
+        "lon": 116.1934501
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 888819119,
+      "center": {
+        "lat": 39.9895587,
+        "lon": 116.1965163
+      },
+      "tags": {
+        "landuse": "commercial",
+        "name": "世纪金源香山商旅酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 926678859,
+      "center": {
+        "lat": 39.9986546,
+        "lon": 116.2032296
+      },
+      "tags": {
+        "end_date": "2002",
+        "gauge": "800",
+        "name": "北京植物园游览小火车",
+        "operator": "北京植物园",
+        "railway": "razed",
+        "usage": "tourism"
+      }
+    },
+    {
+      "type": "way",
+      "id": 963857892,
+      "center": {
+        "lat": 39.9889548,
+        "lon": 116.1870179
+      },
+      "tags": {
+        "building": "yes",
+        "name": "中共中央图书馆旧址",
+        "name_en": "Small White Tower - Library of the CPC Central Committee",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 963883190,
+      "center": {
+        "lat": 39.9902236,
+        "lon": 116.1898918
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 969677073,
+      "center": {
+        "lat": 40.006112,
+        "lon": 116.1891804
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1032006595,
+      "center": {
+        "lat": 39.9979292,
+        "lon": 116.1822587
+      },
+      "tags": {
+        "amenity": "parking",
+        "charge": "一天20元",
+        "fee": "yes",
+        "parking": "surface",
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1044262611,
+      "center": {
+        "lat": 39.9825841,
+        "lon": 116.1913696
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1049705997,
+      "center": {
+        "lat": 39.9929114,
+        "lon": 116.1807203
+      },
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "香山索道中站",
+        "name:en": "Cable Car Terminal",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050155185,
+      "center": {
+        "lat": 39.9912279,
+        "lon": 116.1719271
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "云岫茶苑"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1057608490,
+      "center": {
+        "lat": 39.9930074,
+        "lon": 116.1974288
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1057608494,
+      "center": {
+        "lat": 39.9936437,
+        "lon": 116.1967043
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "北京农商银行",
+        "brand:en": "Beijing Rural Commercial Bank",
+        "brand:wikidata": "Q10902046",
+        "brand:zh": "北京农商银行",
+        "building": "yes",
+        "name": "北京农商银行",
+        "name:en": "Beijing Rural Commercial Bank",
+        "name:zh": "北京农商银行"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1062579518,
+      "center": {
+        "lat": 39.9910357,
+        "lon": 116.2020846
+      },
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "neurology",
+        "name": "首都医科大学三博脑科医院（北京三博脑科医院）",
+        "name:en": "Sanbo Brain Hospital, Capital Medical University",
+        "name:zh": "首都医科大学三博脑科医院（北京三博脑科医院）",
+        "name:zh-Hans": "首都医科大学三博脑科医院（北京三博脑科医院）",
+        "name:zh-Hant": "首都醫科大學三博腦科醫院（北京三博腦科醫院）",
+        "operator": "首都医科大学",
+        "operator:type": "government",
+        "website": "https://www.sbnk.cn/",
+        "wheelchair": "yes",
+        "wikidata": "Q30288553",
+        "wikipedia": "zh:首都医科大学三博脑科医院"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1067064236,
+      "center": {
+        "lat": 39.9913417,
+        "lon": 116.1907223
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1089872922,
+      "center": {
+        "lat": 39.9967835,
+        "lon": 116.1796343
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1173536105,
+      "center": {
+        "lat": 39.991538,
+        "lon": 116.1892552
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1190741554,
+      "center": {
+        "lat": 40.0003919,
+        "lon": 116.175898
+      },
+      "tags": {
+        "access": "permissive",
+        "amenity": "parking",
+        "capacity": "5",
+        "operator": "西山林场",
+        "operator:type": "government",
+        "parking": "surface",
+        "surface": "unpaved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1432561933,
+      "center": {
+        "lat": 39.9812,
+        "lon": 116.2016428
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1432561934,
+      "center": {
+        "lat": 39.9811721,
+        "lon": 116.2024214
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1432561937,
+      "center": {
+        "lat": 39.9774944,
+        "lon": 116.1975314
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2875251,
+      "center": {
+        "lat": 39.9898893,
+        "lon": 116.2045064
+      },
+      "tags": {
+        "name": "国家植物园西南门",
+        "name:zh": "国家植物园西南门",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2875256,
+      "center": {
+        "lat": 39.9807617,
+        "lon": 116.2010144
+      },
+      "tags": {
+        "name": "红旗村",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8302898,
+      "center": {
+        "lat": 39.9927927,
+        "lon": 116.1984084
+      },
+      "tags": {
+        "name": "香山",
+        "name:en": "Fragrant Hills",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14659754,
+      "center": {
+        "lat": 39.992591,
+        "lon": 116.1984791
+      },
+      "tags": {
+        "name": "香山",
+        "name:zh": "香山",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 15617601,
+      "center": {
+        "lat": 39.9903992,
+        "lon": 116.1944039
+      },
+      "tags": {
+        "name": "香山公园东门",
+        "name:zh": "香山公园东门",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    }
+  ]
+}

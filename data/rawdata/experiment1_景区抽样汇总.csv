@@ -1,0 +1,21 @@
+﻿experiment_name,slot_rank,category_name,requested_name,selected_name,selected_from,source_file_name,scenic_name,available_n,sample_target_n,sample_actual_n,sample_rule,is_full_300,min_review_time,max_review_time
+experiment1,1,皇家文化类,故宫博物院,故宫博物院,primary,故宫博物院.csv,故宫博物院,2896,300,300,time_sorted_evenly_spaced,1,2026-02-17,2026-04-21
+experiment1,2,皇家文化类,颐和园,颐和园,primary,颐和园.csv,颐和园,2719,300,300,time_sorted_evenly_spaced,1,2024-10-14,2026-04-21
+experiment1,3,皇家文化类,天坛公园,天坛公园,primary,天坛公园.csv,天坛公园,2749,300,300,time_sorted_evenly_spaced,1,2025-02-24,2026-04-21
+experiment1,4,皇家文化类,圆明园遗址公园,景山公园,fallback,景山公园.csv,景山公园,2651,300,300,time_sorted_evenly_spaced,1,2016-05-09,2026-04-19
+experiment1,5,皇家文化类,恭王府,恭王府,primary,恭王府.csv,恭王府,2806,300,300,time_sorted_evenly_spaced,1,2025-10-29,2026-04-21
+experiment1,6,皇家文化类,明十三陵,明十三陵,primary,明十三陵.csv,明十三陵,2676,300,300,time_sorted_evenly_spaced,1,2022-01-01,2026-04-21
+experiment1,7,长城关隘类,八达岭长城风景名胜区,八达岭长城,primary,八达岭长城风景名胜区.csv,八达岭长城风景名胜区,2810,300,300,time_sorted_evenly_spaced,1,2025-11-27,2026-04-21
+experiment1,8,长城关隘类,慕田峪长城,慕田峪长城,primary,慕田峪长城.csv,慕田峪长城,2781,300,300,time_sorted_evenly_spaced,1,2025-10-29,2026-04-21
+experiment1,9,长城关隘类,居庸关长城,居庸关长城,primary,居庸关长城.csv,居庸关长城,2797,300,300,time_sorted_evenly_spaced,1,2016-05-05,2026-04-20
+experiment1,10,长城关隘类,司马台长城景区,司马台长城,primary,司马台长城景区.csv,司马台长城景区,834,300,300,time_sorted_evenly_spaced,1,2016-06-11,2026-04-21
+experiment1,11,宗教古建类,潭柘寺,潭柘寺,primary,潭柘寺.csv,潭柘寺,2026,300,300,time_sorted_evenly_spaced,1,2019-04-24,2026-04-21
+experiment1,12,宗教古建类,红螺寺,红螺寺,primary,红螺寺.csv,红螺寺,2044,300,300,time_sorted_evenly_spaced,1,2016-05-21,2026-04-21
+experiment1,13,博物馆 / 纪念馆 / 科普场馆类,首都博物馆,首都博物馆,primary,首都博物馆.csv,首都博物馆,526,300,300,time_sorted_evenly_spaced,1,2016-06-27,2026-03-12
+experiment1,14,博物馆 / 纪念馆 / 科普场馆类,北京天文馆,北京天文馆,primary,北京天文馆.csv,北京天文馆,991,300,300,time_sorted_evenly_spaced,1,2016-05-07,2026-04-11
+experiment1,15,博物馆 / 纪念馆 / 科普场馆类,中国航空博物馆,中国科学技术馆,fallback,中国科学技术馆.csv,中国科学技术馆,2917,300,300,time_sorted_evenly_spaced,1,2020-05-23,2026-04-18
+experiment1,16,城市公园 / 园林 / 动植物观赏类,香山公园,香山公园,primary,香山公园.csv,香山公园,2863,300,300,time_sorted_evenly_spaced,1,2020-11-18,2026-04-11
+experiment1,17,城市公园 / 园林 / 动植物观赏类,北京动物园,北京动物园,primary,北京动物园.csv,北京动物园,2701,300,300,time_sorted_evenly_spaced,1,2024-04-23,2026-04-21
+experiment1,18,城市公园 / 园林 / 动植物观赏类,玉渊潭公园,玉渊潭公园,primary,玉渊潭公园.csv,玉渊潭公园,750,300,300,time_sorted_evenly_spaced,1,2016-05-13,2026-04-11
+experiment1,19,现代城市地标与事件遗产类,北京市奥林匹克公园,国家游泳中心,fallback,国家游泳中心.csv,国家游泳中心,864,300,300,time_sorted_evenly_spaced,1,2016-05-06,2026-04-21
+experiment1,20,现代城市地标与事件遗产类,北京（通州）大运河文化旅游景区,奥林匹克塔,fallback,奥林匹克塔.csv,奥林匹克塔,634,300,300,time_sorted_evenly_spaced,1,2018-01-26,2026-04-21

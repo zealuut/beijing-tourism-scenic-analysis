@@ -1,0 +1,185 @@
+{
+  "scenic_name": "明十三陵",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "明十三陵, 北京市, 中国",
+    "display_name": "明十三陵神道, 十三陵镇, 昌平区, 北京市, 中国",
+    "osm_type": "way",
+    "osm_id": "1303123866",
+    "lat": 40.2589315,
+    "lng": 116.2201625
+  },
+  "candidates": [
+    {
+      "place_id": 219272141,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1303123866,
+      "lat": "40.2589315",
+      "lon": "116.2201625",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08005744487678337,
+      "addresstype": "park",
+      "name": "明十三陵神道",
+      "display_name": "明十三陵神道, 十三陵镇, 昌平区, 北京市, 中国",
+      "address": {
+        "park": "明十三陵神道",
+        "town": "十三陵镇",
+        "city": "昌平区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "明十三陵神道"
+      },
+      "boundingbox": [
+        "40.2528562",
+        "40.2646990",
+        "116.2163740",
+        "116.2244700"
+      ]
+    },
+    {
+      "place_id": 218925242,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25110720,
+      "lat": "40.2556788",
+      "lon": "116.2184392",
+      "category": "historic",
+      "type": "ruins",
+      "place_rank": 30,
+      "importance": 5.7444876783352675e-05,
+      "addresstype": "historic",
+      "name": "明十三陵总神道",
+      "display_name": "明十三陵总神道, 大宫门东环路, 东坟地, 十三陵镇, 昌平区, 北京市, 102249, 中国",
+      "address": {
+        "historic": "明十三陵总神道",
+        "road": "大宫门东环路",
+        "hamlet": "东坟地",
+        "town": "十三陵镇",
+        "city": "昌平区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "102249",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "明十三陵总神道",
+        "name:en": "The Sacred Way of Ming Tombs",
+        "name:zh": "明十三陵总神道"
+      },
+      "boundingbox": [
+        "40.2475292",
+        "40.2655587",
+        "116.2142006",
+        "116.2250215"
+      ]
+    },
+    {
+      "place_id": 219108555,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1019882807,
+      "lat": "40.2923149",
+      "lon": "116.2240159",
+      "category": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 5.7444876783352675e-05,
+      "addresstype": "amenity",
+      "name": "明十三陵定陵大客车停车场",
+      "display_name": "明十三陵定陵大客车停车场, 环陵路一支线, 十三陵镇, 昌平区, 北京市, 中国",
+      "address": {
+        "amenity": "明十三陵定陵大客车停车场",
+        "road": "环陵路一支线",
+        "town": "十三陵镇",
+        "city": "昌平区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "明十三陵定陵大客车停车场"
+      },
+      "boundingbox": [
+        "40.2915293",
+        "40.2931373",
+        "116.2230401",
+        "116.2249932"
+      ]
+    },
+    {
+      "place_id": 219145848,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 618803079,
+      "lat": "40.2917982",
+      "lon": "116.2215705",
+      "category": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 5.7444876783352675e-05,
+      "addresstype": "amenity",
+      "name": "明十三陵定陵小车停车场",
+      "display_name": "明十三陵定陵小车停车场, 三座桥, 十三陵镇, 昌平区, 北京市, 中国",
+      "address": {
+        "amenity": "明十三陵定陵小车停车场",
+        "road": "三座桥",
+        "town": "十三陵镇",
+        "city": "昌平区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "明十三陵定陵小车停车场"
+      },
+      "boundingbox": [
+        "40.2913386",
+        "40.2924945",
+        "116.2205935",
+        "116.2225179"
+      ]
+    },
+    {
+      "place_id": 219272109,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1051740810,
+      "lat": "40.2642781",
+      "lon": "116.2254782",
+      "category": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 5.7444876783352675e-05,
+      "addresstype": "amenity",
+      "name": "明十三陵神路北门停车场",
+      "display_name": "明十三陵神路北门停车场, 神道东路, 东坟地, 十三陵镇, 昌平区, 北京市, 102249, 中国",
+      "address": {
+        "amenity": "明十三陵神路北门停车场",
+        "road": "神道东路",
+        "hamlet": "东坟地",
+        "town": "十三陵镇",
+        "city": "昌平区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "102249",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "明十三陵神路北门停车场"
+      },
+      "boundingbox": [
+        "40.2636832",
+        "40.2649250",
+        "116.2246437",
+        "116.2263212"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scenic_name": "玉渊潭公园",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "玉渊潭公园, 北京市, 中国",
+    "display_name": "玉渊潭公园, 甘家口街道, 海淀区, 北京市, 中国",
+    "osm_type": "way",
+    "osm_id": "29222903",
+    "lat": 39.9158092,
+    "lng": 116.3140323
+  },
+  "candidates": [
+    {
+      "place_id": 202186247,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29222903,
+      "lat": "39.9158092",
+      "lon": "116.3140323",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.349558219859191,
+      "addresstype": "park",
+      "name": "玉渊潭公园",
+      "display_name": "玉渊潭公园, 甘家口街道, 海淀区, 北京市, 中国",
+      "address": {
+        "park": "玉渊潭公园",
+        "suburb": "甘家口街道",
+        "city": "海淀区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "玉渊潭公园",
+        "name:en": "Yuyuantan Park",
+        "name:zh": "玉渊潭公园",
+        "alt_name": "玉渊潭",
+        "short_name": "紫竹院"
+      },
+      "boundingbox": [
+        "39.9114521",
+        "39.9201061",
+        "116.3045761",
+        "116.3281312"
+      ]
+    }
+  ]
+}

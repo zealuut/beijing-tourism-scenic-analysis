@@ -1,0 +1,161 @@
+{
+  "scenic_name": "八达岭长城",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "八达岭长城, 北京市, 中国",
+    "display_name": "八达岭长城, 出站通道, 延庆区, 北京市, 中国",
+    "osm_type": "node",
+    "osm_id": "6472124842",
+    "lat": 40.3603284,
+    "lng": 116.0050515
+  },
+  "candidates": [
+    {
+      "place_id": 219293497,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6472124842,
+      "lat": "40.3603284",
+      "lon": "116.0050515",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3492426022163027,
+      "addresstype": "railway",
+      "name": "八达岭长城",
+      "display_name": "八达岭长城, 出站通道, 延庆区, 北京市, 中国",
+      "address": {
+        "railway": "八达岭长城",
+        "road": "出站通道",
+        "city": "延庆区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "八达岭长城",
+        "name:cs": "Pa-ta-ling-čchang-čcheng",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "alt_name": "八达岭长城站;八达岭长城火车站;BadalingChangcheng Railway Station",
+        "alt_name:en": "Badaling Chang Cheng",
+        "name:zh-Hans": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城",
+        "official_name:en": "Badaling Great Wall Railway Station",
+        "name:zh-Latn-pinyin": "Badaling Changcheng"
+      },
+      "boundingbox": [
+        "40.3553284",
+        "40.3653284",
+        "116.0000515",
+        "116.0100515"
+      ]
+    },
+    {
+      "place_id": 219256076,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1464136593,
+      "lat": "40.3576444",
+      "lon": "116.0120629",
+      "category": "historic",
+      "type": "castle_wall",
+      "place_rank": 30,
+      "importance": 5.5090409704692416e-05,
+      "addresstype": "historic",
+      "name": "八达岭长城",
+      "display_name": "八达岭长城, 长城, 延庆区, 北京市, 中国",
+      "address": {
+        "historic": "八达岭长城",
+        "road": "长城",
+        "city": "延庆区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城"
+      },
+      "boundingbox": [
+        "40.3503026",
+        "40.3640991",
+        "115.9986422",
+        "116.0198657"
+      ]
+    },
+    {
+      "place_id": 217902809,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11637210522,
+      "lat": "40.3515064",
+      "lon": "116.0104448",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 5.5090409704692416e-05,
+      "addresstype": "highway",
+      "name": "八达岭长城",
+      "display_name": "八达岭长城, 八达岭路, 延庆区, 北京市, 中国",
+      "address": {
+        "highway": "八达岭长城",
+        "road": "八达岭路",
+        "city": "延庆区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "八达岭长城",
+        "name:en": "Badaling Great Wall",
+        "name:zh": "八达岭长城",
+        "name:zh-Hans": "八达岭长城",
+        "name:zh-Hant": "八達嶺長城"
+      },
+      "boundingbox": [
+        "40.3514564",
+        "40.3515564",
+        "116.0103948",
+        "116.0104948"
+      ]
+    },
+    {
+      "place_id": 219298037,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 269429634,
+      "lat": "40.3576490",
+      "lon": "115.9822350",
+      "category": "highway",
+      "type": "motorway_junction",
+      "place_rank": 30,
+      "importance": 5.5090409704692416e-05,
+      "addresstype": "highway",
+      "name": "八达岭长城",
+      "display_name": "八达岭长城, 京藏高速, 南园老村, 延庆区, 北京市, 中国",
+      "address": {
+        "highway": "八达岭长城",
+        "road": "京藏高速",
+        "hamlet": "南园老村",
+        "city": "延庆区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "ref": "58",
+        "name": "八达岭长城",
+        "name:zh": "八达岭长城"
+      },
+      "boundingbox": [
+        "40.3575990",
+        "40.3576990",
+        "115.9821850",
+        "115.9822850"
+      ]
+    }
+  ]
+}

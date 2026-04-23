@@ -1,0 +1,68 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:27:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 136998797,
+      "bounds": {
+        "minlat": 39.9046117,
+        "minlon": 116.3348822,
+        "maxlat": 39.905427,
+        "maxlon": 116.3368649
+      },
+      "nodes": [
+        4143247289,
+        1502879481,
+        1502879479,
+        1502879480,
+        4143247289
+      ],
+      "geometry": [
+        {
+          "lat": 39.905427,
+          "lon": 116.3348888
+        },
+        {
+          "lat": 39.9054175,
+          "lon": 116.3368649
+        },
+        {
+          "lat": 39.9046117,
+          "lon": 116.3368583
+        },
+        {
+          "lat": 39.9046212,
+          "lon": 116.3348822
+        },
+        {
+          "lat": 39.905427,
+          "lon": 116.3348888
+        }
+      ],
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "复兴门外大街",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "首都博物馆",
+        "name:en": "Capital Museum",
+        "name:es": "Museo de la Capital",
+        "name:zh": "首都博物馆",
+        "name:zh-Hans": "首都博物馆",
+        "name:zh-Hant": "首都博物館",
+        "opening_hours": "Tu-Su 09:00-17:00",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q1189666",
+        "wikimedia_commons": "Category:Capital Museum",
+        "wikipedia": "zh:首都博物馆",
+        "wikipedia:zh": "首都博物馆"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿label,label_n,label_share_all_reviews,label_share_issue_reviews
+staff_service,5,0.004448,0.03012
+service_process,11,0.009786,0.066265
+guide_explanation,28,0.024911,0.168675
+queue_wait,22,0.019573,0.13253
+reservation_entry,10,0.008897,0.060241
+ticket_price,44,0.039146,0.26506
+traffic_access,22,0.019573,0.13253
+facility_hygiene,12,0.010676,0.072289
+crowding,37,0.032918,0.222892
+commercialization,11,0.009786,0.066265
+platform_transaction,12,0.010676,0.072289

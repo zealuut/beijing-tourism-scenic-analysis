@@ -1,0 +1,4296 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:09:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 269492188,
+      "lat": 39.9808692,
+      "lon": 116.267504,
+      "tags": {
+        "amenity": "toilets",
+        "check_date": "2022-04-23",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269708600,
+      "lat": 39.9894163,
+      "lon": 116.2734196,
+      "tags": {
+        "name": "铜牛",
+        "name:en": "Bronze Ox",
+        "name:zh": "铜牛",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 274942287,
+      "lat": 39.9966395,
+      "lon": 116.2735788,
+      "tags": {
+        "amenity": "toilets",
+        "check_date": "2022-09-18",
+        "fee": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 274942596,
+      "lat": 39.9970578,
+      "lon": 116.2723183,
+      "tags": {
+        "name": "水木自亲码头",
+        "name:zh-Hant": "水木自親碼頭",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 274942613,
+      "lat": 39.996505,
+      "lon": 116.2729818,
+      "tags": {
+        "name": "日月成辉",
+        "name:zh-Latn-pinyin": "Ri Yue Cheng Hui",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300814728,
+      "lat": 39.982405,
+      "lon": 116.2740962,
+      "tags": {
+        "bus": "yes",
+        "name": "六郎庄西口",
+        "name:zh": "六郎庄西口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528916026,
+      "lat": 39.9966504,
+      "lon": 116.2855053,
+      "tags": {
+        "name": "西苑",
+        "name:en": "Xiyuan",
+        "name:zh": "西苑",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528916061,
+      "lat": 40.001161,
+      "lon": 116.2713357,
+      "tags": {
+        "name": "北宫门",
+        "name:en": "Beigongmen",
+        "name:zh": "北宫门",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 563686304,
+      "lat": 39.9852116,
+      "lon": 116.2562785,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "name:zh": "颐和园西门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 563686305,
+      "lat": 39.984952,
+      "lon": 116.25597,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "name:zh": "颐和园西门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 563686310,
+      "lat": 39.9828302,
+      "lon": 116.2535636,
+      "tags": {
+        "bus": "yes",
+        "name": "北坞村",
+        "name:zh": "北坞村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 662879763,
+      "lat": 40.001834,
+      "lon": 116.2676505,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1361503553,
+      "lat": 40.007147,
+      "lon": 116.2652729,
+      "tags": {
+        "bus": "yes",
+        "name": "安河桥",
+        "name:zh": "安河桥",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1362259031,
+      "lat": 39.9967452,
+      "lon": 116.2855641,
+      "tags": {
+        "name": "西苑",
+        "name:en": "Xiyuan",
+        "name:zh": "西苑",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1362259044,
+      "lat": 39.9975252,
+      "lon": 116.2852239,
+      "tags": {
+        "covered": "yes",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1362259058,
+      "lat": 40.0009484,
+      "lon": 116.2713639,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1362259110,
+      "lat": 40.0012438,
+      "lon": 116.271385,
+      "tags": {
+        "name": "北宫门",
+        "name:en": "Beigongmen",
+        "name:zh": "北宫门",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420930909,
+      "lat": 39.9988453,
+      "lon": 116.2845571,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420930919,
+      "lat": 39.9989788,
+      "lon": 116.2847235,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420930927,
+      "lat": 39.9968422,
+      "lon": 116.2857229,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420930928,
+      "lat": 39.9972051,
+      "lon": 116.2847458,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1421547756,
+      "lat": 39.9979402,
+      "lon": 116.2844948,
+      "tags": {
+        "covered": "yes",
+        "layer": "-1",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422005500,
+      "lat": 39.9969044,
+      "lon": 116.2788977,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园",
+        "name:zh": "颐和园",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422005527,
+      "lat": 39.9971288,
+      "lon": 116.2794756,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园",
+        "name:zh": "颐和园",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422005595,
+      "lat": 39.9969806,
+      "lon": 116.2788851,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园",
+        "name:zh": "颐和园",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422005596,
+      "lat": 39.9970447,
+      "lon": 116.279489,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园",
+        "name:zh": "颐和园",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422005598,
+      "lat": 39.9956379,
+      "lon": 116.2761328,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "name": "颐和园消防队",
+        "opening_hours": "Mo-Su 05:00-23:00; Apr 1-Oct 31 05:00-24:00",
+        "operator": "海淀区环境卫生服务中心",
+        "phone": "68716285;62555813",
+        "ref": "1081021s010",
+        "ref:manager": "1-001",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423042634,
+      "lat": 39.996822,
+      "lon": 116.2860706,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423042662,
+      "lat": 40.0008255,
+      "lon": 116.2722267,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423042817,
+      "lat": 40.0014278,
+      "lon": 116.2708336,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423042876,
+      "lat": 40.0015989,
+      "lon": 116.2706439,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423043079,
+      "lat": 40.0072363,
+      "lon": 116.2653467,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "安河桥",
+        "name:zh": "安河桥",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423966915,
+      "lat": 39.9965527,
+      "lon": 116.2851117,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423966920,
+      "lat": 39.9968522,
+      "lon": 116.284284,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1497409730,
+      "lat": 39.9962074,
+      "lon": 116.28565,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1497409732,
+      "lat": 39.9961986,
+      "lon": 116.2858568,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1592328674,
+      "lat": 39.9971327,
+      "lon": 116.2653758,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1716348871,
+      "lat": 40.0066358,
+      "lon": 116.2635926,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "安河桥",
+        "name:zh": "安河桥",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1716349945,
+      "lat": 40.0066537,
+      "lon": 116.2636361,
+      "tags": {
+        "bus": "yes",
+        "name": "安河桥",
+        "name:zh": "安河桥",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1855685350,
+      "lat": 39.9963569,
+      "lon": 116.2866818,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1922053560,
+      "lat": 40.0015905,
+      "lon": 116.2714995,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "肯德基",
+        "brand:en": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "zh:肯德基",
+        "brand:zh": "肯德基",
+        "cuisine": "chicken",
+        "name": "肯德基",
+        "name:en": "KFC",
+        "name:zh": "肯德基",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "肯德基",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923269555,
+      "lat": 40.0011434,
+      "lon": 116.2710235,
+      "tags": {
+        "bus": "yes",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923269556,
+      "lat": 40.001174,
+      "lon": 116.2707973,
+      "tags": {
+        "bus": "yes",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923269557,
+      "lat": 40.0012107,
+      "lon": 116.2712741,
+      "tags": {
+        "bus": "yes",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923269558,
+      "lat": 40.00128,
+      "lon": 116.2708021,
+      "tags": {
+        "bus": "yes",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923288937,
+      "lat": 40.0027205,
+      "lon": 116.2678322,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园北宫门",
+        "name:zh": "颐和园北宫门",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923288940,
+      "lat": 40.0027391,
+      "lon": 116.2679194,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园北宫门",
+        "name:zh": "颐和园北宫门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923288941,
+      "lat": 40.0026138,
+      "lon": 116.2681454,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园北宫门",
+        "name:zh": "颐和园北宫门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923578527,
+      "lat": 39.9965405,
+      "lon": 116.2767395,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园",
+        "name:zh": "颐和园",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923578528,
+      "lat": 39.996546,
+      "lon": 116.276826,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园",
+        "name:zh": "颐和园",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923901359,
+      "lat": 39.9884378,
+      "lon": 116.2748476,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923915477,
+      "lat": 39.9896642,
+      "lon": 116.2764949,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2036253885,
+      "lat": 40.0004074,
+      "lon": 116.2787595,
+      "tags": {
+        "bus": "yes",
+        "name": "坡上村",
+        "name:zh": "坡上村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2036253887,
+      "lat": 40.0005168,
+      "lon": 116.2784492,
+      "tags": {
+        "bus": "yes",
+        "name": "坡上村",
+        "name:zh": "坡上村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2036515723,
+      "lat": 39.9983549,
+      "lon": 116.2832863,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑北站",
+        "name:zh": "西苑北站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2036515724,
+      "lat": 39.9983657,
+      "lon": 116.2834018,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑北站",
+        "name:zh": "西苑北站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264603625,
+      "lat": 40.0042626,
+      "lon": 116.2624538,
+      "tags": {
+        "bus": "yes",
+        "name": "青龙桥",
+        "name:zh": "青龙桥",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264607854,
+      "lat": 40.0041013,
+      "lon": 116.2622614,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "青龙桥",
+        "name:zh": "青龙桥",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264607856,
+      "lat": 40.0042905,
+      "lon": 116.2626404,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "青龙桥",
+        "name:zh": "青龙桥",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264607857,
+      "lat": 40.0042,
+      "lon": 116.2621243,
+      "tags": {
+        "bus": "yes",
+        "name": "青龙桥",
+        "name:zh": "青龙桥",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264612971,
+      "lat": 40.004694,
+      "lon": 116.2560485,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "军事科学院",
+        "name:zh": "军事科学院",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264612976,
+      "lat": 40.004831,
+      "lon": 116.2564429,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "军事科学院",
+        "name:zh": "军事科学院",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264612982,
+      "lat": 40.0047683,
+      "lon": 116.2560446,
+      "tags": {
+        "bus": "yes",
+        "name": "军事科学院",
+        "name:zh": "军事科学院",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264612983,
+      "lat": 40.0047733,
+      "lon": 116.2564442,
+      "tags": {
+        "bus": "yes",
+        "name": "军事科学院",
+        "name:zh": "军事科学院",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509341792,
+      "lat": 39.9850088,
+      "lon": 116.2558824,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "name:zh": "颐和园西门",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509341797,
+      "lat": 39.9851255,
+      "lon": 116.2564067,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "name:zh": "颐和园西门",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509408819,
+      "lat": 39.9813398,
+      "lon": 116.2500781,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "北坞村西站",
+        "name:zh": "北坞村西站",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509408820,
+      "lat": 39.9815986,
+      "lon": 116.2502211,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "北坞村西站",
+        "name:zh": "北坞村西站",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509408822,
+      "lat": 39.9827611,
+      "lon": 116.2536299,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "北坞村",
+        "name:zh": "北坞村",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509408826,
+      "lat": 39.9827503,
+      "lon": 116.2534231,
+      "tags": {
+        "bus": "yes",
+        "name": "北坞村",
+        "name:zh": "北坞村",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509408827,
+      "lat": 39.9814189,
+      "lon": 116.2500297,
+      "tags": {
+        "bus": "yes",
+        "name": "北坞村西站",
+        "name:zh": "北坞村西站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2509408828,
+      "lat": 39.9815178,
+      "lon": 116.2502712,
+      "tags": {
+        "bus": "yes",
+        "name": "北坞村西站",
+        "name:zh": "北坞村西站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2814741939,
+      "lat": 40.0014088,
+      "lon": 116.2799479,
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2814741964,
+      "lat": 40.0028813,
+      "lon": 116.2792833,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3485503453,
+      "lat": 39.998716,
+      "lon": 116.2757042,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3485503482,
+      "lat": 39.9991245,
+      "lon": 116.2762631,
+      "tags": {
+        "amenity": "toilets",
+        "check_date": "2022-08-28",
+        "fee": "no",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4471021689,
+      "lat": 40.0006597,
+      "lon": 116.2685775,
+      "tags": {
+        "name": "苏州街",
+        "name:en": "Suzhou street",
+        "name:fr": "Rue Suzhou",
+        "name:nl": "Suzhoustraat",
+        "name:zh": "苏州街",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4822625121,
+      "lat": 39.996719,
+      "lon": 116.2757976,
+      "tags": {
+        "name": "颐和园",
+        "name:de": "(Neuer) Sommerpalast",
+        "name:en": "Summer Palace",
+        "name:th": "พระราชวังฤดูร้อน",
+        "name:zh": "颐和园",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002396425,
+      "lat": 39.9969845,
+      "lon": 116.2839487,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "麦当劳",
+        "brand:en": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "zh:麦当劳",
+        "brand:zh": "麦当劳",
+        "brand:zh-Hans": "麦当劳",
+        "cuisine": "burger",
+        "name": "麦当劳",
+        "name:en": "McDonald's",
+        "name:zh": "麦当劳",
+        "name:zh-Hans": "麦当劳",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002396524,
+      "lat": 39.9970841,
+      "lon": 116.2835556,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "必胜客",
+        "brand:en": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "zh:必胜客",
+        "brand:zh": "必胜客",
+        "cuisine": "pizza",
+        "name": "必胜客",
+        "name:en": "Pizza Hut",
+        "name:zh": "必胜客"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002396526,
+      "lat": 39.9971274,
+      "lon": 116.2832798,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008827128,
+      "lat": 39.9849731,
+      "lon": 116.2677508,
+      "tags": {
+        "name": "景明楼",
+        "name:en": "Jing Ming Building",
+        "name:zh": "景明楼",
+        "name:zh-Latn-pinyin": "Jǐngmíng lóu",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5037948442,
+      "lat": 39.9788542,
+      "lon": 116.2688583,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5037948443,
+      "lat": 39.9788275,
+      "lon": 116.2688227,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260167134,
+      "lat": 39.9796803,
+      "lon": 116.2464275,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "陶记"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236150,
+      "lat": 39.9844717,
+      "lon": 116.2557279,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236151,
+      "lat": 39.9844555,
+      "lon": 116.2557526,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236156,
+      "lat": 39.9844934,
+      "lon": 116.2571696,
+      "tags": {
+        "light_rail": "yes",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236157,
+      "lat": 39.9844757,
+      "lon": 116.2571634,
+      "tags": {
+        "light_rail": "yes",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "public_transport": "stop_position",
+        "railway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236173,
+      "lat": 39.9818812,
+      "lon": 116.2613846,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236174,
+      "lat": 39.9818553,
+      "lon": 116.2613563,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236176,
+      "lat": 39.9787647,
+      "lon": 116.2665989,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5315236177,
+      "lat": 39.9787287,
+      "lon": 116.2666431,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5477106382,
+      "lat": 39.9754857,
+      "lon": 116.2516188,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "一罐香"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5515645721,
+      "lat": 39.9970301,
+      "lon": 116.2738065,
+      "tags": {
+        "name": "德和园",
+        "name:de": "Garten der Tugend und Harmonie",
+        "name:en": "Garden of virtue and harmony",
+        "name:nl": "Tuin van Deugdzaamheid en Harmonie",
+        "name:zh": "德和园",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5598130732,
+      "lat": 39.9970428,
+      "lon": 116.2691699,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5598237450,
+      "lat": 39.9901865,
+      "lon": 116.269554,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5621379388,
+      "lat": 39.984516,
+      "lon": 116.2571775,
+      "tags": {
+        "light_rail": "yes",
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q46174701"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5643497521,
+      "lat": 39.99541,
+      "lon": 116.2744657,
+      "tags": {
+        "name": "文昌阁",
+        "name:en": "Wenchang Gallery",
+        "name:zh": "文昌阁",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5876700341,
+      "lat": 39.9804619,
+      "lon": 116.2741631,
+      "tags": {
+        "bus": "yes",
+        "name": "六郎庄西口",
+        "name:zh": "六郎庄西口",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5878682285,
+      "lat": 39.999719,
+      "lon": 116.2678661,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6019834337,
+      "lat": 39.9846798,
+      "lon": 116.2605219,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6385011810,
+      "lat": 39.9980562,
+      "lon": 116.2679373,
+      "tags": {
+        "name": "佛香阁",
+        "name:en": "Buddha Incense Gallery",
+        "name:zh": "佛香阁",
+        "name:zh-Latn-pinyin": "Fú xiāng gé",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6417472117,
+      "lat": 39.9801803,
+      "lon": 116.2635503,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6417472118,
+      "lat": 39.9801621,
+      "lon": 116.2635281,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6417472119,
+      "lat": 39.9814659,
+      "lon": 116.2619899,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6417472120,
+      "lat": 39.981438,
+      "lon": 116.2619588,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6420561939,
+      "lat": 39.9968835,
+      "lon": 116.2690743,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6497814374,
+      "lat": 40.0011928,
+      "lon": 116.2713671,
+      "tags": {
+        "name": "北宫门站",
+        "name:de": "Beigongmen",
+        "name:en": "Beigongmen",
+        "name:zh": "北宫门",
+        "operator": "北京京港地铁",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4881073"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6580603898,
+      "lat": 39.9966984,
+      "lon": 116.2855319,
+      "tags": {
+        "name": "西苑",
+        "name:en": "Xiyuan",
+        "name:zh": "西苑",
+        "operator": "北京京港地铁",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6635078070,
+      "lat": 39.9842702,
+      "lon": 116.2576605,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6635078071,
+      "lat": 39.9842975,
+      "lon": 116.2576701,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6635078072,
+      "lat": 39.9846267,
+      "lon": 116.256748,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6635078073,
+      "lat": 39.9846512,
+      "lon": 116.2567589,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6637360686,
+      "lat": 39.9953338,
+      "lon": 116.2615463,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813624660,
+      "lat": 39.9993536,
+      "lon": 116.2684701,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813624661,
+      "lat": 39.9993146,
+      "lon": 116.2680557,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813624662,
+      "lat": 39.9994071,
+      "lon": 116.2680383,
+      "tags": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813624663,
+      "lat": 39.9994523,
+      "lon": 116.2684607,
+      "tags": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813634466,
+      "lat": 39.9962273,
+      "lon": 116.2739204,
+      "tags": {
+        "name": "自动导游讲解",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832344385,
+      "lat": 39.9988432,
+      "lon": 116.2743777,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6859058848,
+      "lat": 39.9960677,
+      "lon": 116.2855698,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Yu Xiao Mian Noodles"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6992517787,
+      "lat": 39.9963654,
+      "lon": 116.2742391,
+      "tags": {
+        "name": "仁寿殿",
+        "name:es": "Salon de benevolencia",
+        "name:zh": "仁寿殿",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7220540633,
+      "lat": 40.0013462,
+      "lon": 116.2808591,
+      "tags": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7221608582,
+      "lat": 39.9958733,
+      "lon": 116.2866964,
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7407702785,
+      "lat": 39.9858911,
+      "lon": 116.2690576,
+      "tags": {
+        "name": "昆明湖 中國北京龍脈",
+        "name:en": "Kunming Lake",
+        "name:zh": "昆明湖",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7440032352,
+      "lat": 39.9835269,
+      "lon": 116.2547423,
+      "tags": {
+        "description": "西郊线",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7453156156,
+      "lat": 39.9966858,
+      "lon": 116.2846854,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "肯德基",
+        "brand:en": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "zh:肯德基",
+        "brand:zh": "肯德基",
+        "cuisine": "chicken",
+        "name": "肯德基",
+        "name:en": "KFC",
+        "name:zh": "肯德基",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7453156157,
+      "lat": 39.996711,
+      "lon": 116.2840399,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "吉野家",
+        "brand:en": "Yoshinoya",
+        "brand:ja": "吉野家",
+        "brand:wikidata": "Q776272",
+        "brand:wikipedia": "ja:吉野家",
+        "brand:zh": "吉野家",
+        "cuisine": "beef_bowl",
+        "name": "吉野家",
+        "name:en": "Yoshinoya",
+        "name:ja": "吉野家",
+        "name:zh": "吉野家",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7557569616,
+      "lat": 39.9965476,
+      "lon": 116.2850743,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "茶大爷"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7557581704,
+      "lat": 39.9970603,
+      "lon": 116.2827723,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "云海肴"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7557582785,
+      "lat": 39.996798,
+      "lon": 116.2844054,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "赛百味",
+        "brand:en": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "zh:赛百味",
+        "brand:zh": "赛百味",
+        "cuisine": "sandwich",
+        "name": "赛百味",
+        "name:en": "Subway",
+        "name:zh": "赛百味",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540417,
+      "lat": 39.9966444,
+      "lon": 116.2658577,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540418,
+      "lat": 39.9964307,
+      "lon": 116.2641236,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540419,
+      "lat": 39.9966568,
+      "lon": 116.2640968,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540420,
+      "lat": 39.9972475,
+      "lon": 116.2639506,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540421,
+      "lat": 39.9997009,
+      "lon": 116.2625357,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540422,
+      "lat": 39.999744,
+      "lon": 116.2616788,
+      "tags": {
+        "name:signed": "no",
+        "opening_hours": "Apr-Oct PH,Mo-Su 08:30-18:00; Nov-Mar PH,Mo-Su 08:30-17:00",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7839540476,
+      "lat": 39.9962412,
+      "lon": 116.2600312,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8105622725,
+      "lat": 39.9835505,
+      "lon": 116.2546986,
+      "tags": {
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8505553716,
+      "lat": 39.9788177,
+      "lon": 116.2743153,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "颐和园码头",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9100397746,
+      "lat": 39.9809617,
+      "lon": 116.2626274,
+      "tags": {
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9100397747,
+      "lat": 39.9809348,
+      "lon": 116.2625985,
+      "tags": {
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9183226395,
+      "lat": 39.9852827,
+      "lon": 116.2860514,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9183226396,
+      "lat": 39.9849989,
+      "lon": 116.2869878,
+      "tags": {
+        "name": "讨源书声",
+        "name:zh": "讨源书声",
+        "name:zh-Hans": "讨源书声",
+        "name:zh-Hant": "討源書聲",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9183226397,
+      "lat": 39.984326,
+      "lon": 116.286845,
+      "tags": {
+        "name": "御稻流香",
+        "name:zh": "御稻流香",
+        "name:zh-Hans": "御稻流香",
+        "name:zh-Hant": "禦稻流香",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9183226398,
+      "lat": 39.9840666,
+      "lon": 116.2863583,
+      "tags": {
+        "name": "古亭观稼",
+        "name:zh": "古亭观稼",
+        "name:zh-Hans": "古亭观稼",
+        "name:zh-Hant": "古亭觀稼",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9215250075,
+      "lat": 39.9839791,
+      "lon": 116.2526075,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882843,
+      "lat": 39.9885224,
+      "lon": 116.2534457,
+      "tags": {
+        "name": "春苗绣野",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882844,
+      "lat": 39.9904171,
+      "lon": 116.2501466,
+      "tags": {
+        "name": "社林丰歌",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882845,
+      "lat": 39.9891622,
+      "lon": 116.2480947,
+      "tags": {
+        "name": "苇岸桑林",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882846,
+      "lat": 39.9919419,
+      "lon": 116.2493527,
+      "tags": {
+        "name": "稻浪流香",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882847,
+      "lat": 39.992731,
+      "lon": 116.2531131,
+      "tags": {
+        "name": "玉峰塔影",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882848,
+      "lat": 39.9935447,
+      "lon": 116.2478936,
+      "tags": {
+        "name": "御道斜阳",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882849,
+      "lat": 39.9941036,
+      "lon": 116.2497979,
+      "tags": {
+        "name": "长河浮金",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245882850,
+      "lat": 39.9955092,
+      "lon": 116.2503934,
+      "tags": {
+        "name": "三朝遗想",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9673191739,
+      "lat": 40.0049348,
+      "lon": 116.2583957,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "庆丰包子铺",
+        "brand:en": "Qingfeng Steamed Dumpling Shop",
+        "brand:wikidata": "Q24841010",
+        "brand:wikipedia": "zh:庆丰包子铺",
+        "brand:zh": "庆丰包子铺",
+        "cuisine": "chinese",
+        "name": "庆丰包子铺",
+        "name:en": "Qingfeng Steamed Dumpling Shop",
+        "name:zh": "庆丰包子铺",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9673191740,
+      "lat": 40.0050265,
+      "lon": 116.2550971,
+      "tags": {
+        "amenity": "bank",
+        "brand": "中国银行",
+        "brand:en": "Bank of China",
+        "brand:wikidata": "Q790068",
+        "brand:wikipedia": "zh:中国银行",
+        "brand:zh": "中国银行",
+        "name": "中国银行",
+        "name:en": "Bank of China",
+        "name:zh": "中国银行"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9673191741,
+      "lat": 40.0050266,
+      "lon": 116.2547195,
+      "tags": {
+        "brand": "超市发",
+        "brand:en": "bjcsf",
+        "brand:wikidata": "Q108167392",
+        "brand:zh": "超市发",
+        "name": "超市发",
+        "name:en": "bjcsf",
+        "name:zh": "超市发",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9673191744,
+      "lat": 40.0045365,
+      "lon": 116.2558278,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9808232057,
+      "lat": 39.9833181,
+      "lon": 116.2454515,
+      "tags": {
+        "name": "玉泉清秋",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9808232058,
+      "lat": 39.9825672,
+      "lon": 116.2446611,
+      "tags": {
+        "name": "绿黛烟萝",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9808232059,
+      "lat": 39.9825755,
+      "lon": 116.2436931,
+      "tags": {
+        "name": "晴霞远岫",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449305,
+      "lat": 39.9759341,
+      "lon": 116.2755109,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "柳浪游泳场",
+        "name:zh": "柳浪游泳场",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449306,
+      "lat": 39.9785383,
+      "lon": 116.2754908,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "柳浪游泳场",
+        "name:zh": "柳浪游泳场",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449307,
+      "lat": 39.9785054,
+      "lon": 116.2754399,
+      "tags": {
+        "bus": "yes",
+        "name": "柳浪游泳场",
+        "name:zh": "柳浪游泳场",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449308,
+      "lat": 39.9823981,
+      "lon": 116.2741792,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "六郎庄西口",
+        "name:zh": "六郎庄西口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449309,
+      "lat": 39.9804353,
+      "lon": 116.2741068,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "六郎庄西口",
+        "name:zh": "六郎庄西口",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449310,
+      "lat": 39.9902306,
+      "lon": 116.2748579,
+      "tags": {
+        "bus": "yes",
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449311,
+      "lat": 39.9902404,
+      "lon": 116.2747438,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449312,
+      "lat": 39.9884371,
+      "lon": 116.2749141,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449313,
+      "lat": 39.9896691,
+      "lon": 116.2764242,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9841449508,
+      "lat": 39.975967,
+      "lon": 116.2755954,
+      "tags": {
+        "bus": "yes",
+        "name": "柳浪游泳场",
+        "name:zh": "柳浪游泳场",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9965435326,
+      "lat": 39.9868994,
+      "lon": 116.2515333,
+      "tags": {
+        "amenity": "toilets",
+        "name": "公共卫生间"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966227755,
+      "lat": 39.9738132,
+      "lon": 116.2550088,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "中坞",
+        "name:zh": "中坞",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966227756,
+      "lat": 39.9771275,
+      "lon": 116.2521569,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "玉泉园",
+        "name:zh": "玉泉园",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966227757,
+      "lat": 39.9828431,
+      "lon": 116.2533425,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "北坞村",
+        "name:zh": "北坞村",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966227760,
+      "lat": 39.9781712,
+      "lon": 116.2515819,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "玉泉园",
+        "name:zh": "玉泉园",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9966227761,
+      "lat": 39.9741166,
+      "lon": 116.2550457,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "中坞",
+        "name:zh": "中坞",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420350,
+      "lat": 39.9983458,
+      "lon": 116.2832075,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑北站",
+        "name:zh": "西苑北站",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420351,
+      "lat": 39.9983797,
+      "lon": 116.2835442,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑北站",
+        "name:zh": "西苑北站",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420352,
+      "lat": 39.9972821,
+      "lon": 116.2848005,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420353,
+      "lat": 39.9969098,
+      "lon": 116.2857612,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420355,
+      "lat": 39.9963984,
+      "lon": 116.2865709,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420356,
+      "lat": 39.9961958,
+      "lon": 116.2868201,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420357,
+      "lat": 39.9962658,
+      "lon": 116.2866201,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9977420358,
+      "lat": 39.9963007,
+      "lon": 116.2865202,
+      "tags": {
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9979799168,
+      "lat": 39.9987113,
+      "lon": 116.2843913,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9979799169,
+      "lat": 39.9989291,
+      "lon": 116.2847695,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9979799170,
+      "lat": 39.9988001,
+      "lon": 116.284606,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9979799171,
+      "lat": 39.9986617,
+      "lon": 116.2844306,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011614507,
+      "lat": 40.0005741,
+      "lon": 116.2784828,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "坡上村",
+        "name:zh": "坡上村",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039401,
+      "lat": 39.9987322,
+      "lon": 116.2841769,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039402,
+      "lat": 39.9988769,
+      "lon": 116.2840766,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039403,
+      "lat": 39.9990146,
+      "lon": 116.2840542,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039404,
+      "lat": 39.9991245,
+      "lon": 116.2840363,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039405,
+      "lat": 39.9991194,
+      "lon": 116.2839733,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039406,
+      "lat": 39.999009,
+      "lon": 116.28399,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039407,
+      "lat": 39.9988708,
+      "lon": 116.2840109,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050039408,
+      "lat": 39.9987095,
+      "lon": 116.2841503,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050399778,
+      "lat": 40.0064409,
+      "lon": 116.2650745,
+      "tags": {
+        "bus": "yes",
+        "name": "安河桥",
+        "name:zh": "安河桥",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10050399779,
+      "lat": 40.0064133,
+      "lon": 116.2650369,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "安河桥",
+        "name:zh": "安河桥",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10051035823,
+      "lat": 40.0002875,
+      "lon": 116.2787524,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "坡上村",
+        "name:zh": "坡上村",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10051035833,
+      "lat": 40.0026169,
+      "lon": 116.2682522,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "颐和园北宫门",
+        "name:zh": "颐和园北宫门",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10051035837,
+      "lat": 40.0010565,
+      "lon": 116.2709901,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10051035838,
+      "lat": 40.0010955,
+      "lon": 116.27075,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10051035844,
+      "lat": 40.001379,
+      "lon": 116.2706769,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10051035845,
+      "lat": 40.0012974,
+      "lon": 116.2713696,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10548044601,
+      "lat": 39.9976585,
+      "lon": 116.2853479,
+      "tags": {
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10548044602,
+      "lat": 39.9977119,
+      "lon": 116.2853962,
+      "tags": {
+        "bus": "yes",
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10661199586,
+      "lat": 39.973836,
+      "lon": 116.2550681,
+      "tags": {
+        "bus": "yes",
+        "name": "中坞",
+        "name:zh": "中坞",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10661199587,
+      "lat": 39.97409,
+      "lon": 116.2549964,
+      "tags": {
+        "bus": "yes",
+        "name": "中坞",
+        "name:zh": "中坞",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019022073,
+      "lat": 39.9952228,
+      "lon": 116.2781473,
+      "tags": {
+        "bus": "yes",
+        "name": "二龙闸路",
+        "name:zh": "二龙闸路",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019022074,
+      "lat": 39.9951711,
+      "lon": 116.2781502,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "二龙闸路",
+        "name:zh": "二龙闸路",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019022096,
+      "lat": 39.9953712,
+      "lon": 116.2777964,
+      "tags": {
+        "bus": "yes",
+        "name": "二龙闸路",
+        "name:zh": "二龙闸路",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019022097,
+      "lat": 39.9954367,
+      "lon": 116.2777908,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "二龙闸路",
+        "name:zh": "二龙闸路",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11019022098,
+      "lat": 39.9892355,
+      "lon": 116.2754707,
+      "tags": {
+        "amenity": "toilets",
+        "name": "新建宫门",
+        "opening_hours": "24/7",
+        "operator": "北京海淀生态环保有限公司",
+        "phone": "+86 10 6871 6285",
+        "ref": "10810204ht001"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11292793269,
+      "lat": 39.9957478,
+      "lon": 116.2760479,
+      "tags": {
+        "name:ru": "Вход в парк Летнего дворца",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659670458,
+      "lat": 39.9973708,
+      "lon": 116.2767645,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "稻香村"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659699741,
+      "lat": 40.0001166,
+      "lon": 116.2630038,
+      "tags": {
+        "information": "board",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659719529,
+      "lat": 39.9986299,
+      "lon": 116.2716075,
+      "tags": {
+        "information": "map",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659719530,
+      "lat": 39.9996924,
+      "lon": 116.2630256,
+      "tags": {
+        "information": "map",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659721273,
+      "lat": 40.0002815,
+      "lon": 116.2748665,
+      "tags": {
+        "name": "眺远斋",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12069449896,
+      "lat": 39.987955,
+      "lon": 116.2487465,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12761676320,
+      "lat": 40.0011774,
+      "lon": 116.267962,
+      "tags": {
+        "description": "summer palace beijing",
+        "name:en": "Summer Palace ticket office",
+        "opening_hours": "Mo-Su 06:00-19:00",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12925462201,
+      "lat": 39.9959194,
+      "lon": 116.2846059,
+      "tags": {
+        "addr:street": "星街",
+        "amenity": "fast_food",
+        "name:es": "Starry Street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13423010674,
+      "lat": 39.9904677,
+      "lon": 116.2700799,
+      "tags": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24804854,
+      "center": {
+        "lat": 39.9967731,
+        "lon": 116.276789
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24827108,
+      "center": {
+        "lat": 40.0050811,
+        "lon": 116.2971533
+      },
+      "tags": {
+        "addr:country": "CN",
+        "addr:district": "海淀区",
+        "addr:housenumber": "28",
+        "addr:postcode": "100084",
+        "addr:province": "北京市",
+        "addr:street": "清华西路",
+        "alt_name": "Yuanmingyuan",
+        "dog": "no",
+        "email": "ymyyzxx@163.com",
+        "leisure": "park",
+        "name": "圆明园遗址公园",
+        "name:de": "Alter Sommerpalast",
+        "name:en": "Old Summer Palace Park",
+        "name:fr": "Ancien Palais d'Été",
+        "name:nan": "Oân-bêng-hn̂g Ûi-chí Kong-hn̂g",
+        "name:nan-Hans": "圆明园遗址公园",
+        "name:nan-Latn-pehoeji": "Oân-bêng-hn̂g Ûi-chí Kong-hn̂g",
+        "name:nan-Latn-tailo": "Uân-bîng-hn̂g Uî-tsí Kong-hn̂g",
+        "name:nl": "Oud Zomerpaleis",
+        "name:ru": "Старый летний дворец",
+        "name:zh": "圆明园遗址公园",
+        "name:zh-Hans": "圆明园遗址公园",
+        "name:zh-Hant": "園明園遺址公園",
+        "name:zh-Latn-pinyin": "Yuánmíngyuán",
+        "opening_hours": "Mo-Su 07:00-19:30",
+        "phone": "+86 10 6262 8501",
+        "smoking": "no",
+        "tourism": "attraction",
+        "website": "http://www.yuanmingyuanpark.cn/",
+        "wikidata": "Q907894",
+        "wikipedia": "en:Old Summer Palace"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29228773,
+      "center": {
+        "lat": 39.9901784,
+        "lon": 116.2659253
+      },
+      "tags": {
+        "addr:district": "海淀区",
+        "addr:housenumber": "19",
+        "addr:postcode": "100091",
+        "addr:province": "北京市",
+        "addr:street": "新建宫门路",
+        "alt_name:eo": "Somera Palaco",
+        "boundary": "protected_area",
+        "dog": "no",
+        "fax": "+86 10 6288 1077",
+        "heritage": "1",
+        "heritage:operator": "whc;ncha",
+        "heritage:operator:wikidata": "Q7603002",
+        "heritage:operator:wikipedia": "zh:国家文物局",
+        "heritage:since": "1961",
+        "historic": "heritage",
+        "historic:civilization": "imperial_chinese",
+        "historic:period": "qing",
+        "leisure": "park",
+        "name": "颐和园",
+        "name:de": "Sommerpalast",
+        "name:en": "Summer Palace",
+        "name:fr": "Palais d'Été",
+        "name:hi": "ग्रीष्मकालीन महल (समर पैलस)",
+        "name:ko": "이화원",
+        "name:nl": "Zomerpaleis",
+        "name:ru": "Летний дворец",
+        "name:zh": "颐和园",
+        "name:zh-Hans": "颐和园",
+        "name:zh-Hant": "頤和園",
+        "name:zh-Latn-pinyin": "Yíhéyuán",
+        "ncha:inscription_date": "1961-03-04",
+        "ncha:name": "颐和园",
+        "ncha:type": "古建筑",
+        "opening_hours": "Mo-Su 06:30-18:00",
+        "operator": "北京市颐和园管理处",
+        "phone": "+86 10 6288 1144",
+        "protected_area": "historic_district",
+        "protection_title": "世界遗产;全国重点文物保护单位;国家重点公园",
+        "ref:heritage:CN": "1-0122-3-075",
+        "ref:whc": "880",
+        "smoking": "no",
+        "start_date": "1873",
+        "tourism": "attraction",
+        "tourism:level:CN": "AAAAA",
+        "website": "https://www.summerpalace-china.com/English/index.htm",
+        "whc:criteria": "(i),(ii),(iii)",
+        "whc:inscription_date": "1998",
+        "whc:name": "北京皇家园林-颐和园",
+        "wikidata": "Q4132",
+        "wikipedia": "en:Summer Palace"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42367633,
+      "center": {
+        "lat": 40.0093864,
+        "lon": 116.2641813
+      },
+      "tags": {
+        "colour": "#008193",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "北京地铁4号线",
+        "name:en": "Beijing Subway line 4",
+        "railway": "subway",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43977740,
+      "center": {
+        "lat": 39.9968044,
+        "lon": 116.2649698
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "听鹂馆",
+        "name:en": "The hall for listening to orioles"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43977813,
+      "center": {
+        "lat": 39.9975178,
+        "lon": 116.2604458
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43977820,
+      "center": {
+        "lat": 39.9971848,
+        "lon": 116.2680453
+      },
+      "tags": {
+        "building": "yes",
+        "name": "排云殿",
+        "name:de": "Wolkenzerstreuende Halle",
+        "name:en": "Hall of Dispelling Clouds",
+        "name:fr": "Palais des nuages ordonnés",
+        "name:nl": "Hal van de wegdrijvende wolken",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43977826,
+      "center": {
+        "lat": 39.9970414,
+        "lon": 116.2641293
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43977912,
+      "center": {
+        "lat": 39.9962737,
+        "lon": 116.274389
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121703416,
+      "center": {
+        "lat": 39.998454,
+        "lon": 116.2846286
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "layer": "1",
+        "name": "西苑枢纽站",
+        "name:en": "Xiyuan",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121777651,
+      "center": {
+        "lat": 40.0011764,
+        "lon": 116.2713343
+      },
+      "tags": {
+        "layer": "-4",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121777657,
+      "center": {
+        "lat": 40.0012858,
+        "lon": 116.2713611
+      },
+      "tags": {
+        "layer": "-4",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121777659,
+      "center": {
+        "lat": 39.9967216,
+        "lon": 116.2855536
+      },
+      "tags": {
+        "layer": "-4",
+        "public_transport": "platform",
+        "railway": "platform",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121777661,
+      "center": {
+        "lat": 39.9966812,
+        "lon": 116.285531
+      },
+      "tags": {
+        "layer": "-4",
+        "public_transport": "platform",
+        "railway": "platform",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121777668,
+      "center": {
+        "lat": 39.9970865,
+        "lon": 116.284554
+      },
+      "tags": {
+        "building": "train_station",
+        "covered": "yes",
+        "layer": "-4",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 128883598,
+      "center": {
+        "lat": 40.0017348,
+        "lon": 116.2697376
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "note": "for bus 601 and 683",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 128883600,
+      "center": {
+        "lat": 40.0013264,
+        "lon": 116.2688092
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "note": "for bus 608",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154870219,
+      "center": {
+        "lat": 39.9610732,
+        "lon": 116.3157175
+      },
+      "tags": {
+        "colour": "#008193",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-4",
+        "name": "北京地铁4号线",
+        "name:en": "Beijing Subway Line 4",
+        "name:zh": "北京地铁4号线",
+        "name:zh-Hans": "北京地铁4号线",
+        "name:zh-Hant": "北京地鐵4號線",
+        "railway": "subway",
+        "subwayline": "4",
+        "tunnel": "yes",
+        "voltage": "750",
+        "wikidata": "Q304264",
+        "wikipedia": "en:Line 4 (Beijing Subway)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154870235,
+      "center": {
+        "lat": 39.9610148,
+        "lon": 116.3158557
+      },
+      "tags": {
+        "colour": "#008193",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-4",
+        "name": "北京地铁4号线",
+        "name:en": "Beijing Subway Line 4",
+        "name:zh": "北京地铁4号线",
+        "name:zh-Hans": "北京地铁4号线",
+        "name:zh-Hant": "北京地鐵4號線",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750",
+        "wikidata": "Q304264",
+        "wikipedia": "en:Line 4 (Beijing Subway)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 155024511,
+      "center": {
+        "lat": 40.0094144,
+        "lon": 116.2641176
+      },
+      "tags": {
+        "colour": "#008193",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "北京地铁4号线",
+        "name:en": "Beijing Subway line 4",
+        "railway": "subway",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 174929787,
+      "center": {
+        "lat": 39.9963299,
+        "lon": 116.2841557
+      },
+      "tags": {
+        "building": "yes",
+        "name": "西苑商城",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 181978579,
+      "center": {
+        "lat": 39.9973843,
+        "lon": 116.2810729
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "name": "同庆街",
+        "opening_hours": "Mo-Su 05:00-23:00; Apr-Oct Mo-Su 05:00-24:00",
+        "operator": "海淀区环境卫生服务中心四队",
+        "phone": "68716285;62555813",
+        "ref": "108102041o169",
+        "ref:manager": "1037",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 182050078,
+      "center": {
+        "lat": 39.9903489,
+        "lon": 116.2756796
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "name": "新建宫门场站",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243543680,
+      "center": {
+        "lat": 39.985409,
+        "lon": 116.2580789
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 412745916,
+      "center": {
+        "lat": 40.0012521,
+        "lon": 116.2670523
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 412745924,
+      "center": {
+        "lat": 39.9967992,
+        "lon": 116.2742919
+      },
+      "tags": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504547044,
+      "center": {
+        "lat": 39.9754403,
+        "lon": 116.2768511
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "tunnel": "yes",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504547046,
+      "center": {
+        "lat": 39.9817501,
+        "lon": 116.2584708
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515983603,
+      "center": {
+        "lat": 39.9787688,
+        "lon": 116.267424
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515983606,
+      "center": {
+        "lat": 39.9784404,
+        "lon": 116.2702514
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515983609,
+      "center": {
+        "lat": 39.9788014,
+        "lon": 116.2673852
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515983612,
+      "center": {
+        "lat": 39.9784701,
+        "lon": 116.2702541
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 532906688,
+      "center": {
+        "lat": 39.993911,
+        "lon": 116.2876646
+      },
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "中国中医科学院西苑医院",
+        "name:zh": "中国中医科学院西苑医院",
+        "name:zh-Hans": "中国中医科学院西苑医院",
+        "name:zh-Hant": "中國中醫科學院西苑醫院"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550304002,
+      "center": {
+        "lat": 39.9806419,
+        "lon": 116.2401668
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550304011,
+      "center": {
+        "lat": 39.9806706,
+        "lon": 116.2401534
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550304015,
+      "center": {
+        "lat": 39.9813653,
+        "lon": 116.2481686
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "tunnel": "yes",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550304019,
+      "center": {
+        "lat": 39.9813972,
+        "lon": 116.2481652
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "tunnel": "yes",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550304021,
+      "center": {
+        "lat": 39.9817206,
+        "lon": 116.2584979
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550304049,
+      "center": {
+        "lat": 39.9754789,
+        "lon": 116.2768801
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "tunnel": "yes",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579104637,
+      "center": {
+        "lat": 39.9952193,
+        "lon": 116.2739506
+      },
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "文昌阁",
+        "name:en": "Wenchang Tower",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597047392,
+      "center": {
+        "lat": 39.9980652,
+        "lon": 116.2759578
+      },
+      "tags": {
+        "internet_access": "yes",
+        "name": "颐和安缦",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 638771230,
+      "center": {
+        "lat": 39.9975467,
+        "lon": 116.2711843
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 638771231,
+      "center": {
+        "lat": 39.9972622,
+        "lon": 116.2696665
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 638771232,
+      "center": {
+        "lat": 39.9987689,
+        "lon": 116.2702196
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 638771234,
+      "center": {
+        "lat": 39.985737,
+        "lon": 116.2582011
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 699829402,
+      "center": {
+        "lat": 39.9924817,
+        "lon": 116.276009
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 727034976,
+      "center": {
+        "lat": 39.9997464,
+        "lon": 116.2685757
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "building:levels": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 727042890,
+      "center": {
+        "lat": 39.9967365,
+        "lon": 116.2636803
+      },
+      "tags": {
+        "alt_name": "石舫",
+        "historic": "monument",
+        "name": "清晏舫",
+        "name:de": "Marmorschiff",
+        "name:en": "Shi Fang (Marble Boat)",
+        "name:fr": "Bateau de Marbre",
+        "name:nl": "Marmeren boot",
+        "name:th": "เรือหินอ่อน",
+        "name:zh": "清晏舫",
+        "tourism": "attraction",
+        "wikidata": "Q2636083",
+        "wikipedia": "en:Marble Boat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 795468412,
+      "center": {
+        "lat": 39.9829955,
+        "lon": 116.2564141
+      },
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 795468854,
+      "center": {
+        "lat": 39.983554,
+        "lon": 116.258029
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 881551279,
+      "center": {
+        "lat": 39.9845178,
+        "lon": 116.2572428
+      },
+      "tags": {
+        "area": "yes",
+        "light_rail": "yes",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 881551280,
+      "center": {
+        "lat": 39.984414,
+        "lon": 116.2572134
+      },
+      "tags": {
+        "area": "yes",
+        "light_rail": "yes",
+        "public_transport": "platform",
+        "railway": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 890588028,
+      "center": {
+        "lat": 39.9968034,
+        "lon": 116.2264147
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "北京地铁16号线",
+        "name:en": "Beijing Subway Line 16",
+        "name:fr": "ligne 16",
+        "name:zh": "北京地铁16号线",
+        "name:zh-Hans": "北京地铁16号线",
+        "name:zh-Hant": "北京地鐵16號線",
+        "railway": "subway",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "1500"
+      }
+    },
+    {
+      "type": "way",
+      "id": 890600582,
+      "center": {
+        "lat": 39.9974728,
+        "lon": 116.2863093
+      },
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "西苑",
+        "name:en": "Xiyuan",
+        "name:ru": "Сиюань",
+        "name:zh": "西苑",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 890759497,
+      "center": {
+        "lat": 39.9968922,
+        "lon": 116.226503
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "北京地铁16号线",
+        "name:en": "Beijing Subway Line 16",
+        "name:zh": "北京地铁16号线",
+        "name:zh-Hans": "北京地铁16号线",
+        "name:zh-Hant": "北京地鐵16號線",
+        "railway": "subway",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "1500"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023640718,
+      "center": {
+        "lat": 39.9787644,
+        "lon": 116.2665758
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023640719,
+      "center": {
+        "lat": 39.97877,
+        "lon": 116.2664323
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023640720,
+      "center": {
+        "lat": 39.9787279,
+        "lon": 116.2666274
+      },
+      "tags": {
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023640721,
+      "center": {
+        "lat": 39.9787333,
+        "lon": 116.2664793
+      },
+      "tags": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "西郊线",
+        "name:en": "Xijiao line",
+        "railway": "light_rail",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1041057935,
+      "center": {
+        "lat": 39.9886361,
+        "lon": 116.2500098
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1046085682,
+      "center": {
+        "lat": 40.0066332,
+        "lon": 116.2564594
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052555684,
+      "center": {
+        "lat": 40.0048619,
+        "lon": 116.2604181
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052562160,
+      "center": {
+        "lat": 39.9996062,
+        "lon": 116.2783322
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1058069745,
+      "center": {
+        "lat": 39.998328,
+        "lon": 116.245502
+      },
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "北京万寿康医院"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1058073073,
+      "center": {
+        "lat": 39.9960206,
+        "lon": 116.2547914
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1058073074,
+      "center": {
+        "lat": 39.9956213,
+        "lon": 116.2555393
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1058073079,
+      "center": {
+        "lat": 39.9954174,
+        "lon": 116.2525529
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1074113390,
+      "center": {
+        "lat": 39.9789569,
+        "lon": 116.2533065
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1074113398,
+      "center": {
+        "lat": 39.9784348,
+        "lon": 116.257244
+      },
+      "tags": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153763638,
+      "center": {
+        "lat": 39.9865253,
+        "lon": 116.2561874
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1664486,
+      "center": {
+        "lat": 40.0012122,
+        "lon": 116.2713913
+      },
+      "tags": {
+        "name": "北宫门",
+        "name:en": "Beigongmen",
+        "name:zh": "北宫门",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1737201,
+      "center": {
+        "lat": 39.9997033,
+        "lon": 116.2852141
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "parking",
+        "operator": "西苑枢纽站",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1737870,
+      "center": {
+        "lat": 39.9968347,
+        "lon": 116.2781143
+      },
+      "tags": {
+        "name": "颐和园",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1739147,
+      "center": {
+        "lat": 40.0068248,
+        "lon": 116.2644696
+      },
+      "tags": {
+        "name": "安河桥",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1739148,
+      "center": {
+        "lat": 40.0026765,
+        "lon": 116.2680422
+      },
+      "tags": {
+        "name": "颐和园北宫门",
+        "name:zh": "颐和园北宫门",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2335630,
+      "center": {
+        "lat": 39.9726618,
+        "lon": 116.2550485
+      },
+      "tags": {
+        "name": "中坞",
+        "name:zh": "中坞",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2426082,
+      "center": {
+        "lat": 39.9814202,
+        "lon": 116.2741377
+      },
+      "tags": {
+        "name": "六郎庄西口",
+        "name:zh": "六郎庄西口",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2426083,
+      "center": {
+        "lat": 39.9893388,
+        "lon": 116.2756193
+      },
+      "tags": {
+        "name": "颐和园新建宫门",
+        "name:zh": "颐和园新建宫门",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2600244,
+      "center": {
+        "lat": 40.0004308,
+        "lon": 116.2786043
+      },
+      "tags": {
+        "name": "坡上村",
+        "name:zh": "坡上村",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2601255,
+      "center": {
+        "lat": 39.9983627,
+        "lon": 116.2833758
+      },
+      "tags": {
+        "name": "西苑北站",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2875110,
+      "center": {
+        "lat": 40.0041959,
+        "lon": 116.2623823
+      },
+      "tags": {
+        "name": "青龙桥",
+        "name:zh": "青龙桥",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2875115,
+      "center": {
+        "lat": 40.0047625,
+        "lon": 116.2562444
+      },
+      "tags": {
+        "name": "军事科学院",
+        "name:zh": "军事科学院",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3292544,
+      "center": {
+        "lat": 39.9850818,
+        "lon": 116.2561446
+      },
+      "tags": {
+        "name": "颐和园西门",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3292618,
+      "center": {
+        "lat": 39.9827967,
+        "lon": 116.2534862
+      },
+      "tags": {
+        "name": "北坞村",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3292619,
+      "center": {
+        "lat": 39.9814692,
+        "lon": 116.2501505
+      },
+      "tags": {
+        "name": "北坞村西站",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8302896,
+      "center": {
+        "lat": 39.9844959,
+        "lon": 116.2571704
+      },
+      "tags": {
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8302902,
+      "center": {
+        "lat": 39.9844845,
+        "lon": 116.2571665
+      },
+      "tags": {
+        "name": "颐和园西门",
+        "name:en": "West Gate of Summer Palace",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 9736307,
+      "center": {
+        "lat": 39.9974728,
+        "lon": 116.2863093
+      },
+      "tags": {
+        "name": "西苑",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 9736309,
+      "center": {
+        "lat": 39.9971826,
+        "lon": 116.2852779
+      },
+      "tags": {
+        "name": "西苑",
+        "name:en": "Xiyuan (subway)",
+        "name:es": "Xiyuan (metro)",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14285520,
+      "center": {
+        "lat": 39.9772362,
+        "lon": 116.2755176
+      },
+      "tags": {
+        "name": "柳浪游泳场",
+        "name:zh": "柳浪游泳场",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14479657,
+      "center": {
+        "lat": 39.9776493,
+        "lon": 116.2518694
+      },
+      "tags": {
+        "name": "玉泉园",
+        "name:zh": "玉泉园",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14502890,
+      "center": {
+        "lat": 39.996688,
+        "lon": 116.2859543
+      },
+      "tags": {
+        "name": "西苑",
+        "name:zh": "西苑",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14506033,
+      "center": {
+        "lat": 39.9983915,
+        "lon": 116.2846847
+      },
+      "tags": {
+        "name": "西苑枢纽站",
+        "name:zh": "西苑枢纽站",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14620779,
+      "center": {
+        "lat": 40.0012177,
+        "lon": 116.2710232
+      },
+      "tags": {
+        "name": "地铁北宫门站",
+        "name:zh": "地铁北宫门站",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 16036536,
+      "center": {
+        "lat": 39.9953039,
+        "lon": 116.2779705
+      },
+      "tags": {
+        "name": "二龙闸路",
+        "name:zh": "二龙闸路",
+        "public_transport": "stop_area",
+        "type": "public_transport"
+      }
+    }
+  ]
+}

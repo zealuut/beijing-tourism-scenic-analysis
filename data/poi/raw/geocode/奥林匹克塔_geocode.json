@@ -1,0 +1,14 @@
+{
+  "scenic_name": "奥林匹克塔",
+  "result": {
+    "resolve_status": "not_found",
+    "anchor_source": "osm_nominatim",
+    "query_used": "奥林匹克塔",
+    "display_name": "",
+    "osm_type": "",
+    "osm_id": "",
+    "lat": NaN,
+    "lng": NaN
+  },
+  "candidates": []
+}

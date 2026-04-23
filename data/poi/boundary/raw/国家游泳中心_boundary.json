@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:28:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 29201257,
+      "bounds": {
+        "minlat": 39.9907301,
+        "minlon": 116.3830753,
+        "maxlat": 39.9924269,
+        "maxlon": 116.3852698
+      },
+      "nodes": [
+        321204737,
+        321204738,
+        321204739,
+        321204740,
+        321204737
+      ],
+      "geometry": [
+        {
+          "lat": 39.9923586,
+          "lon": 116.3830753
+        },
+        {
+          "lat": 39.9907301,
+          "lon": 116.3831654
+        },
+        {
+          "lat": 39.9907984,
+          "lon": 116.3852698
+        },
+        {
+          "lat": 39.9924269,
+          "lon": 116.3851797
+        },
+        {
+          "lat": 39.9923586,
+          "lon": 116.3830753
+        }
+      ],
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "天辰东路",
+        "alt_name": "水立方",
+        "alt_name:en": "Water Cube",
+        "alt_name:fr": "aquacube",
+        "building": "yes",
+        "building:colour": "#8caee3",
+        "height": "40",
+        "leisure": "stadium",
+        "name": "国家游泳中心",
+        "name:ca": "Centre Aquàtic Nacional",
+        "name:de": "Nationales Schwimmzentrum",
+        "name:en": "National Aquatics Center",
+        "name:es": "Centro Acuático Nacional de Pekín",
+        "name:fr": "Centre national de natation",
+        "name:it": "Centro acquatico nazionale",
+        "name:ko": "국가수영센터",
+        "name:zh": "国家游泳中心（水立方）",
+        "roof:colour": "#8caee3",
+        "sport": "swimming",
+        "wikidata": "Q244877",
+        "wikimedia_commons": "Category:Beijing National Aquatics Centre",
+        "wikipedia": "zh:国家游泳中心"
+      }
+    }
+  ]
+}

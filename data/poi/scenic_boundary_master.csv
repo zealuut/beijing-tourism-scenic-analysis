@@ -1,0 +1,21 @@
+﻿official_scenic_id,scenic_name,category_name,anchor_source,resolve_status,osm_type,osm_id,boundary_source,boundary_status,outer_ring_n,inner_ring_n,has_boundary_polygon,scenic_area_m2,scenic_area_km2
+BJ20_01,故宫博物院,皇家文化类,osm_nominatim,resolved,node,3884441391,osm_nominatim,no_polygon_source,0,0,0,,
+BJ20_02,颐和园,皇家文化类,osm_nominatim,resolved,way,29228773,osm_way,way_polygon,1,0,1,2997043.12,2.997043
+BJ20_03,天坛公园,皇家文化类,osm_nominatim,resolved,way,24824550,osm_way,way_polygon,1,0,1,1966181.79,1.966182
+BJ20_04,景山公园,皇家文化类,osm_nominatim,resolved,way,29201967,osm_way,way_polygon,1,0,1,222221.77,0.222222
+BJ20_05,恭王府,皇家文化类,osm_nominatim,resolved,way,26514871,osm_way,way_polygon,1,0,1,54739.09,0.054739
+BJ20_06,明十三陵,皇家文化类,osm_nominatim,resolved,way,1303123866,osm_way,way_polygon,1,0,1,187156.47,0.187156
+BJ20_07,八达岭长城,长城关隘类,osm_nominatim,resolved,node,6472124842,osm_nominatim,no_polygon_source,0,0,0,,
+BJ20_08,慕田峪长城,长城关隘类,osm_nominatim,resolved,way,85322148,osm_way,way_polygon,1,0,1,83996.57,0.083997
+BJ20_09,居庸关长城,长城关隘类,osm_nominatim,resolved,way,60124709,osm_way,way_polygon,1,0,1,213756.12,0.213756
+BJ20_10,司马台长城,长城关隘类,osm_nominatim,resolved,way,33425432,osm_way,way_polygon,1,0,1,171901.38,0.171901
+BJ20_11,潭柘寺,宗教古建类,osm_nominatim,resolved,way,537178957,osm_way,way_polygon,1,0,1,163654.25,0.163654
+BJ20_12,红螺寺,宗教古建类,osm_nominatim,resolved,way,491869586,osm_way,way_polygon,1,0,1,6768.35,0.006768
+BJ20_13,首都博物馆,博物馆 / 纪念馆 / 科普场馆类,osm_nominatim,resolved,way,136998797,osm_way,way_polygon,1,0,1,15031.52,0.015032
+BJ20_14,北京天文馆,博物馆 / 纪念馆 / 科普场馆类,osm_nominatim,resolved,way,78051172,osm_way,way_polygon,1,0,1,4754.17,0.004754
+BJ20_15,中国科学技术馆,博物馆 / 纪念馆 / 科普场馆类,osm_nominatim,resolved,way,161298694,osm_way,way_polygon,1,0,1,28236.92,0.028237
+BJ20_16,香山公园,城市公园 / 园林 / 动植物观赏类,osm_nominatim,resolved,relation,8758884,osm_relation,relation_polygon,1,0,1,1552712.34,1.552712
+BJ20_17,北京动物园,城市公园 / 园林 / 动植物观赏类,osm_nominatim,resolved,way,29222967,osm_way,way_polygon,1,0,1,730101.93,0.730102
+BJ20_18,玉渊潭公园,城市公园 / 园林 / 动植物观赏类,osm_nominatim,resolved,way,29222903,osm_way,way_polygon,1,0,1,1083063.22,1.083063
+BJ20_19,国家游泳中心,现代城市地标与事件遗产类,osm_nominatim,resolved,way,29201257,osm_way,way_polygon,1,0,1,32366.48,0.032366
+BJ20_20,奥林匹克塔,现代城市地标与事件遗产类,manual_patch,resolved_manual,manual,manual_olympic_tower,manual_patch,no_polygon_source,0,0,0,,

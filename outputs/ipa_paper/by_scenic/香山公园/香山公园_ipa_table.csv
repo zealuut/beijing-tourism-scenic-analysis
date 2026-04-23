@@ -1,0 +1,4 @@
+﻿official_scenic_id,scenic_name,theme_name_cn,is_satisfaction_topic,theme_review_n,theme_issue_n,theme_negative_n,sample_n,importance,issue_rate,negative_rate,dissatisfaction_index,performance,priority_index,importance_cut,performance_cut,quadrant,scenic_priority_rank
+BJ20_16,香山公园,票务预约与入园体验,0,68,16,17,222,0.3063063063063063,0.23529411764705882,0.25,0.2426470588235294,0.7573529411764706,0.07432432432432431,0.14264264264264262,0.8357843137254902,高重要性低表现 = 优先改进,1
+BJ20_16,香山公园,现场服务与导览体验,0,4,1,1,222,0.018018018018018018,0.25,0.25,0.25,0.75,0.0045045045045045045,0.14264264264264262,0.8357843137254902,低重要性低表现 = 次级改进,2
+BJ20_16,香山公园,交通与开放空间体验,0,23,0,0,222,0.1036036036036036,0.0,0.0,0.0,1.0,0.0,0.14264264264264262,0.8357843137254902,低重要性高表现 = 低优先级观察,3

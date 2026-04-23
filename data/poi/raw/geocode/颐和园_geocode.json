@@ -1,0 +1,60 @@
+{
+  "scenic_name": "颐和园",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "颐和园, 北京市, 中国",
+    "display_name": "颐和园, 19, 海淀区, 北京市, 100091, 中国",
+    "osm_type": "way",
+    "osm_id": "29228773",
+    "lat": 39.9900983,
+    "lng": 116.2647403
+  },
+  "candidates": [
+    {
+      "place_id": 205216512,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29228773,
+      "lat": "39.9900983",
+      "lon": "116.2647403",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.5447828982945416,
+      "addresstype": "park",
+      "name": "颐和园",
+      "display_name": "颐和园, 19, 海淀区, 北京市, 100091, 中国",
+      "address": {
+        "park": "颐和园",
+        "house_number": "19",
+        "city": "海淀区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100091",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "颐和园",
+        "name:de": "Sommerpalast",
+        "name:en": "Summer Palace",
+        "name:fr": "Palais d'Été",
+        "name:hi": "ग्रीष्मकालीन महल (समर पैलस)",
+        "name:ko": "이화원",
+        "name:nl": "Zomerpaleis",
+        "name:ru": "Летний дворец",
+        "name:zh": "颐和园",
+        "alt_name:eo": "Somera Palaco",
+        "name:zh-Hans": "颐和园",
+        "name:zh-Hant": "頤和園",
+        "name:zh-Latn-pinyin": "Yíhéyuán"
+      },
+      "boundingbox": [
+        "39.9792274",
+        "40.0011293",
+        "116.2547821",
+        "116.2770684"
+      ]
+    }
+  ]
+}

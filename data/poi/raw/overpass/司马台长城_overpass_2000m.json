@@ -1,0 +1,640 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T09:12:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 380380372,
+      "lat": 40.6541368,
+      "lon": 117.271816,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380645185,
+      "lat": 40.6532274,
+      "lon": 117.2727834,
+      "tags": {
+        "name": "司马台长城",
+        "name:en": "Great Wall at Simatai",
+        "name:pt": "Muralha da China Simatai",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1777056621,
+      "lat": 40.6520656,
+      "lon": 117.2746568,
+      "tags": {
+        "aerialway": "station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4250076093,
+      "lat": 40.6620895,
+      "lon": 117.27827,
+      "tags": {
+        "name:en": "DongPo Restaurant and Guesthouse",
+        "tourism": "guest_house",
+        "website": "https://www.simataiguesthouse.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346517395,
+      "lat": 40.6621602,
+      "lon": 117.2779907,
+      "tags": {
+        "name:en": "Dongpo Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5126333620,
+      "lat": 40.6523877,
+      "lon": 117.2686934,
+      "tags": {
+        "name:en": "Beijing WTown",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6410342686,
+      "lat": 40.6660396,
+      "lon": 117.2752418,
+      "tags": {
+        "name:en": "Guesthouse Jinshanling",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11740058669,
+      "lat": 40.6507506,
+      "lon": 117.2690772,
+      "tags": {
+        "name:en": "Junyue Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11740439370,
+      "lat": 40.6521385,
+      "lon": 117.2722152,
+      "tags": {
+        "amenity": "toilets",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11740929270,
+      "lat": 40.6530043,
+      "lon": 117.2729244,
+      "tags": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11740932170,
+      "lat": 40.652769,
+      "lon": 117.2732086,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11741188869,
+      "lat": 40.6500212,
+      "lon": 117.2671294,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11741271869,
+      "lat": 40.6500032,
+      "lon": 117.2665864,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11741271870,
+      "lat": 40.6500244,
+      "lon": 117.2668813,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name:en": "Watch Tower Steak House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12334670404,
+      "lat": 40.6510349,
+      "lon": 117.2683894,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12334685121,
+      "lat": 40.6509082,
+      "lon": 117.2686368,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12337173048,
+      "lat": 40.6569824,
+      "lon": 117.2873743,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12337431614,
+      "lat": 40.6484299,
+      "lon": 117.2669519,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "威廉·埃德加精品酒店西餐厅"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33425432,
+      "center": {
+        "lat": 40.6602065,
+        "lon": 117.2845583
+      },
+      "tags": {
+        "alt_name": "长城",
+        "barrier": "city_wall",
+        "foot": "yes",
+        "highway": "footway",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "司马台长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh": "司马台长城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188092910,
+      "center": {
+        "lat": 40.6712035,
+        "lon": 117.2626667
+      },
+      "tags": {
+        "barrier": "city_wall",
+        "foot": "yes",
+        "highway": "footway",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh": "长城",
+        "name:zh-Hant": "長城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194538820,
+      "center": {
+        "lat": 40.6572408,
+        "lon": 117.3059057
+      },
+      "tags": {
+        "barrier": "city_wall",
+        "fixme": "Very hard wall up here from bing, also this is knife edge ridge, so likely misalignment in bing",
+        "foot": "yes",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh": "长城",
+        "name:zh-Hant": "長城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194538832,
+      "center": {
+        "lat": 40.6577894,
+        "lon": 117.2995142
+      },
+      "tags": {
+        "barrier": "city_wall",
+        "foot": "yes",
+        "highway": "path",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "长城（单边墙，危险）",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110197525,
+      "center": {
+        "lat": 40.6580324,
+        "lon": 117.2961648
+      },
+      "tags": {
+        "barrier": "city_wall",
+        "foot": "yes",
+        "highway": "path",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "长城（天梯）",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110197526,
+      "center": {
+        "lat": 40.658177,
+        "lon": 117.2941509
+      },
+      "tags": {
+        "alt_name": "长城",
+        "barrier": "city_wall",
+        "foot": "yes",
+        "highway": "footway",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "司马台长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh": "司马台长城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110197527,
+      "center": {
+        "lat": 40.6576333,
+        "lon": 117.3022772
+      },
+      "tags": {
+        "barrier": "city_wall",
+        "foot": "yes",
+        "highway": "path",
+        "historic": "citywalls",
+        "historic:civilization": "imperial_chinese",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:vi": "Vạn Lý Trường Thành",
+        "name:zh": "长城",
+        "name:zh-Hant": "長城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "tourism": "attraction",
+        "two_sided": "yes",
+        "wikidata": "Q11088230"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1333249588,
+      "center": {
+        "lat": 40.6520929,
+        "lon": 117.2718445
+      },
+      "tags": {
+        "building": "house",
+        "museum": "local",
+        "name": "古北水镇-八旗会馆",
+        "name:it": "Palazzo della Gilda degli Otto Stendardi",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444003601,
+      "center": {
+        "lat": 40.6516628,
+        "lon": 117.2703175
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 318110,
+      "center": {
+        "lat": 34.5950076,
+        "lon": 108.9659793
+      },
+      "tags": {
+        "alt_name": "万里长城",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "yes",
+        "historic:civilization": "imperial_chinese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "material": "stone",
+        "military": "cordon",
+        "name": "长城",
+        "name:als": "Chinesische Mauer",
+        "name:ar": "سور الصين العظيم",
+        "name:azb": "چین دیواری",
+        "name:be": "Вялікая Кітайская сцяна",
+        "name:be-tarask": "Вялікая кітайская сьцяна",
+        "name:cs": "Velká čínská zeď",
+        "name:de": "Chinesische Mauer",
+        "name:en": "Great Wall of China",
+        "name:es": "Gran Muralla China",
+        "name:fa": "دیوار بزرگ چین",
+        "name:fi": "Kiinan muuri",
+        "name:fr": "Grande Muraille",
+        "name:grc": "Σινικόν Τεῖχος",
+        "name:hy": "Չինական մեծ պարիսպ",
+        "name:id": "Tembok Besar Tiongkok",
+        "name:it": "Grande Muraglia Cinese",
+        "name:ja": "万里の長城",
+        "name:ka": "ჩინეთის დიდი კედელი",
+        "name:kk": "Қытай қорғаны",
+        "name:kk-Arab": "ۇلى قىتاي قورعانى",
+        "name:mi": "Maioro Nui Whakaharahara o Haina",
+        "name:mk": "Кинески ѕид",
+        "name:mzn": "چین گت دیوار",
+        "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+        "name:pl": "Wielki Mur Chiński",
+        "name:pnb": "چین دی کندھ",
+        "name:ps": "د چین لوی دیوال",
+        "name:pt": "Muralha da China",
+        "name:ru": "Великая Китайская Стена",
+        "name:sd": "چين جي عظيم ديوار",
+        "name:sr": "Кинески зид",
+        "name:sv": "Kinesiska muren",
+        "name:tr": "Çin Seddi",
+        "name:ug": "سەدىچىن سېپىلى",
+        "name:uk": "Великий китайський мур",
+        "name:ur": "دیوار چین",
+        "name:zh": "长城",
+        "name:zh-Latn-pinyin": "Chángchéng",
+        "note": "Maybe a split of this relation into smaller 'per province' relations would be better",
+        "ref:whc": "438",
+        "tourism": "attraction",
+        "type": "collection",
+        "whc:inscription_date": "1987",
+        "wikidata": "Q12501",
+        "wikipedia": "zh:长城"
+      }
+    }
+  ]
+}

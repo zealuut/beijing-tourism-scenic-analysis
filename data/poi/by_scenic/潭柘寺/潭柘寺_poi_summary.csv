@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_11,潭柘寺,宗教古建类,1000,transport,7,591.16
+BJ20_11,潭柘寺,宗教古建类,1000,parking,3,269.93
+BJ20_11,潭柘寺,宗教古建类,1000,food_retail,0,
+BJ20_11,潭柘寺,宗教古建类,1000,lodging,0,
+BJ20_11,潭柘寺,宗教古建类,1000,commercial,0,
+BJ20_11,潭柘寺,宗教古建类,1000,public_service,3,138.82
+BJ20_11,潭柘寺,宗教古建类,1000,nearby_attractions,1,585.0
+BJ20_11,潭柘寺,宗教古建类,2000,transport,25,591.16
+BJ20_11,潭柘寺,宗教古建类,2000,parking,5,269.93
+BJ20_11,潭柘寺,宗教古建类,2000,food_retail,2,1211.79
+BJ20_11,潭柘寺,宗教古建类,2000,lodging,4,1180.98
+BJ20_11,潭柘寺,宗教古建类,2000,commercial,0,
+BJ20_11,潭柘寺,宗教古建类,2000,public_service,4,138.82
+BJ20_11,潭柘寺,宗教古建类,2000,nearby_attractions,9,585.0

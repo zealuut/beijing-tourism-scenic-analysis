@@ -1,0 +1,15 @@
+﻿official_scenic_id,scenic_name,category_name,radius_m,poi_category,poi_count,nearest_distance_m
+BJ20_03,天坛公园,皇家文化类,1000,transport,66,773.07
+BJ20_03,天坛公园,皇家文化类,1000,parking,11,706.44
+BJ20_03,天坛公园,皇家文化类,1000,food_retail,12,363.29
+BJ20_03,天坛公园,皇家文化类,1000,lodging,5,843.65
+BJ20_03,天坛公园,皇家文化类,1000,commercial,4,367.86
+BJ20_03,天坛公园,皇家文化类,1000,public_service,21,17.41
+BJ20_03,天坛公园,皇家文化类,1000,nearby_attractions,17,116.54
+BJ20_03,天坛公园,皇家文化类,2000,transport,398,773.07
+BJ20_03,天坛公园,皇家文化类,2000,parking,33,706.44
+BJ20_03,天坛公园,皇家文化类,2000,food_retail,104,363.29
+BJ20_03,天坛公园,皇家文化类,2000,lodging,41,843.65
+BJ20_03,天坛公园,皇家文化类,2000,commercial,12,367.86
+BJ20_03,天坛公园,皇家文化类,2000,public_service,66,17.41
+BJ20_03,天坛公园,皇家文化类,2000,nearby_attractions,27,116.54

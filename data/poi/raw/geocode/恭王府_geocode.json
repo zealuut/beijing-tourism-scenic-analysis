@@ -1,0 +1,90 @@
+{
+  "scenic_name": "恭王府",
+  "result": {
+    "resolve_status": "resolved",
+    "anchor_source": "osm_nominatim",
+    "query_used": "恭王府, 北京市, 中国",
+    "display_name": "恭王府, 17, 前海西街, 什刹海街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+    "osm_type": "way",
+    "osm_id": "26514871",
+    "lat": 39.9352509,
+    "lng": 116.3801241
+  },
+  "candidates": [
+    {
+      "place_id": 218855287,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 26514871,
+      "lat": "39.9352509",
+      "lon": "116.3801241",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 0.45330309164952365,
+      "addresstype": "tourism",
+      "name": "恭王府",
+      "display_name": "恭王府, 17, 前海西街, 什刹海街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "address": {
+        "tourism": "恭王府",
+        "house_number": "17",
+        "road": "前海西街",
+        "suburb": "什刹海街道",
+        "city": "西城区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100032",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "恭王府",
+        "name:en": "Prince Kung's Mansion",
+        "name:ru": "Гунванфу",
+        "name:zh": "恭王府",
+        "alt_name": "恭亲王府",
+        "alt_name:zh": "恭王府",
+        "official_name": "恭王府博物馆"
+      },
+      "boundingbox": [
+        "39.9342686",
+        "39.9374280",
+        "116.3784474",
+        "116.3811538"
+      ]
+    },
+    {
+      "place_id": 219834214,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1742845404,
+      "lat": "39.9341793",
+      "lon": "116.3807588",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 8.344167238875436e-05,
+      "addresstype": "highway",
+      "name": "恭王府",
+      "display_name": "恭王府, 前海西街, 什刹海街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "address": {
+        "highway": "恭王府",
+        "road": "前海西街",
+        "suburb": "什刹海街道",
+        "city": "西城区",
+        "ISO3166-2-lvl4": "CN-BJ",
+        "postcode": "100032",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "namedetails": {
+        "name": "恭王府"
+      },
+      "boundingbox": [
+        "39.9341293",
+        "39.9342293",
+        "116.3807088",
+        "116.3808088"
+      ]
+    }
+  ]
+}

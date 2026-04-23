@@ -1,0 +1,2 @@
+﻿review_n,avg_default_score,avg_domain_score,positive_share,neutral_share,negative_share,avg_sentiment_index,high_rating_negative_rate,high_rating_no_issue_negative_rate,five_star_no_issue_negative_rate,low_rating_negative_rate
+6000,0.8400158032484868,0.6955539923875586,0.6138333333333333,0.176,0.21016666666666667,0.7018333333333333,0.14963503649635038,0.1111111111111111,0.1002753556677375,0.9846153846153847
