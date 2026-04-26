@@ -1,0 +1,10 @@
+﻿index_key,index_name_cn,case_score,same_category_mean,all_sample_mean,overall_rank_desc,same_category_rank_desc,sample_size
+arrival_concentration_index,到达汇聚指数,70.38011695906432,48.46734892787524,51.58114035087719,6,1,20
+surrounding_activity_index,周边活动强度指数,63.125,51.875,52.5,7,1,20
+internal_buffer_index,园内缓冲指数,76.17647058823529,74.24019607843138,51.78125,4,2,20
+space_capacity_index,空间容量指数,76.47058823529412,82.35294117647058,52.94117647058823,5,3,17
+arrival_pressure_index,到达汇聚压力,70.38011695906432,48.46734892787524,51.58114035087719,6,1,20
+surrounding_activity_pressure_index,周边活动压力,63.125,51.875,52.5,7,1,20
+buffer_shortage_index,园内缓冲不足,23.82352941176471,25.75980392156863,48.21875000000001,17,2,20
+space_constraint_index,空间约束压力,23.529411764705884,17.647058823529417,47.05882352941177,13,1,17
+poi_entry_pressure_index,POI入口压力指数,45.21451453388372,35.93730291824332,50.54603740253411,11,1,20

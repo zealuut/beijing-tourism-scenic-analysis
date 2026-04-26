@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="820" viewBox="0 0 820 820">
+<style>text{font-family:"Microsoft YaHei","SimHei","Arial Unicode MS",sans-serif;fill:#222} .small{font-size:12px} .tick{font-size:11px;fill:#555} .title{font-size:22px;font-weight:700} .label{font-size:14px} .legend{font-size:13px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="410.0" y="38" text-anchor="middle" class="title">北京动物园POI压力画像</text>
+<polygon points="390.0,346.25 453.75,410.0 390.0,473.75 326.25,410.0" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+<text x="395" y="342.25" class="tick">25</text>
+<polygon points="390.0,282.5 517.5,410.0 390.0,537.5 262.5,410.0" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+<text x="395" y="278.5" class="tick">50</text>
+<polygon points="390.0,218.75 581.25,410.0 390.0,601.25 198.75,410.0" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+<text x="395" y="214.75" class="tick">75</text>
+<polygon points="390.0,155.0 645.0,410.0 390.0,665.0 135.0,410.00000000000006" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+<text x="395" y="151.0" class="tick">100</text>
+<line x1="390" y1="410" x2="390.0" y2="155.0" stroke="#bfbfbf" stroke-width="1"/>
+<text x="390.0" y="119.0" text-anchor="middle" class="label">到达汇聚压力</text>
+<line x1="390" y1="410" x2="645.0" y2="410.0" stroke="#bfbfbf" stroke-width="1"/>
+<text x="681.0" y="410.0" text-anchor="middle" class="label">周边活动压力</text>
+<line x1="390" y1="410" x2="390.0" y2="665.0" stroke="#bfbfbf" stroke-width="1"/>
+<text x="390.0" y="701.0" text-anchor="middle" class="label">园内缓冲不足</text>
+<line x1="390" y1="410" x2="135.0" y2="410.00000000000006" stroke="#bfbfbf" stroke-width="1"/>
+<text x="99.0" y="410.00000000000006" text-anchor="middle" class="label">空间约束压力</text>
+<polygon points="390.0,230.530701754386 550.96875,410.0 390.0,470.75 330.0,410.0" fill="#D1495B" fill-opacity="0.18" stroke="#D1495B" stroke-width="2"/>
+<polygon points="390.0,286.40826023391816 522.28125,410.0 390.0,475.6875 345.0,410.0" fill="#2E86AB" fill-opacity="0.08" stroke="#2E86AB" stroke-width="2"/>
+<polygon points="390.0,278.46809210526317 523.875,410.0 390.0,532.9578125 270.0,410.0" fill="#3D9970" fill-opacity="0.08" stroke="#3D9970" stroke-width="2"/>
+<line x1="640" y1="110" x2="664" y2="110" stroke="#D1495B" stroke-width="3"/>
+<text x="674" y="114" class="legend">北京动物园</text>
+<line x1="640" y1="134" x2="664" y2="134" stroke="#2E86AB" stroke-width="3"/>
+<text x="674" y="138" class="legend">同类景区均值</text>
+<line x1="640" y1="158" x2="664" y2="158" stroke="#3D9970" stroke-width="3"/>
+<text x="674" y="162" class="legend">全样本均值</text>
+</svg>

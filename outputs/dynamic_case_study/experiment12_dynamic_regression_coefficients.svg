@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">
+<style>text{font-family:"Microsoft YaHei","SimHei","Arial Unicode MS",sans-serif;fill:#222} .title{font-size:22px;font-weight:700} .label{font-size:14px} .tick{font-size:11px;fill:#555} .legend{font-size:13px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="34" text-anchor="middle" class="title">动态回归系数图（HAC稳健标准误）</text>
+<line x1="314.2711816993807" y1="60" x2="314.2711816993807" y2="370" stroke="#999" stroke-dasharray="4,4"/>
+<text x="230" y="86.14285714285714" text-anchor="end" class="label">log_zoo_index</text>
+<line x1="431.36453323421847" y1="82.14285714285714" x2="483.31796544830127" y2="82.14285714285714" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="457.3412493412599" cy="82.14285714285714" r="5" fill="#D1495B"/>
+<text x="491.31796544830127" y="86.14285714285714" class="tick">***</text>
+<text x="230" y="130.42857142857142" text-anchor="end" class="label">aqi_good_z</text>
+<line x1="311.0357818716821" y1="126.42857142857142" x2="323.0666601100203" y2="126.42857142857142" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="317.0512209908512" cy="126.42857142857142" r="5" fill="#D1495B"/>
+<text x="331.0666601100203" y="130.42857142857142" class="tick"></text>
+<text x="230" y="174.7142857142857" text-anchor="end" class="label">is_weekend</text>
+<line x1="287.12492780583915" y1="170.7142857142857" x2="335.4667502261407" y2="170.7142857142857" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="311.29583901598994" cy="170.7142857142857" r="5" fill="#D1495B"/>
+<text x="343.4667502261407" y="174.7142857142857" class="tick"></text>
+<text x="230" y="219.0" text-anchor="end" class="label">is_holiday</text>
+<line x1="274.3110681107223" y1="215.0" x2="322.35559855594437" y2="215.0" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="298.33333333333337" cy="215.0" r="5" fill="#D1495B"/>
+<text x="330.35559855594437" y="219.0" class="tick"></text>
+<text x="230" y="263.2857142857143" text-anchor="end" class="label">is_school_holiday</text>
+<line x1="305.81802908442467" y1="259.2857142857143" x2="331.88152674751854" y2="259.2857142857143" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="318.8497779159716" cy="259.2857142857143" r="5" fill="#D1495B"/>
+<text x="339.88152674751854" y="263.2857142857143" class="tick"></text>
+<text x="230" y="307.5714285714286" text-anchor="end" class="label">log_ticket_lag1</text>
+<line x1="834.1980017627086" y1="303.5714285714286" x2="929.1353315706248" y2="303.5714285714286" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="881.6666666666666" cy="303.5714285714286" r="5" fill="#D1495B"/>
+<text x="937.1353315706248" y="307.5714285714286" class="tick">***</text>
+<text x="230" y="351.8571428571429" text-anchor="end" class="label">log_ticket_lag7</text>
+<line x1="444.17938908224147" y1="347.8571428571429" x2="525.1354719414976" y2="347.8571428571429" stroke="#2E86AB" stroke-width="2"/>
+<circle cx="484.6574305118695" cy="347.8571428571429" r="5" fill="#D1495B"/>
+<text x="533.1354719414976" y="351.8571428571429" class="tick">***</text>
+<line x1="240.0" y1="370" x2="240.0" y2="376" stroke="#333"/>
+<text x="240.0" y="392" text-anchor="middle" class="tick">-0.08</text>
+<line x1="380.0" y1="370" x2="380.0" y2="376" stroke="#333"/>
+<text x="380.0" y="392" text-anchor="middle" class="tick">0.08</text>
+<line x1="520.0" y1="370" x2="520.0" y2="376" stroke="#333"/>
+<text x="520.0" y="392" text-anchor="middle" class="tick">0.24</text>
+<line x1="660.0" y1="370" x2="660.0" y2="376" stroke="#333"/>
+<text x="660.0" y="392" text-anchor="middle" class="tick">0.40</text>
+<line x1="800.0" y1="370" x2="800.0" y2="376" stroke="#333"/>
+<text x="800.0" y="392" text-anchor="middle" class="tick">0.56</text>
+<line x1="940.0" y1="370" x2="940.0" y2="376" stroke="#333"/>
+<text x="940.0" y="392" text-anchor="middle" class="tick">0.72</text>
+</svg>

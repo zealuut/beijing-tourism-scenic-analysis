@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="680" viewBox="0 0 960 680">
+<style>text{font-family:"Microsoft YaHei","SimHei","Arial Unicode MS",sans-serif;fill:#222} .small{font-size:12px} .tick{font-size:11px;fill:#555} .title{font-size:22px;font-weight:700} .label{font-size:14px} .legend{font-size:13px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="38" text-anchor="middle" class="title">POI入口压力指数与票务预约/入园治理压力</text>
+<line x1="90" y1="595" x2="920" y2="595" stroke="#333" stroke-width="1.4"/>
+<line x1="90" y1="70" x2="90" y2="595" stroke="#333" stroke-width="1.4"/>
+<line x1="90.0" y1="70" x2="90.0" y2="595" stroke="#ddd" stroke-width="1"/>
+<text x="90.0" y="617" text-anchor="middle" class="tick">20</text>
+<line x1="256.0" y1="70" x2="256.0" y2="595" stroke="#ddd" stroke-width="1"/>
+<text x="256.0" y="617" text-anchor="middle" class="tick">34</text>
+<line x1="422.0" y1="70" x2="422.0" y2="595" stroke="#ddd" stroke-width="1"/>
+<text x="422.0" y="617" text-anchor="middle" class="tick">48</text>
+<line x1="588.0" y1="70" x2="588.0" y2="595" stroke="#ddd" stroke-width="1"/>
+<text x="588.0" y="617" text-anchor="middle" class="tick">62</text>
+<line x1="754.0" y1="70" x2="754.0" y2="595" stroke="#ddd" stroke-width="1"/>
+<text x="754.0" y="617" text-anchor="middle" class="tick">76</text>
+<line x1="920.0" y1="70" x2="920.0" y2="595" stroke="#ddd" stroke-width="1"/>
+<text x="920.0" y="617" text-anchor="middle" class="tick">90</text>
+<line x1="90" y1="595.0" x2="920" y2="595.0" stroke="#ddd" stroke-width="1"/>
+<text x="80" y="599.0" text-anchor="end" class="tick">0</text>
+<line x1="90" y1="490.0" x2="920" y2="490.0" stroke="#ddd" stroke-width="1"/>
+<text x="80" y="494.0" text-anchor="end" class="tick">0.08</text>
+<line x1="90" y1="385.0" x2="920" y2="385.0" stroke="#ddd" stroke-width="1"/>
+<text x="80" y="389.0" text-anchor="end" class="tick">0.16</text>
+<line x1="90" y1="280.0" x2="920" y2="280.0" stroke="#ddd" stroke-width="1"/>
+<text x="80" y="284.0" text-anchor="end" class="tick">0.24</text>
+<line x1="90" y1="175.00000000000006" x2="920" y2="175.00000000000006" stroke="#ddd" stroke-width="1"/>
+<text x="80" y="179.00000000000006" text-anchor="end" class="tick">0.32</text>
+<line x1="90" y1="70.0" x2="920" y2="70.0" stroke="#ddd" stroke-width="1"/>
+<text x="80" y="74.0" text-anchor="end" class="tick">0.4</text>
+<text x="505.0" y="655" text-anchor="middle" class="label">POI入口压力指数</text>
+<text x="24" y="332.5" transform="rotate(-90 24 332.5)" text-anchor="middle" class="label">票务预约与入园主题 priority_index</text>
+<circle cx="651.1918685602895" cy="519.2788461538462" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="90.60672514619884" cy="500.87649402390446" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="248.18382506511378" cy="391.41879562043795" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="507.74364680082556" cy="504.9729241877257" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="699.21832768195" cy="514.1930970149255" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="244.94562079217647" cy="323.8851351351352" r="5.5" fill="#2E86AB" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<text x="252.94562079217647" y="315.8851351351352" class="small">明十三陵</text>
+<circle cx="610.9457671957672" cy="458.57526881720435" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="374.874663681262" cy="426.85053380782927" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="254.61243488623523" cy="545.0679347826087" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="278.7552521008404" cy="479.8684210526316" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="230.85838063295495" cy="470.11660447761204" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="541.140934443953" cy="551.4114391143912" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="611.9716340483561" cy="563.519372693727" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="810.4338511720479" cy="429.08018867924534" r="5.5" fill="#3D9970" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<text x="818.4338511720479" y="421.08018867924534" class="small">北京天文馆</text>
+<circle cx="706.280429935132" cy="476.77849264705884" r="5.5" fill="#3D9970" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<text x="714.280429935132" y="468.77849264705884" class="small">中国科学技术馆</text>
+<circle cx="158.81486805248414" cy="497.4493243243244" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="388.9721009017641" cy="198.25570342205333" r="7" fill="#2E86AB" stroke="#111" stroke-width="1.8" opacity="0.9"/>
+<text x="396.9721009017641" y="190.25570342205333" class="small">北京动物园</text>
+<circle cx="289.1256634232641" cy="533.5533707865169" r="5.5" fill="#D1495B" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="704.6833152120498" cy="453.173076923077" r="5.5" fill="#8E5EA2" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<circle cx="640.4152742968533" cy="500.905330882353" r="5.5" fill="#8E5EA2" stroke="white" stroke-width="1.0" opacity="0.9"/>
+<rect x="728" y="60" width="190" height="122" fill="white" stroke="#ddd"/>
+<text x="740" y="78" class="legend">聚类类型</text>
+<circle cx="740" cy="88" r="6" fill="#D1495B"/>
+<text x="754" y="92" class="legend">整体低压稳态型2</text>
+<circle cx="740" cy="112" r="6" fill="#2E86AB"/>
+<text x="754" y="116" class="legend">票务高压治理型</text>
+<circle cx="740" cy="136" r="6" fill="#3D9970"/>
+<text x="754" y="140" class="legend">服务票务复合型</text>
+<circle cx="740" cy="160" r="6" fill="#8E5EA2"/>
+<text x="754" y="164" class="legend">整体低压稳态型</text>
+<text x="90" y="628" class="small">Spearman相关系数: -0.111</text>
+</svg>

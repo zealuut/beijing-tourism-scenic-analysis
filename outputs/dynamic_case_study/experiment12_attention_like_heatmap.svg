@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<style>text{font-family:"Microsoft YaHei","SimHei","Arial Unicode MS",sans-serif;fill:#222} .title{font-size:22px;font-weight:700} .label{font-size:14px} .tick{font-size:11px;fill:#555} .legend{font-size:13px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.0" y="36" text-anchor="middle" class="title">时滞 attention 风格热力图</text>
+<text x="500.0" y="58" text-anchor="middle" class="tick">基于滞后贡献绝对值经 softmax 归一化，仅用于叙事可视化</text>
+<text x="137.0" y="68" text-anchor="middle" class="tick">lag1</text>
+<text x="191.0" y="68" text-anchor="middle" class="tick">lag2</text>
+<text x="245.0" y="68" text-anchor="middle" class="tick">lag3</text>
+<text x="299.0" y="68" text-anchor="middle" class="tick">lag4</text>
+<text x="353.0" y="68" text-anchor="middle" class="tick">lag5</text>
+<text x="407.0" y="68" text-anchor="middle" class="tick">lag6</text>
+<text x="461.0" y="68" text-anchor="middle" class="tick">lag7</text>
+<text x="515.0" y="68" text-anchor="middle" class="tick">lag8</text>
+<text x="569.0" y="68" text-anchor="middle" class="tick">lag9</text>
+<text x="623.0" y="68" text-anchor="middle" class="tick">lag10</text>
+<text x="677.0" y="68" text-anchor="middle" class="tick">lag11</text>
+<text x="731.0" y="68" text-anchor="middle" class="tick">lag12</text>
+<text x="785.0" y="68" text-anchor="middle" class="tick">lag13</text>
+<text x="839.0" y="68" text-anchor="middle" class="tick">lag14</text>
+<text x="94" y="111.0" text-anchor="end" class="label">高压日</text>
+<rect x="110" y="80" width="52" height="52" fill="rgb(209,75,75)" stroke="#fff"/>
+<text x="137.0" y="111.0" text-anchor="middle" class="tick">0.22</text>
+<rect x="164" y="80" width="52" height="52" fill="rgb(209,122,122)" stroke="#fff"/>
+<text x="191.0" y="111.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="218" y="80" width="52" height="52" fill="rgb(209,139,139)" stroke="#fff"/>
+<text x="245.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<rect x="272" y="80" width="52" height="52" fill="rgb(209,147,147)" stroke="#fff"/>
+<text x="299.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<rect x="326" y="80" width="52" height="52" fill="rgb(209,158,158)" stroke="#fff"/>
+<text x="353.0" y="111.0" text-anchor="middle" class="tick">0.05</text>
+<rect x="380" y="80" width="52" height="52" fill="rgb(209,140,140)" stroke="#fff"/>
+<text x="407.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<rect x="434" y="80" width="52" height="52" fill="rgb(209,134,134)" stroke="#fff"/>
+<text x="461.0" y="111.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="488" y="80" width="52" height="52" fill="rgb(209,147,147)" stroke="#fff"/>
+<text x="515.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<rect x="542" y="80" width="52" height="52" fill="rgb(209,157,157)" stroke="#fff"/>
+<text x="569.0" y="111.0" text-anchor="middle" class="tick">0.05</text>
+<rect x="596" y="80" width="52" height="52" fill="rgb(209,155,155)" stroke="#fff"/>
+<text x="623.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<rect x="650" y="80" width="52" height="52" fill="rgb(209,159,159)" stroke="#fff"/>
+<text x="677.0" y="111.0" text-anchor="middle" class="tick">0.05</text>
+<rect x="704" y="80" width="52" height="52" fill="rgb(209,159,159)" stroke="#fff"/>
+<text x="731.0" y="111.0" text-anchor="middle" class="tick">0.05</text>
+<rect x="758" y="80" width="52" height="52" fill="rgb(209,146,146)" stroke="#fff"/>
+<text x="785.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<rect x="812" y="80" width="52" height="52" fill="rgb(209,147,147)" stroke="#fff"/>
+<text x="839.0" y="111.0" text-anchor="middle" class="tick">0.06</text>
+<text x="94" y="165.0" text-anchor="end" class="label">常态日</text>
+<rect x="110" y="134" width="52" height="52" fill="rgb(209,93,93)" stroke="#fff"/>
+<text x="137.0" y="165.0" text-anchor="middle" class="tick">0.09</text>
+<rect x="164" y="134" width="52" height="52" fill="rgb(209,124,124)" stroke="#fff"/>
+<text x="191.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="218" y="134" width="52" height="52" fill="rgb(209,126,126)" stroke="#fff"/>
+<text x="245.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="272" y="134" width="52" height="52" fill="rgb(209,129,129)" stroke="#fff"/>
+<text x="299.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="326" y="134" width="52" height="52" fill="rgb(209,132,132)" stroke="#fff"/>
+<text x="353.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="380" y="134" width="52" height="52" fill="rgb(209,128,128)" stroke="#fff"/>
+<text x="407.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="434" y="134" width="52" height="52" fill="rgb(209,128,128)" stroke="#fff"/>
+<text x="461.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="488" y="134" width="52" height="52" fill="rgb(209,125,125)" stroke="#fff"/>
+<text x="515.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="542" y="134" width="52" height="52" fill="rgb(209,130,130)" stroke="#fff"/>
+<text x="569.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="596" y="134" width="52" height="52" fill="rgb(209,130,130)" stroke="#fff"/>
+<text x="623.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="650" y="134" width="52" height="52" fill="rgb(209,132,132)" stroke="#fff"/>
+<text x="677.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="704" y="134" width="52" height="52" fill="rgb(209,131,131)" stroke="#fff"/>
+<text x="731.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="758" y="134" width="52" height="52" fill="rgb(209,129,129)" stroke="#fff"/>
+<text x="785.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+<rect x="812" y="134" width="52" height="52" fill="rgb(209,127,127)" stroke="#fff"/>
+<text x="839.0" y="165.0" text-anchor="middle" class="tick">0.07</text>
+</svg>

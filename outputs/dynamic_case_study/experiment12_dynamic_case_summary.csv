@@ -1,0 +1,8 @@
+﻿metric,value
+sample_n,2635
+date_min,2019-04-01
+date_max,2026-04-17
+high_pressure_threshold_q90,420.0
+very_high_pressure_threshold_q95,919.9
+main_model_r2,0.9
+main_model_adj_r2,0.8997
