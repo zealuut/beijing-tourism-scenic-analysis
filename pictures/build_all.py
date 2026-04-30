@@ -270,9 +270,6 @@ def save_figure(fig: plt.Figure, folder_name: str, note: str | None = None) -> P
     folder = ensure_folder(folder_name)
     output_path = folder / "论文图片.png"
     fig.tight_layout()
-    if note:
-        fig.subplots_adjust(bottom=0.12)
-        fig.text(0.01, 0.015, note, fontsize=10, color=COLORS["muted"])
     fig.savefig(output_path, dpi=220, bbox_inches="tight")
     plt.close(fig)
     return output_path
@@ -809,16 +806,21 @@ def build_sarima_diagnostics(title: str, folder_name: str) -> Path:
     return save_figure(fig, folder_name, "若Ljung-Box检验p值大于0.05，可视为残差近似白噪声。")
 
 
-def add_title_strip(base_image: Image.Image, title: str, subtitle: str) -> Image.Image:
+def add_title_strip(base_image: Image.Image, title: str, subtitle: str | None = None) -> Image.Image:
     width, height = base_image.size
-    canvas = Image.new("RGB", (width, height + 120), color="#FBF8F2")
-    canvas.paste(base_image, (0, 120))
+    top_padding = 88 if not subtitle else 120
+    canvas = Image.new("RGB", (width, height + top_padding), color="#FBF8F2")
+    canvas.paste(base_image, (0, top_padding))
     draw = ImageDraw.Draw(canvas)
     title_font = pictures_font(32, bold=True)
     sub_font = pictures_font(17)
     draw.text((36, 24), title, font=title_font, fill="#2F2A26")
-    draw.text((36, 72), subtitle, font=sub_font, fill="#655C56")
-    draw.line((32, 102, width - 32, 102), fill="#D6CCC2", width=2)
+    if subtitle:
+        draw.text((36, 72), subtitle, font=sub_font, fill="#655C56")
+        line_y = 102
+    else:
+        line_y = 70
+    draw.line((32, line_y, width - 32, line_y), fill="#D6CCC2", width=2)
     return canvas
 
 
@@ -832,14 +834,14 @@ def save_pil_image(image: Image.Image, folder_name: str) -> Path:
 def build_lstm_attention_composite(title: str, folder_name: str) -> Path:
     source = REPO_ROOT / "outputs" / "LSTM_Attention_Metacognitio" / "LSTM_Attention_Metacognitio" / "第二版1.png"
     image = Image.open(source).convert("RGB")
-    final_image = add_title_strip(image, title, "依据保留结果图统一版式整理；图内展示训练损失与预测效果对比。")
+    final_image = add_title_strip(image, title)
     return save_pil_image(final_image, folder_name)
 
 
 def build_meta_lstm_uncertainty_composite(title: str, folder_name: str) -> Path:
     source = REPO_ROOT / "outputs" / "Meta_LSTM_Zoo_result" / "第六版" / "Figure_4.png"
     image = Image.open(source).convert("RGB")
-    final_image = add_title_strip(image, title, "依据保留结果图统一版式整理；重点保留不确定性区间表达。")
+    final_image = add_title_strip(image, title)
     return save_pil_image(final_image, folder_name)
 
 
