@@ -225,7 +225,7 @@
 
 脚本：
 
-- [11_run_experiment11_poi_case_study.py](</C:/baidunetdiskdownload/比赛/旅游景点分析/scripts/11_run_experiment11_poi_case_study.py:1>)
+- [11_run_experiment11_poi_case_analysis.py](</C:/baidunetdiskdownload/比赛/旅游景点分析/scripts/11_run_experiment11_poi_case_analysis.py:1>)
 
 主要输出目录：
 
@@ -244,3 +244,7 @@
 最推荐的表述是：
 
 > 为解释景区治理压力的空间环境成因，本文进一步基于 POI 和景区边界数据，构建了到达汇聚、周边活动强度、园内缓冲和空间容量四个维度的 POI 解释框架。进一步地，本文将四个维度统一转化为“POI入口压力指数”，用于刻画景区在入园前端形成治理压力的环境条件。该指数不直接等同于问题发生本身，而是作为前端治理压力的环境代理量，用于与文本识别得到的票务预约与入园治理问题进行对照分析。
+
+补充说明：
+
+- 若需要把该部分放入全文最后的综合案例中，建议与 `北京动物园综合案例分析说明.md` 联动使用。

@@ -1,7 +1,7 @@
 # 动态案例输出
 
 ## 1. 目的
-- 将 `multi_data_for_MetaLSTM.xlsx` 转成适合论文叙事的北京动物园动态案例数据。
+- 将 `data/time_series/beijing_zoo/beijing_zoo_multivariate_meta_lstm_input.xlsx` 转成适合论文叙事的北京动物园动态案例数据。
 - 主模型强调可解释性和显著性；attention 仅保留为辅助热力图。
 
 ## 2. 核心文件
